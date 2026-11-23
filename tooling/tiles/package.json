@@ -1,0 +1,14 @@
+{
+  "name": "@vice-route/tiles",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "gerar": "tsx src/gerar.ts"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5",
+    "yaml": "^2.9.1"
+  }
+}

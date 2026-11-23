@@ -51,7 +51,7 @@ TypeScript, pnpm + Turborepo, Nuxt 4, Leaflet (`CRS.Simple`), zod, Vitest, Supab
 
 ## Código
 
-Já implementados: o catálogo (2.334 nós: 2.182 itens de mapa, 91 missões principais, 45 secundárias, 8 ocultas e 8 gatilhos), o validador, os importadores e o motor de recomendação. Como rodar: [DESENVOLVIMENTO.md](DESENVOLVIMENTO.md).
+Já implementados: o catálogo (2.334 nós: 2.182 itens de mapa, 91 missões principais, 45 secundárias, 8 ocultas e 8 gatilhos), o validador, os importadores, o motor de recomendação e o mapa interativo (`apps/web`). Como rodar: [DESENVOLVIMENTO.md](DESENVOLVIMENTO.md).
 
 ## Próximos passos
 

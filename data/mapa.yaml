@@ -11,5 +11,5 @@ recorte: { x: 200, y: 200, largura: 5376, altura: 7500 }
 tiles:
   url: '/tiles/leonida-poster-2026-11-19/{z}/{x}/{y}.webp'
   tamanho: 512
-  zoom_nativo_max: 4
+  zoom_nativo_max: 3
   zoom_max: 5

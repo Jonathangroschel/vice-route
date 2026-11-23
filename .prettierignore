@@ -8,3 +8,6 @@ docs
 tooling/importers/src/open-gta6-map/controle.yaml
 golden/**/*.yaml
 .github
+apps/web/public/tiles
+apps/web/.nuxt
+apps/web/.output

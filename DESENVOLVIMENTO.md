@@ -16,6 +16,8 @@ pnpm verify          # formatação, tipos, testes e catalog:check
 
 | Pasta | O que é | Spec |
 |---|---|---|
+| `apps/web` | App Nuxt 4 (SPA estática): mapa Leaflet com tiles próprios, pinos agrupados, detalhe, busca, filtros, progresso, próximos passos e perdíveis do motor num Web Worker | 004 |
+| `tooling/tiles` | Gera a pirâmide de tiles a partir do pôster oficial (`pnpm tiles:gerar`) | 004 |
 | `packages/catalog-schema` | Esquema zod do catálogo (nós, condições, categorias, mapa) e tipos compilados | 001 |
 | `packages/catalog-build` | CLI `check`, `build` e `report`: carrega `data/`, valida o grafo, compila e pré-calcula | 001 |
 | `packages/engine` | Motor de recomendação: status, risco, pontuação, motivos e consultas ([README](packages/engine/README.md)) | 008 |
@@ -23,6 +25,23 @@ pnpm verify          # formatação, tipos, testes e catalog:check
 | `data/` | O catálogo em YAML (fonte da verdade) e `FONTES.md` com créditos | 001, 002 |
 | `golden/catalogo/` | Cenários-ouro do catálogo: `data/` + `esperado.yaml`; também servem de catálogos de teste do motor | 001 |
 | `golden/motor/` | Cenários-ouro do motor: catálogo de teste ou o catálogo real (`real-*.yaml`) + estado + asserções | 008 |
+
+## App web
+
+```bash
+pnpm --filter @vice-route/web dev       # compila o catálogo e sobe o Nuxt em http://localhost:3000
+pnpm --filter @vice-route/web build     # site estático em apps/web/.output/public (Vercel)
+```
+
+O progresso fica no `localStorage` do navegador até a spec 003 (contas). O motor roda num Web Worker (`app/workers/motor.worker.ts`).
+
+## Tiles do mapa
+
+```bash
+pnpm tiles:gerar caminho/do/poster.jpg
+```
+
+Usa `data/mapa.yaml` (edição, recorte, tamanho do tile), grava `apps/web/public/tiles/<edicao>/{z}/{x}/{y}.webp` e atualiza `zoom_nativo_max` conforme a resolução da imagem: o pôster web da Rockstar (2805 × 3840) vai até z3; o imprimível oficial (`Leonida_Map_Poster_Printable.zip`, 45 MB, 5775 × 7900) vai até z4.
 
 ## Catálogo
 

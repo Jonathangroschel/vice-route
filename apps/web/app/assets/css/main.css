@@ -1,0 +1,178 @@
+:root,
+:root[data-theme='dark'] {
+  --fundo: #0f1626;
+  --mar: #1d7fa6;
+  --folha: rgba(25, 30, 50, 0.96);
+  --folha-borda: rgba(255, 255, 255, 0.08);
+  --superficie: rgba(255, 255, 255, 0.07);
+  --superficie-forte: rgba(255, 255, 255, 0.12);
+  --texto: #f2f3f8;
+  --texto-suave: #a6abc0;
+  --texto-fraco: #6f7591;
+  --acento: #ff7ab6;
+  --acento-2: #ffb36b;
+  --perigo: #ff5d6c;
+  --ok: #4ade80;
+  --sombra: 0 8px 30px rgba(0, 0, 0, 0.35);
+  --raio: 18px;
+  color-scheme: dark;
+}
+
+:root[data-theme='light'] {
+  --fundo: #eef2f7;
+  --folha: rgba(255, 255, 255, 0.97);
+  --folha-borda: rgba(15, 22, 38, 0.1);
+  --superficie: rgba(15, 22, 38, 0.06);
+  --superficie-forte: rgba(15, 22, 38, 0.1);
+  --texto: #141a2b;
+  --texto-suave: #4d556e;
+  --texto-fraco: #7a819b;
+  --sombra: 0 8px 30px rgba(15, 22, 38, 0.18);
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__nuxt {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--fundo);
+  color: var(--texto);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+a {
+  color: var(--acento);
+}
+
+.leaflet-container {
+  background: var(--mar);
+  font: inherit;
+}
+
+.leaflet-control-attribution {
+  background: rgba(15, 22, 38, 0.6) !important;
+  color: #cfd3e3 !important;
+  font-size: 10px;
+}
+
+.leaflet-control-attribution a {
+  color: #ffd0e6 !important;
+}
+
+/* Marcadores */
+.vr-no,
+.vr-grupo {
+  background: transparent;
+  border: 0;
+}
+
+.vr-no > span {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #1a1f33;
+  border: 3px solid var(--cor);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  transition: transform 0.12s;
+}
+
+.vr-no:hover > span {
+  transform: scale(1.15);
+}
+
+.vr-no.concluido > span {
+  opacity: 0.35;
+}
+
+.vr-no.concluido > span::after {
+  content: '✓';
+}
+
+.vr-no.risco > span {
+  box-shadow:
+    0 0 0 3px rgba(255, 93, 108, 0.85),
+    0 2px 6px rgba(0, 0, 0, 0.45);
+  animation: pulso 1.6s infinite;
+}
+
+.vr-no.perdido > span {
+  opacity: 0.3;
+  filter: grayscale(1);
+}
+
+.vr-no.selecionado > span {
+  transform: scale(1.3);
+  border-color: #fff;
+}
+
+.vr-grupo > span {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: var(--anel);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+.vr-grupo > span > b {
+  display: grid;
+  place-items: center;
+  width: calc(100% - 8px);
+  height: calc(100% - 8px);
+  border-radius: 50%;
+  background: #1a1f33;
+  color: #fff;
+  font-size: 13px;
+}
+
+.vr-eu > span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #3b82f6;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 6px rgba(59, 130, 246, 0.35);
+}
+
+@keyframes pulso {
+  50% {
+    box-shadow:
+      0 0 0 7px rgba(255, 93, 108, 0.25),
+      0 2px 6px rgba(0, 0, 0, 0.45);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vr-no.risco > span {
+    animation: none;
+  }
+}

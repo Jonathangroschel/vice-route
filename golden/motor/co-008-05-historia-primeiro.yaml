@@ -1,0 +1,6 @@
+id: CO-008-05
+descricao: Perfil história primeiro coloca a próxima principal entre as 3 primeiras
+catalogo: campanha-linear
+estado: { ultimaPrincipal: 'missao:principal-005', perfil: historiaPrimeiro }
+espera:
+  posicao_em_proximos: { 'missao:principal-006': 3 }

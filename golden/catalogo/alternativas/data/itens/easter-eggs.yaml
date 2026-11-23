@@ -1,0 +1,100 @@
+- id: 'item:easter-eggs-a'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo A
+  posicao: { x: 100, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  duracao_min: 10
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-b'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo B
+  posicao: { x: 120, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  duracao_min: 5
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-c'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo C
+  posicao: { x: 140, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  duracao_min: 7
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-d'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo D
+  posicao: { x: 160, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  duracao_min: 3
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-e'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo E
+  posicao: { x: 180, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  duracao_min: 9
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-alvo-qualquer'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo ALVO-QUALQUER
+  posicao: { x: 200, y: 200, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  requer: { qualquer: [{ concluido: 'item:easter-eggs-a' }, { concluido: 'item:easter-eggs-b' }] }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-alvo-pelo-menos'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo ALVO-PELO-MENOS
+  posicao: { x: 220, y: 200, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  requer: { pelo_menos: { n: 3, de: [{ concluido: 'item:easter-eggs-a' }, { concluido: 'item:easter-eggs-b' }, { concluido: 'item:easter-eggs-c' }, { concluido: 'item:easter-eggs-d' }, { concluido: 'item:easter-eggs-e' }] } }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-alvo-nao'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo ALVO-NAO
+  posicao: { x: 240, y: 200, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  requer: { nao: { concluido: 'item:easter-eggs-a' } }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-alvo-variavel'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo ALVO-VARIAVEL
+  posicao: { x: 260, y: 200, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  requer: { variavel: { nome: escolha-cap1, igual: poupar } }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-alvo-todos'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo ALVO-TODOS
+  posicao: { x: 280, y: 200, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  requer: { todos: [{ concluido: 'item:easter-eggs-a' }, { concluido: 'item:easter-eggs-b' }] }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

@@ -18,9 +18,11 @@ pnpm verify          # formatação, tipos, testes e catalog:check
 |---|---|---|
 | `packages/catalog-schema` | Esquema zod do catálogo (nós, condições, categorias, mapa) e tipos compilados | 001 |
 | `packages/catalog-build` | CLI `check`, `build` e `report`: carrega `data/`, valida o grafo, compila e pré-calcula | 001 |
+| `packages/engine` | Motor de recomendação: status, risco, pontuação, motivos e consultas ([README](packages/engine/README.md)) | 008 |
 | `tooling/importers` | Importadores das fontes abertas e pontos de controle da transformação afim | 002 |
 | `data/` | O catálogo em YAML (fonte da verdade) e `FONTES.md` com créditos | 001, 002 |
-| `golden/catalogo/` | Cenários-ouro do catálogo: `data/` + `esperado.yaml` | 001 |
+| `golden/catalogo/` | Cenários-ouro do catálogo: `data/` + `esperado.yaml`; também servem de catálogos de teste do motor | 001 |
+| `golden/motor/` | Cenários-ouro do motor: catálogo + estado + asserções | 008 |
 
 ## Catálogo
 

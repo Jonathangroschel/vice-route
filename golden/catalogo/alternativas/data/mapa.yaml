@@ -1,0 +1,6 @@
+edicao: teste
+titulo: Mapa de teste
+origem: { url: 'https://exemplo.org/mapa.png', credito: Teste, publicada: '2026-11-19' }
+tamanho: { largura: 1000, altura: 1000 }
+recorte: { x: 0, y: 0, largura: 1000, altura: 1000 }
+tiles: { url: '/tiles/teste/{z}/{x}/{y}.webp', tamanho: 512, zoom_nativo_max: 1, zoom_max: 2 }

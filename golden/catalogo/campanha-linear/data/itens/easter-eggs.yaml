@@ -1,0 +1,40 @@
+- id: 'item:easter-eggs-a'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo A
+  posicao: { x: 100, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  disponivel_desde: { missao: 'missao:principal-003', momento: conclusao }
+  perdivel_apos: { missao: 'missao:principal-010', momento: inicio }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-b'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo B
+  posicao: { x: 900, y: 900, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-c'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo C
+  posicao: { x: 100, y: 900, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  perdivel_apos: { missao: 'missao:principal-005', momento: inicio }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-d'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo D
+  posicao: { x: 500, y: 500, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: referencia
+  disponivel_desde: { missao: 'missao:principal-015', momento: conclusao }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

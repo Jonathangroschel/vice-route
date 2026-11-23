@@ -1,0 +1,6 @@
+id: CO-008-04
+descricao: Em qualquer[A 10 min, B 5 min], o que falta é a alternativa mais barata (B)
+catalogo: alternativas
+estado: {}
+espera:
+  o_que_falta: { 'item:easter-eggs-alvo-qualquer': ['item:easter-eggs-b'] }

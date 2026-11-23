@@ -1,0 +1,7 @@
+id: CO-008-09
+descricao: Categoria ignorada some dos próximos passos, mas o perdível continua no aviso
+catalogo: campanha-linear
+estado: { ultimaPrincipal: 'missao:principal-004', categoriasIgnoradas: [easter-eggs] }
+espera:
+  fora_de_proximos: ['item:easter-eggs-c']
+  em_perdiveis: ['item:easter-eggs-c']

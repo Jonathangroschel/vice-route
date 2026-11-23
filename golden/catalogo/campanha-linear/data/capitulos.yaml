@@ -1,0 +1,8 @@
+- numero: 1
+  titulo: Capítulo 1
+  spoiler: 1
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- numero: 2
+  titulo: Capítulo 2
+  spoiler: 1
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

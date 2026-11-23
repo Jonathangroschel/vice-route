@@ -1,0 +1,14 @@
+id: CO-008-AUX-01
+descricao: pelo_menos, nao, variavel e todos (spec 008 H2)
+catalogo: alternativas
+estado: { concluidos: ['item:easter-eggs-a'] }
+espera:
+  status:
+    'item:easter-eggs-alvo-nao': perdido
+    'item:easter-eggs-alvo-qualquer': disponivel
+    'item:easter-eggs-alvo-variavel': bloqueado
+  o_que_falta:
+    'item:easter-eggs-alvo-pelo-menos': ['item:easter-eggs-d', 'item:easter-eggs-b']
+    'item:easter-eggs-alvo-todos': ['item:easter-eggs-b']
+  faltante_tipo: { 'item:easter-eggs-alvo-variavel': variavel_nao_informada }
+  motivo: { 'item:easter-eggs-alvo-nao': CAMINHO_EXCLUIDO }

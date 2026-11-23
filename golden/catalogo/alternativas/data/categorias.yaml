@@ -1,0 +1,9 @@
+- id: easter-eggs
+  nome: Easter eggs
+  grupo: colecionaveis
+  cor: '#ff6fae'
+  ordem: 1
+  total: null
+  regra_100: { tipo: nenhuma }
+  duracao_padrao_min: 5
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

@@ -74,10 +74,10 @@ export interface Resultado {
 export function recomendar(c: Catalogo, p: Precomputed, e: EstadoJogada, prm?: Parametros): Resultado;
 export function proximosPassos(r: Resultado, n?: number): ResultadoNo[];
 export function perdiveis(r: Resultado): Resultado['perdiveisPorMissao'];
-export function antesDeAvancar(c: Catalogo, p: Precomputed, r: Resultado, missao: string): { aoIniciar: string[]; aoConcluir: string[] };
-export function checklistCapitulo(c: Catalogo, r: Resultado, capitulo: number): ChecklistCapitulo;
-export function oQueFalta(c: Catalogo, r: Resultado, id: string, opts?: { recursivo?: boolean }): AtomoFaltante[];
-export function pertoDeMim(c: Catalogo, r: Resultado, pos: Ponto, raio: number): Array<ResultadoNo & { distancia: number }>;
+export function antesDeAvancar(p: Precomputed, r: Resultado, missao: string): { aoIniciar: string[]; aoConcluir: string[] };
+export function checklistCapitulo(c: Catalogo, p: Precomputed, r: Resultado, capitulo: number): ChecklistCapitulo;
+export function oQueFalta(r: Resultado, id: string, opts?: { recursivo?: boolean }): AtomoFaltante[];
+export function pertoDeMim(c: Catalogo, p: Precomputed, r: Resultado, pos: Ponto, raio: number): Array<ResultadoNo & { distancia: number; distanciaM: number | null }>;
 export function planoSessao(...args: unknown[]): { erro: 'nao_implementado' }; // spec 011
 
 // usadas no build (catalog-build) e reexportadas para testes
@@ -90,6 +90,8 @@ export function clusters(c: Catalogo, raio: number): ClusterIndex;
 Worker (Comlink): expõe `carregar(catalogo, precomputed)`, `calcular(estado, parametros)` e as consultas, trafegando objetos serializáveis (arrays em vez de `Map` na fronteira).
 
 Nada incompatível: é contrato novo.
+
+_Implementado em 23/11/2026 (`packages/engine`). Diferenças em relação a este esboço: assinaturas das consultas acima ajustadas; `ResultadoNo` ganhou `missoesAtePerderHerdado`; `Resultado` ganhou `indiceCampanha` e `capituloAtual`; `EstadoJogada` ganhou `contadores` (categorias com regra de 100% por contador); motivo extra `CATEGORIA_FECHADA` quando a regra de 100% da categoria já foi cumprida; janelas não implicam progresso na normalização._
 
 ## 4. Modelo de dados
 

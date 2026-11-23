@@ -1,0 +1,15 @@
+id: CO-008-01
+descricao: Cadeia de docs/04 §7 com a principal 11 concluída; o gatilho herda a urgência da oculta
+catalogo: cadeia-oculta
+estado: { ultimaPrincipal: 'missao:principal-011' }
+espera:
+  status:
+    'gatilho:loja-x-noite': disponivel
+    'missao:oculta-exemplo-01': bloqueado
+    'item:easter-eggs-007': bloqueado
+  em_risco: ['gatilho:loja-x-noite', 'missao:oculta-exemplo-01']
+  posicao_em_proximos: { 'gatilho:loja-x-noite': 1 }
+  motivo: { 'gatilho:loja-x-noite': DESTRAVA }
+  antes_de_avancar:
+    missao: 'missao:principal-015'
+    ao_iniciar: ['missao:oculta-exemplo-01', 'item:easter-eggs-007']

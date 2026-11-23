@@ -1,0 +1,8 @@
+id: CO-008-06
+descricao: Perdível na próxima principal, longe, fica acima do não perdível colado no jogador
+catalogo: campanha-linear
+estado: { ultimaPrincipal: 'missao:principal-004', posicao: { x: 900, y: 900 } }
+espera:
+  posicao_em_proximos: { 'item:easter-eggs-c': 1 }
+  acima_de: [['item:easter-eggs-c', 'item:easter-eggs-b']]
+  motivo: { 'item:easter-eggs-c': PERDIVEL_EM, 'item:easter-eggs-b': PERTO }

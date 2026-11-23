@@ -1,0 +1,10 @@
+- id: 'missao:principal-001'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 1
+  ordem: 1
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

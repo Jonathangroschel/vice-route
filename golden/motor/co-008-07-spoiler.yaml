@@ -1,0 +1,7 @@
+id: CO-008-07
+descricao: Com teto de spoiler 1, nenhuma frase cita nome de missão (spoiler 2)
+catalogo: cadeia-oculta
+estado: { ultimaPrincipal: 'missao:principal-011', tetoSpoiler: 1 }
+espera:
+  texto_nao_contem: ['Principal 15', 'Missão oculta de exemplo']
+  texto_contem: ['uma missão do capítulo 2']

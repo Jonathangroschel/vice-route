@@ -45,6 +45,22 @@ importers:
         specifier: ^4.6.7
         version: 4.6.7
 
+  packages/engine:
+    dependencies:
+      '@vice-route/catalog-schema':
+        specifier: workspace:*
+        version: link:../catalog-schema
+    devDependencies:
+      '@vice-route/catalog-build':
+        specifier: workspace:*
+        version: link:../catalog-build
+      yaml:
+        specifier: ^2.9.1
+        version: 2.9.1
+      zod:
+        specifier: ^4.6.7
+        version: 4.6.7
+
   tooling/importers:
     dependencies:
       '@vice-route/catalog-build':

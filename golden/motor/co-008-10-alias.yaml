@@ -1,0 +1,6 @@
+id: CO-008-10
+descricao: Item marcado com ID antigo (alias) conta para o nó atual
+catalogo: fusao-alias
+estado: { concluidos: ['item:easter-eggs-b'] }
+espera:
+  status: { 'item:easter-eggs-a': concluido }

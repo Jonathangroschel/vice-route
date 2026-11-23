@@ -1,0 +1,219 @@
+- id: 'missao:principal-001'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 1
+  ordem: 1
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-002'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 2
+  ordem: 2
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-001' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-003'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 3
+  ordem: 3
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-002' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-004'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 4
+  ordem: 4
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-003' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-005'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 5
+  ordem: 5
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-004' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-006'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 6
+  ordem: 6
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-005' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-007'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 7
+  ordem: 7
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-006' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-008'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 8
+  ordem: 8
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-007' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-009'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 9
+  ordem: 9
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-008' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-010'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 10
+  ordem: 10
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-009' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-011'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 11
+  ordem: 11
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-010' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-012'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 12
+  ordem: 12
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-011' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-013'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 13
+  ordem: 13
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-012' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-014'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 14
+  ordem: 14
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-013' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-015'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 15
+  ordem: 15
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-014' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-016'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 16
+  ordem: 16
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-015' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-017'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 17
+  ordem: 17
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-016' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-018'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 18
+  ordem: 18
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-017' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-019'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 19
+  ordem: 19
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-018' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-020'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 20
+  ordem: 20
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  duracao_min: 20
+  requer: { concluido: 'missao:principal-019' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

@@ -1,0 +1,10 @@
+id: CO-008-03
+descricao: Marcar a principal 12 conclui as principais 1 a 11 sem gravação extra
+catalogo: campanha-linear
+estado: { concluidos: ['missao:principal-012'], ultimaPrincipal: null }
+espera:
+  status:
+    'missao:principal-001': concluido
+    'missao:principal-011': concluido
+    'missao:principal-013': disponivel
+    'missao:principal-014': bloqueado

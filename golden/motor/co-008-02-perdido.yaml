@@ -1,0 +1,8 @@
+id: CO-008-02
+descricao: Principal 15 iniciada sem fazer a oculta; tudo da cadeia fica perdido
+catalogo: cadeia-oculta
+estado: { ultimaPrincipal: 'missao:principal-011', principalEmAndamento: 'missao:principal-015' }
+espera:
+  status:
+    'missao:oculta-exemplo-01': perdido
+    'item:easter-eggs-007': perdido

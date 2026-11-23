@@ -1,0 +1,6 @@
+- nome: escolha-cap1
+  rotulo: Escolha do capítulo 1
+  tipo: escolha
+  opcoes: [{ valor: poupar, rotulo: Poupar }, { valor: eliminar, rotulo: Eliminar }]
+  spoiler: 3
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

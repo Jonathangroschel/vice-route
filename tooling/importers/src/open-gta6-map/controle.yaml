@@ -1,0 +1,142 @@
+# Pontos de controle Open GTA 6 Map → imagem-base. Gerado por pnpm import:controle; pares com manual: true são preservados.
+
+gerado_em: 2026-11-23
+edicao: leonida-poster-2026-11-19
+pares:
+  - nome: Vice Beach (rótulo)
+    fonte: { x: 558.6, y: 485.3 }
+    base: { x: 4900, y: 3866 }
+    erro_px: 69
+  - nome: Hamlet (rótulo)
+    fonte: { x: 421.4, y: 610.6 }
+    base: { x: 3270, y: 5413 }
+    erro_px: 67
+  - nome: Capri (rótulo)
+    fonte: { x: 289.3, y: 506.8 }
+    base: { x: 1665, y: 4171 }
+    erro_px: 132
+  - nome: Key Lento (rótulo)
+    fonte: { x: 437, y: 700.4 }
+    base: { x: 3271, y: 6579 }
+    erro_px: 154
+  - nome: Watson Bay (rótulo)
+    fonte: { x: 358.9, y: 619.5 }
+    base: { x: 2498, y: 5559 }
+    erro_px: 58
+  - nome: Port Gellhorn (rótulo)
+    fonte: { x: 305.8, y: 379.8 }
+    base: { x: 1756, y: 2822 }
+    erro_px: 94
+  - nome: Waning Sands (rótulo)
+    fonte: { x: 503.1, y: 387.4 }
+    base: { x: 4270, y: 2555 }
+    erro_px: 148
+  - nome: Sahara Arena
+    fonte: { x: 502.5, y: 498.6 }
+    base: { x: 4167, y: 4073 }
+    erro_px: 61
+  - nome: Fleeca Field
+    fonte: { x: 461.8, y: 479.6 }
+    base: { x: 3670, y: 3851 }
+    erro_px: 38
+  - nome: Three Toe Lake
+    fonte: { x: 389, y: 523.3 }
+    base: { x: 2763, y: 4390 }
+    erro_px: 41
+  - nome: Mile Zero Air Station
+    fonte: { x: 294.6, y: 712.1 }
+    base: { x: 1608, y: 6870 }
+    erro_px: 132
+  - nome: Thrillbilly Mud Club
+    fonte: { x: 386.8, y: 363.4 }
+    base: { x: 2773, y: 2482 }
+    erro_px: 20
+  - nome: Ambrosia Raceway Park
+    fonte: { x: 418.9, y: 366.9 }
+    base: { x: 3118, y: 2420 }
+    erro_px: 73
+  - nome: Lake Leonida
+    fonte: { x: 450.3, y: 364.1 }
+    base: { x: 3492, y: 2478 }
+    erro_px: 63
+  - nome: Tisha-Wocka Flea Market
+    fonte: { x: 424.9, y: 489.6 }
+    base: { x: 3195, y: 3958 }
+    erro_px: 41
+  - nome: Manifest Canyon
+    fonte: { x: 356.1, y: 351.8 }
+    base: { x: 2250, y: 2333 }
+    erro_px: 135
+  - nome: Tortoise Lake
+    fonte: { x: 308.6, y: 501.3 }
+    base: { x: 1802, y: 4110 }
+    erro_px: 89
+  - nome: Henry J Edwards Airport
+    fonte: { x: 327.3, y: 589.2 }
+    base: { x: 2100, y: 5196 }
+    erro_px: 64
+  - nome: Boone Speedway
+    fonte: { x: 415.4, y: 617.5 }
+    base: { x: 3162, y: 5513 }
+    erro_px: 29
+  - nome: Sandbars
+    fonte: { x: 222.7, y: 411.6 }
+    base: { x: 826, y: 3197 }
+    erro_px: 61
+  - nome: Corsair Key
+    fonte: { x: 472.8, y: 653.6 }
+    base: { x: 3902, y: 5832 }
+    erro_px: 103
+  - nome: Vice City Oceanarium
+    fonte: { x: 512.3, y: 566.9 }
+    base: { x: 4260, y: 4846 }
+    erro_px: 49
+  - nome: Riquezas Keys
+    fonte: { x: 259.4, y: 681.3 }
+    base: { x: 1248, y: 6555 }
+    erro_px: 145
+  - nome: Lake Tallaloko
+    fonte: { x: 458.3, y: 289.4 }
+    base: { x: 3641, y: 1617 }
+    erro_px: 101
+  - nome: Saint Attaway Islands
+    fonte: { x: 413.3, y: 246.1 }
+    base: { x: 3051, y: 1045 }
+    erro_px: 22
+  - nome: Crude Islands
+    fonte: { x: 247.1, y: 437.1 }
+    base: { x: 1090, y: 3452 }
+    erro_px: 28
+  - nome: Wild Hog Point
+    fonte: { x: 275.7, y: 409.6 }
+    base: { x: 1422, y: 3077 }
+    erro_px: 38
+  - nome: Permit Keys
+    fonte: { x: 331.6, y: 710.7 }
+    base: { x: 2103, y: 6663 }
+    erro_px: 52
+  - nome: Big Pine
+    fonte: { x: 345.3, y: 565.1 }
+    base: { x: 2270, y: 4920 }
+    erro_px: 20
+  - nome: Shoeless Keys
+    fonte: { x: 436.6, y: 663.9 }
+    base: { x: 3483, y: 5990 }
+    erro_px: 113
+  - nome: Cottonmouth Lake
+    fonte: { x: 403.2, y: 661.6 }
+    base: { x: 2947, y: 6053 }
+    erro_px: 44
+descartados:
+  - nome: Vice City (rótulo)
+    erro_px: 388
+  - nome: Gloriana Key (rótulo)
+    erro_px: 246
+  - nome: Ambrosia (rótulo)
+    erro_px: 192
+  - nome: MacAlister Gold Mine
+    erro_px: 306
+  - nome: Bobcat Key
+    erro_px: 178
+  - nome: Emerald Springs
+    erro_px: 364

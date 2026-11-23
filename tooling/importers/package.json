@@ -1,0 +1,18 @@
+{
+  "name": "@vice-route/importers",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "controle": "tsx src/open-gta6-map/controle.ts",
+    "limiares": "tsx src/limiares/importar.ts",
+    "open-gta6-map": "tsx src/open-gta6-map/importar.ts"
+  },
+  "dependencies": {
+    "@vice-route/catalog-build": "workspace:*",
+    "@vice-route/catalog-schema": "workspace:*",
+    "yaml": "^2.9.1"
+  }
+}

@@ -1,0 +1,5 @@
+export * from './comum.ts'
+export * from './condicao.ts'
+export * from './no.ts'
+export * from './estrutura.ts'
+export type * from './compilado.ts'

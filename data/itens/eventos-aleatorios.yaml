@@ -1,0 +1,2424 @@
+# Itens da categoria eventos-aleatorios. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:eventos-aleatorios-001
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Swamp Monster
+  regiao: regiao:grassrivers
+  posicao: { x: 3175, y: 6182, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Swamp monster heard screaming and killing a deer then running off into the forest with green smoke coming off it, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-001 }
+  status: referencia
+- id: item:eventos-aleatorios-002
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Bigfoot
+  regiao: regiao:hamlet
+  posicao: { x: 3027, y: 5454, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: You can hear roars and chase him through the marshes and I came across a wicker man and passed out. Came too in the marshes, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-002 }
+  status: referencia
+- id: item:eventos-aleatorios-003
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Redneck Shooting Party
+  regiao: regiao:leonida-keys
+  posicao: { x: 2407, y: 2694, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two possibly intoxicated rednecks practising their aim in the middle of nowhere aaaaand.. you can join, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-003 }
+  status: referencia
+- id: item:eventos-aleatorios-004
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Plane crash
+  regiao: regiao:hamlet
+  posicao: { x: 3161, y: 5707, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Plane crashed with a shipment of drugs > Collect it > Kill the NPCs > Watch out, cops are coming > Sell the drugs at Bayn’s warehouse", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-004 }
+  status: referencia
+- id: item:eventos-aleatorios-005
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Tree man
+  regiao: regiao:hamlet
+  posicao: { x: 3190, y: 5675, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A humanoid-shaped tree surrounded by flowers that release spores; if you stay nearby for too long, a cutscene featuring a creature will be triggered.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-005 }
+  status: referencia
+- id: item:eventos-aleatorios-006
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: X-Files Close Encounter
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2104, y: 3046, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "An abandoned car sits on the roadside, all doors wide open, emitting strange electronic noises. A trail of discarded clothes leads into the nearby woods. Follow it deeper into the forest to uncover a... weird encounter.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-006 }
+  status: referencia
+- id: item:eventos-aleatorios-007
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Store Hostage Rescue
+  regiao: regiao:hamlet
+  posicao: { x: 3267, y: 5437, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Jason/Lucia encounters a vehicle with an open trunk and a blood trail leading into a dark building, where 2 men hold a store manager hostage. A unique shotgun can be found be found near the room inside.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-007 }
+  status: referencia
+- id: item:eventos-aleatorios-008
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drunkard Asking for Money
+  regiao: regiao:leonida-keys
+  posicao: { x: 3076, y: 6741, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Drunkark going around asking for money, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-008 }
+  status: referencia
+- id: item:eventos-aleatorios-009
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "Plane Crash: Cocaine and Map"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2748, y: 5766, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: This is a crashed plane with a map to deliver the cocaine. 2 bundles of cocaine are located next to the plane, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-009 }
+  status: referencia
+- id: item:eventos-aleatorios-010
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Wheelchair Robbery
+  regiao: regiao:leonida-keys
+  posicao: { x: 3105, y: 6759, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-010 }
+  status: referencia
+- id: item:eventos-aleatorios-011
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Hijack a Robbery
+  regiao: regiao:leonida-keys
+  posicao: { x: 3138, y: 6702, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A Mother and Daughter will be robbing the liquor store late at night; you can take their filled van off them and get about $1.5K from the back of the van. Van also has extra storage spots, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-011 }
+  status: referencia
+- id: item:eventos-aleatorios-012
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Cocaine Yacht
+  regiao: regiao:hamlet
+  posicao: { x: 1552, y: 5249, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "If you follow the map from the plane crash in Pellican Valley, you'll find the yacht where the plane was supposed to deliver cocaine. On board, some cash and cocaine to grab", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-012 }
+  status: referencia
+- id: item:eventos-aleatorios-013
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "Traffic Stop: Drunk Steals Cop Car"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3234, y: 6667, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A drunk guy is stopped by two cops and taunts them before hopping in a squad car to take it for a joy ride., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-013 }
+  status: referencia
+- id: item:eventos-aleatorios-014
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Gas Redneck
+  regiao: regiao:leonida-keys
+  posicao: { x: 3553, y: 6243, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A redneck ranting about the deep state is filling up a bathtub in a pickup truck bed with gasoline. He will spray it at the player if they get too close and will usually drive off and explode as he crashes somehow, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-014 }
+  status: referencia
+- id: item:eventos-aleatorios-015
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Smuggler Boat Explosion
+  regiao: regiao:leonida-keys
+  posicao: { x: 2824, y: 6260, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Cocaine Smuggler Boat explodes around here. Easy $1.2k in drugs. Watch out for the sharks. Marker may need some adjusting but it’s roughly correct, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-015 }
+  status: referencia
+- id: item:eventos-aleatorios-016
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "UFO Event: Suspicious Car"
+  regiao: regiao:hamlet
+  posicao: { x: 2136, y: 2135, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Find a car acting suspiciously, inspect the scene.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-016 }
+  status: referencia
+- id: item:eventos-aleatorios-017
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Apeology 101
+  regiao: regiao:leonida-keys
+  posicao: { x: 2862, y: 5541, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Speak to the stranger flying the drones., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-017 }
+  status: referencia
+- id: item:eventos-aleatorios-018
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Van Stuck in the Mud
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2050, y: 3121, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Help push the van out of the mud., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-018 }
+  status: referencia
+- id: item:eventos-aleatorios-019
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Missing Wife
+  regiao: regiao:leonida-keys
+  posicao: { x: 3428, y: 6420, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Help Alan Coleman find his wife after a car accident., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-019 }
+  status: referencia
+- id: item:eventos-aleatorios-020
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Cocaine Yacht Shark Attack
+  regiao: regiao:hamlet
+  posicao: { x: 1959, y: 5607, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "As you boat through here you hear an explosion: a small boat is on fire after a shark attack. About 4 bags of cocaine float around it.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-020 }
+  status: referencia
+- id: item:eventos-aleatorios-021
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Van Stuck in the Mud
+  regiao: regiao:leonida-keys
+  posicao: { x: 2668, y: 7024, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Two men are stuck with their van in the mud: help push it out for $200.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-021 }
+  status: referencia
+- id: item:eventos-aleatorios-022
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Witch of the Swamp
+  regiao: regiao:grassrivers
+  posicao: { x: 3155, y: 5995, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A woman called the Witch of the Swamp talks about the swamp and asks you to come back a few days later., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-022 }
+  status: referencia
+- id: item:eventos-aleatorios-023
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Hunter Shoots His Friend
+  regiao: regiao:hamlet
+  posicao: { x: 2184, y: 4915, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: You hear a gunshot and find two hunters arguing. They ask you to take them to the Hamlet hospital., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-023 }
+  status: referencia
+- id: item:eventos-aleatorios-024
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: VR Gamer (house)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3580, y: 6270, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "There's a gamer inside the house that's using VR to watch adult content. You get sound notification when you pass the house. There's a couple of other things to do here, a Smash 'n' Grab, unique vehicle in the garage and a Basketball hoop. There's also a safe beside the bed you…", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-024 }
+  status: referencia
+- id: item:eventos-aleatorios-025
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drug Deal
+  regiao: regiao:leonida-keys
+  posicao: { x: 2425, y: 6990, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Multiple Cars and a fanboat parked around a stash bag and some gas cans at night. Flares are scattered around. Multiple weapons available and roughly $1.8k in drugs plus some cash., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-025 }
+  status: referencia
+- id: item:eventos-aleatorios-026
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Kingfishers Ambush on the Road
+  regiao: regiao:leonida-keys
+  posicao: { x: 2436, y: 7008, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: If you have done the robbery with donnie you might get this event where kingfisher ambush you on the highway while blocking the road and shooting at you, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-026 }
+  status: referencia
+- id: item:eventos-aleatorios-027
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Investigate the Photos
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1847, y: 3069, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: (Investigation into the missing persons photos around the area.) The photos you found could be connected to the missing persons posters in Port Gellhorn. Workout where they were taken to find out if there's a connection., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-027 }
+  status: referencia
+- id: item:eventos-aleatorios-028
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Yard Sale (Arthur Morgan hat)
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1814, y: 3211, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: There's a yard sale here with an Arthur Morgan hat, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-028 }
+  status: referencia
+- id: item:eventos-aleatorios-029
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Alien Witness
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1710, y: 2793, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: He says that he saw an alien in this location, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-029 }
+  status: referencia
+- id: item:eventos-aleatorios-030
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Hollow Earther's Camp
+  regiao: regiao:leonida-keys
+  posicao: { x: 2478, y: 3344, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-030 }
+  status: referencia
+- id: item:eventos-aleatorios-031
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Exploding Smuggler Boat
+  regiao: regiao:leonida-keys
+  posicao: { x: 2874, y: 6601, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A boat with cocaine explodes and the driver gets eaten by a shark. You can collect 3-4 packages cocaine per $400 each., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-031 }
+  status: referencia
+- id: item:eventos-aleatorios-032
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Garage Band
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1876, y: 2671, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two dudes on garage, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-032 }
+  status: referencia
+- id: item:eventos-aleatorios-033
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Save the Cow
+  regiao: regiao:vice-city
+  posicao: { x: 2983, y: 3213, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A well-dressed show cow escapes. Return her to her owner... or don't., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-033 }
+  status: referencia
+- id: item:eventos-aleatorios-034
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Missing Person Poster
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1876, y: 2600, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 'A missing person poster from Port Gellhorn, found under the floorboards of the RV with "no lives" spray-painted next to the door.', spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-035 }
+  status: referencia
+- id: item:eventos-aleatorios-035
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Fortune Teller
+  regiao: regiao:leonida-keys
+  posicao: { x: 3097, y: 6772, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A fortune teller: bad advice for $1, good advice for $5, great advice for $10, a secret for $100 and your future for $1,000.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-036 }
+  status: referencia
+- id: item:eventos-aleatorios-036
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Save the Bear Protest
+  regiao: regiao:leonida-keys
+  posicao: { x: 2394, y: 1791, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Protesters block the street to free a bear from the back of a van. Convince the driver to let it out: it is a polar bear, which you can shoot and send to Bret.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-037 }
+  status: referencia
+- id: item:eventos-aleatorios-037
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Cool Dog on a Jet Ski
+  regiao: regiao:leonida-keys
+  posicao: { x: 2810, y: 6229, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Jump off a boat in this area and swim for a moment until you hear a dog barking. Turn around to find a dog on a jet ski: hop on and he takes you to a dog island.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-038 }
+  status: referencia
+- id: item:eventos-aleatorios-038
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Cigarette Trick
+  regiao: regiao:leonida-keys
+  posicao: { x: 3094, y: 6777, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man shows you a cigarette trick if you give him a cigarette., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-039 }
+  status: referencia
+- id: item:eventos-aleatorios-039
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Escaped Prisoners
+  regiao: regiao:leonida-keys
+  posicao: { x: 2397, y: 3492, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-040 }
+  status: referencia
+- id: item:eventos-aleatorios-040
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Trailer Girl (yacht)
+  regiao: regiao:vice-city
+  posicao: { x: 4421, y: 3500, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "The woman from the GTA 6 trailer, found on Mattia's yacht.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-041 }
+  status: referencia
+- id: item:eventos-aleatorios-041
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Truck Stuck in the Mud
+  regiao: regiao:vice-city
+  posicao: { x: 3134, y: 5872, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A truck stuck in the mud., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-042 }
+  status: referencia
+- id: item:eventos-aleatorios-042
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "Missing Person: Sunken Car"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1653, y: 3007, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In a sunken car at the edge of the lake; only the rusted roof racks show above the water., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-043 }
+  status: referencia
+- id: item:eventos-aleatorios-043
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "Missing Person: Pink Car (PRTYGRL)"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1799, y: 2848, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Find the pink car with the plate PRTYGRL, under another car, and open the trunk to find the body.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-044 }
+  status: referencia
+- id: item:eventos-aleatorios-044
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Bear Encounter
+  regiao: regiao:vice-city
+  posicao: { x: 3261, y: 1586, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A tourist confronted by a bear asks you what to do., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-045 }
+  status: referencia
+- id: item:eventos-aleatorios-045
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Kitty Drug Bust
+  regiao: regiao:ambrosia
+  posicao: { x: 3115, y: 2661, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Police block the road while they raid a house., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-046 }
+  status: referencia
+- id: item:eventos-aleatorios-046
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Caleb, the Drunk Tractor Driver
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2871, y: 3071, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A drunk tractor driver asks you to drive him to Stacy, his ex-boss.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-047 }
+  status: referencia
+- id: item:eventos-aleatorios-047
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: People Jumping in the Water
+  regiao: regiao:leonida-keys
+  posicao: { x: 2288, y: 2667, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A group asks you to jump into the water with them. You can accept or leave., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-048 }
+  status: referencia
+- id: item:eventos-aleatorios-048
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Cigarette Trick (outdoor bar)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3453, y: 6216, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Give a cigarette to the man with long brown hair and sunglasses and he tries a trick. Seen at night at the outdoor bar., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-049 }
+  status: referencia
+- id: item:eventos-aleatorios-049
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Stolen Tiger in Van
+  regiao: regiao:vice-city
+  posicao: { x: 3203, y: 6116, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two men with a stuck van. Open the van to find a stolen tiger., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-050 }
+  status: referencia
+- id: item:eventos-aleatorios-050
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Hunter Shoots His Friend
+  regiao: regiao:hamlet
+  posicao: { x: 3279, y: 5694, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "You hear gunshots and find two hunters: one shot his friend, mistaking him for a deer. Get both into your vehicle and drive them to the nearest hospital before the wounded hunter gets worse.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-051 }
+  status: referencia
+- id: item:eventos-aleatorios-051
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Mandy Filming Her Neighbor
+  regiao: regiao:leonida-keys
+  posicao: { x: 3471, y: 6281, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Meet Mandy in front of a yellow house, next to a small blue cottage. She is secretly filming her naked neighbor.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-052 }
+  status: referencia
+- id: item:eventos-aleatorios-052
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Brofile Pic
+  regiao: regiao:leonida-keys
+  posicao: { x: 3209, y: 6665, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Three guys drinking on top of the Wonder Whale ask you to take a picture of them., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-053 }
+  status: referencia
+- id: item:eventos-aleatorios-053
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Robbed at the ATM
+  regiao: regiao:leonida-keys
+  posicao: { x: 3510, y: 6305, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man in a floral shirt pulls a gun as you start a deposit and demands all your cash. Hand it over, or refuse and he tries to kill you.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-054 }
+  status: referencia
+- id: item:eventos-aleatorios-054
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  regiao: regiao:leonida-keys
+  posicao: { x: 2784, y: 5619, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: One of the three skunk ape effigies., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-055 }
+  status: referencia
+- id: item:eventos-aleatorios-055
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  regiao: regiao:leonida-keys
+  posicao: { x: 2862, y: 5710, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: One of the three skunk ape effigies., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-056 }
+  status: referencia
+- id: item:eventos-aleatorios-056
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  regiao: regiao:leonida-keys
+  posicao: { x: 2935, y: 5660, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: One of the three skunk ape effigies., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-057 }
+  status: referencia
+- id: item:eventos-aleatorios-057
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drunk Man at the Rusty Anchor
+  regiao: regiao:leonida-keys
+  posicao: { x: 3466, y: 6211, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A drunk man stumbles outside the Rusty Anchor asking for cash. Give him money for a ride home, or watch him water the plants and drive off drunk in his boat.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-058 }
+  status: referencia
+- id: item:eventos-aleatorios-058
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Dumpster Diver
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2248, y: 2980, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "During Chapter 2, a dumpster diver at the motel where Jason and Lucia are staying.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-059 }
+  status: referencia
+- id: item:eventos-aleatorios-059
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: A Couple's Dream
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2252, y: 2977, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A couple near the motel's reception entrance, dreaming about their future.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-060 }
+  status: referencia
+- id: item:eventos-aleatorios-060
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Payday Loan Crashout
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1849, y: 2843, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside Cash Flow Loans on Gellhorn Avenue, Port Gellhorn: a bald man rages at the ATM and cracks its screen.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-061 }
+  status: referencia
+- id: item:eventos-aleatorios-061
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Iguana Target Practice
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1994, y: 2883, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 'Three "ecologists" are shooting pumpkins. They challenge you to a $250 contest: shoot the most iguanas after they release them from a cage.', spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-062 }
+  status: referencia
+- id: item:eventos-aleatorios-062
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Alien Encounter
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2148, y: 2945, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A car sits on the road with all doors open, headlights flashing and a glitching radio. Further along, a bright light in a field: a naked middle-aged woman being beamed up by a tractor beam.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-063 }
+  status: referencia
+- id: item:eventos-aleatorios-063
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Mudslider Mechanic
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2253, y: 2978, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A mechanic fixing his car for the mudslide race asks you to sit in the driver's seat and rev the engine a few times until it is fixed., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-064 }
+  status: referencia
+- id: item:eventos-aleatorios-064
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Fox Furry Cornered by Police
+  regiao: regiao:vice-city
+  posicao: { x: 3432, y: 4066, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man in a fox costume cornered by the police., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-065 }
+  status: referencia
+- id: item:eventos-aleatorios-065
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Plane Crash (highway)
+  posicao: { x: 2200, y: 2225, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Driving on the highway you see a small plane trailing black smoke. Follow it to where it crashes on the nearby hill., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-066 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-066
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: UFO Believer (Human Sibling)
+  posicao: { x: 2106, y: 2939, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man standing on the hood of his pickup talks to you about UFOs. May only appear after the nearby UFO encounter., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-067 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-067
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Influencer Livestreaming on Bridge
+  posicao: { x: 4241, y: 3419, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man on the bridge is livestreaming., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-068 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-068
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Undercover Cop Torture
+  posicao: { x: 1760, y: 3185, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In this warehouse two men are torturing a tied-up plain-clothes police officer. Listen in, or kill them and untie the cop.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-069 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-069
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Polar Bear Activists
+  posicao: { x: 2881, y: 1497, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Activists trying to free polar bears., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-070 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-070
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Car Accident
+  posicao: { x: 4157, y: 3785, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A car crash with a bag you can steal., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-071 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-071
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Stash Bust
+  posicao: { x: 1961, y: 2659, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Cops have seized $1,200 of product. Kill them to take the bag and sell it at Dunks.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-072 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-072
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Van Stuck in the Mud
+  posicao: { x: 3057, y: 3645, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A vehicle stuck by the water, the driver asks for help. Open the back door: a tiger jumps out and eats him.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-073 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-073
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: The Ritual of Sacrifice
+  posicao: { x: 1781, y: 4136, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the building there is an icon: bring a human corpse to it to start a mini-quest.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-074 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-074
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Shirley, the Neighbor
+  posicao: { x: 3441, y: 6318, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Shirley offers two side jobs during the chapter: bring her a bottle of rum, and steal her friend's scooter. In return you may use her car.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-075 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-075
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Merman Encounter
+  posicao: { x: 2819, y: 6326, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man in a mermaid tail lies on the beach, livestreaming. He allows at least 2 selfies; take more for a surprise.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-076 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-076
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2789, y: 5884, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A tribal statue made of wood and plants, painted in bright colors.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-077 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-077
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Wounded Hunter
+  posicao: { x: 2969, y: 3502, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A hunter has been shot and needs to be taken to hospital., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-078 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-078
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Junkie Car Theft
+  posicao: { x: 1707, y: 2942, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A junkie asks you to help her steal a car., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-079 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-079
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Warehouse Hostage
+  posicao: { x: 3717, y: 3930, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two men are holding a man hostage in the warehouse., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-080 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-080
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Stranded Race Driver
+  posicao: { x: 2261, y: 3328, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A race driver has broken down on the side of the road and asks for a ride to a race before it's too late., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-081 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-081
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Store Hostage Rescue
+  posicao: { x: 3350, y: 5597, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A vehicle with an open trunk and a trail of blood leading into the building, where M7 are beating and torturing the manager.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-082 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-082
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Farm Wife Asking for Help
+  posicao: { x: 2363, y: 2667, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A woman in a robe with a flashlight asks you to help her husband, who has had an accident, in their house.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-083 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-083
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Car Accident (truck crash)
+  posicao: { x: 3769, y: 3137, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A Sahara Mirage truck crashes into a car. The driver asks you to lie for him and promises you money if he gets a settlement., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-084 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-084
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Tutsi the Cow
+  posicao: { x: 2573, y: 3017, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Catch Tutsi the cow., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-085 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-085
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Captive Ex-Cop
+  posicao: { x: 3577, y: 4030, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Free the captured ex-cop., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-086 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-086
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Beefslap
+  posicao: { x: 2155, y: 2951, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man is standing on top of his broken-down car., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-087 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-087
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Yard Sale (Gary the alligator)
+  posicao: { x: 3460, y: 6329, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A lady holds a yard sale with an alligator named Gary., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-088 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-088
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Being Hunted
+  posicao: { x: 3359, y: 1038, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "You get tranquilized and wake up in a storage container, where you have to fight for your life.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-089 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-089
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Cop Interrogated by Criminals
+  posicao: { x: 2329, y: 5400, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Criminals are interrogating a cop., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-090 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-090
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Stuntman
+  posicao: { x: 4895, y: 4262, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-091 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-091
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Ghost Woman
+  posicao: { x: 3213, y: 1351, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Drive here at night: your car shuts off and a ghost woman crawls towards you, then appears in your car or as you get out.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-092 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-092
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Ghost Ship (lighthouse)
+  posicao: { x: 4536, y: 1785, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Go to the lighthouse at night: you hear voices and see ghosts that leave clues to a cursed knife in the ocean. With the knife, climb to the top of the lighthouse and face the ocean: the ghost ship appears.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-093 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-093
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drunk Tractor Driver
+  posicao: { x: 2266, y: 3077, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A drunk man asks you to help him drive his tractor., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-094 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-094
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Gasoline Bath
+  posicao: { x: 2274, y: 2949, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man is filling his bathtub with gasoline., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-095 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-095
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Gang Revenge
+  posicao: { x: 3322, y: 5591, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Witness a drive-by shooting: gang retaliation in which a rival member (an M7 recruit) is killed.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-096 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-096
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2717, y: 5819, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-097 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-097
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Carjacker at Gunpoint
+  posicao: { x: 4814, y: 3927, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A stranger gets into your car, holds a gun to your head and makes you drive.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-098 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-098
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Burning Car Collision
+  posicao: { x: 2262, y: 1644, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Two cars have collided and one is burning. The black pickup has a large chest in its bed with cocaine, cash and a Zhang Wu Type 9.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-099 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-099
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Kitty Litter Drug Ring
+  posicao: { x: 2139, y: 1742, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A woman produces Kitty Litter, a synthetic drug. If you pass through, you have to wait until the police finish their operation.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-100 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-100
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: AI Ex-CEO
+  posicao: { x: 5100, y: 4341, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: May only appear at night., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-101 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-101
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Bridge Jumpers
+  posicao: { x: 2562, y: 2892, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A couple of kids jump off the bridge. Challenge them and choose to jump together, and there is more to this encounter.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-102 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-102
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Insurance Fraud
+  posicao: { x: 3775, y: 3134, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "After an accident, a man in a burning car: help him and it turns into insurance fraud.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-103 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-103
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Bear Protesters (animal transport)
+  posicao: { x: 2708, y: 4153, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Protesters block a truck carrying a live bear., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-104 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-104
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Crop Dusting Job (McKittrick Farm)
+  posicao: { x: 2748, y: 2732, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A job posting at the Starlet Motel says to call Kyle at McKittrick Farm: he has a crop dusting job.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-105 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-105
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Taser Arrest
+  posicao: { x: 2660, y: 6984, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man climbs onto a police car, gets tasered and is arrested.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-106 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-106
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Anti-Theft Car
+  posicao: { x: 4437, y: 4036, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Steal the car and its anti-theft system takes over: it locks the doors and windows and drives you to the police station.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-107 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-107
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Gang Trade
+  posicao: { x: 3741, y: 6015, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Only at night: two gangs meet to trade goods. Ambush them and take the loot (around $1,500).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-108 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-108
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drunk Man on a Police Car
+  posicao: { x: 3304, y: 6558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A drunk man dances on a police car while officers try to handle him., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-109 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-109
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Paranoid Prepper's Bunker
+  posicao: { x: 3318, y: 2170, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Move the container to reach the bunker, and watch out for mines: a paranoid man sets you more challenges for money.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-110 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-110
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Roadside Forest Fire
+  posicao: { x: 2154, y: 1805, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Off the left side of the highway, a patch of trees is on fire.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-111 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-111
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Clumsy Car Thief
+  posicao: { x: 1807, y: 3130, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A clumsy woman needs your help stealing a car., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-112 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-112
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Botched Robbery
+  posicao: { x: 1851, y: 2845, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Robbers flee the payday loan store, dropping wads of cash on the tarmac as the owner chases them; the cash is left scattered around.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-113 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-113
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Attempted Carjacking
+  posicao: { x: 2112, y: 1767, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: At night a muscle car blocks the road and its driver demands money., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-114 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-114
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drug Export Threat
+  posicao: { x: 3261, y: 6613, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two men are threatening another man. Question them and they tell you to back off; talk more with the threatened man., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-115 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-115
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Former Final Chapter Member Attacked
+  posicao: { x: 2242, y: 1770, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A former Final Chapter member is being beaten and threatened. Help him and untie him to complete it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-116 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-116
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Newlyweds' House
+  posicao: { x: 1644, y: 2948, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Listen in on a couple who have just got married., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-117 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-117
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Kidnapped Cop
+  posicao: { x: 2820, y: 5041, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two people have tied up a police officer., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-118 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-118
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Dirty Cops (hangar)
+  posicao: { x: 2065, y: 5247, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the hangar at 3 a.m.: a cop tied to a chair is beaten up by two dirty cops.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-119 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-119
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Lady with a Couch
+  posicao: { x: 1919, y: 4595, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Help the woman with her couch and you get kidnapped into the game's take on the Saw movies., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-120 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-120
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Kolt & Associates Highway Ambush
+  posicao: { x: 2020, y: 2887, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: After completing the chapter 2 mission "Slam Dunk" and gain the ability to raid their drug operations you'll be able to unlock this random encounter as they try to retaliate via an ambush. They will run the car off the road and try to kill you., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-121 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-121
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Non-Flusher Movement Meeting (Frank's Waffle)
+  posicao: { x: 3839, y: 4659, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Code: 00-00-02.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-122 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-122
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Influencer Falls from Overpass
+  posicao: { x: 3843, y: 4584, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A streamer livestreaming on the edge of the bridge accidentally falls off., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-123 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-123
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "Traffic Stop: Golf Clubs"
+  posicao: { x: 1869, y: 4220, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A woman is pulled over and her car searched; the police only find golf clubs., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-124 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-124
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Corrupt Cops Rob a Dealer
+  posicao: { x: 1893, y: 3163, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Two corrupt cops beat a drug dealer and steal his cocaine, which opens a possible robbery.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-125 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-125
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Loose Pet Tiger
+  posicao: { x: 3164, y: 5799, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Kingfishers gang members are mauled by a loose tiger. Shoot it, then fight the gang members who arrive.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-126 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-126
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Linda's Coupon Meltdown
+  posicao: { x: 2256, y: 2972, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Linda, the motel receptionist, tries to get a restaurant coupon accepted, is refused and blows up at the staff.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-127 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-127
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Man Tied Up in a Barn
+  posicao: { x: 2848, y: 2648, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man yells for help, guarded by two thugs. After you save him, there is a shotgun in the back of their truck.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-128 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-128
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Van Stuck in the Mud
+  posicao: { x: 2651, y: 5202, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Help push the stuck van (reward: adrenaline).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-129 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-129
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2943, y: 5580, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-130 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-130
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2773, y: 5795, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-131 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-131
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2905, y: 5817, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-132 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-132
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2866, y: 5993, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-133 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-133
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Skunk Ape Effigy
+  posicao: { x: 2895, y: 5897, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-134 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-134
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: ATV Rally
+  posicao: { x: 1821, y: 2813, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A crowd watches ATVs jump one of the stunt jumps, and you are invited to take part: a guy challenges you to jump over the concession building for $500.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-135 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-135
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Robbed Naked Man
+  posicao: { x: 5019, y: 3745, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-136 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-136
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Non-Flusher Movement QR Code
+  posicao: { x: 3946, y: 5704, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Scan the QR code with WAiNK and answer the Non-Flusher Movement message: it unlocks the side mission to meet a contact at Frank's Waffles in Tequesta, Vice-Dale County.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-137 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-137
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Creepy Neighbour Zach
+  posicao: { x: 2256, y: 2984, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Zach is poking a dead animal with a tree branch; call him out and see what happens., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-138 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-138
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drive-Through Rant (Pollo Diablo)
+  posicao: { x: 3417, y: 5453, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A woman ranting about cheese at the drive-through window., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-139 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-139
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Car Jacking Lesson
+  posicao: { x: 1760, y: 2844, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Help a woman break into a locked car and steal it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-140 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-140
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Overpass Vandals (computers)
+  posicao: { x: 2298, y: 3034, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Three rednecks throw computers at cars from the highway overpass. You can scare them off., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-141 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-141
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Delirious Farmer
+  posicao: { x: 2164, y: 3900, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A farmer driving his tractor in circles., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-142 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-142
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Overpass Droppings
+  posicao: { x: 2044, y: 4086, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Three people throw tyres and junk off the overpass. Confront them and they back off quickly., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-143 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-143
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Caveman vs Panther
+  posicao: { x: 3407, y: 1222, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "After the caveman deals with a panther, he challenges you to a race.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-144 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-144
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Man vs Bear
+  posicao: { x: 3370, y: 1192, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Tell the man to scare the bear off and he survives and promises to send you money., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-145 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-145
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Sal, Shooting Victim
+  posicao: { x: 1864, y: 2887, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Sal was shot by people trying to rob his wallet. He needs a ride and help with something., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-146 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-146
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Package Delivery
+  posicao: { x: 3343, y: 5369, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Deliver 3 packages for a broken-down Sahara driver., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-147 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-147
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Alien Aficionado
+  posicao: { x: 2277, y: 2352, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man waiting to see something: keep the conversation going.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-148 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-148
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Lady with a Broken Car
+  posicao: { x: 3493, y: 6356, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A woman with a damaged car refuses help and gets aggressive. There is a stash in the trunk., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-149 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-149
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Dumpster Man
+  posicao: { x: 4108, y: 3729, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "An attorney asks for pills. If you give him pills, he gives you legal advice.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-150 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-150
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Influencer (antenna)
+  posicao: { x: 3334, y: 5112, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the top of the antenna, an influencer girl takes photos.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-151 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-151
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drug Boat Crash
+  posicao: { x: 3509, y: 6832, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A drug boat drives in circles and blows up, dropping cocaine.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-152 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-152
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Gasoline Bath
+  posicao: { x: 1877, y: 3262, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A hillbilly fills a tub with gas in the bed of his truck, argues with the gas station clerk, then speeds off.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-153 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-153
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Revenge on Kolt Associates
+  posicao: { x: 1822, y: 3159, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Sal, who shot himself, asks you to get revenge on Booker at Kingpin Bowling.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-154 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-154
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Disgruntled Employee
+  posicao: { x: 2086, y: 1807, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In Huck's Pump N Go you're recognised as one of the couple that robs stores all around Leonida., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-155 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-155
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Paleo Bro
+  posicao: { x: 2314, y: 2829, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man who wants to fight a panther tries to assert his dominance over it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-156 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-156
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: The Ghost of Rockledge Rd
+  posicao: { x: 2482, y: 1591, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Driving down Rockledge Road at night, a ghostly figure runs across the road.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-157 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-157
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Influencing Gone Fatal
+  posicao: { x: 2663, y: 1500, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two rednecks film Jason or Lucia making fun of you; when you confront them they pull out their guns., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-158 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-158
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Mistaken Identity ($2,000)
+  posicao: { x: 1890, y: 2649, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man mistakes you for someone else and asks you for $2,000.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-159 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-159
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Polar Bear Protest (freeway)
+  posicao: { x: 3527, y: 4128, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A group of activists protest on the freeway for the release of a polar bear., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-160 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-160
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Couch Trap
+  posicao: { x: 3829, y: 3079, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Help a woman with a couch, get knocked out and wake up in a shipping container on an island.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-161 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-161
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: "Zeke Pimple: Target Practice"
+  posicao: { x: 2939, y: 1377, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two dudes want to challenge your shooting skills., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-162 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-162
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Boar Rams a Man
+  posicao: { x: 3056, y: 6252, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A boar runs out of the forest and rams a man., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-163 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-163
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: The San Fierro Tourist
+  posicao: { x: 2762, y: 1298, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Near the entrance to a mineshaft, a tourist from San Fierro runs away, scared of being attacked.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-164 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-164
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Toilet Talk
+  posicao: { x: 2261, y: 2992, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Wyman talks with the plumber about the toilets., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-165 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-165
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Dodos Rising
+  posicao: { x: 4252, y: 2395, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Activists protest against animal abuse: a polar bear is locked in the truck.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-166 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-166
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Overheard Conversation (chimney)
+  posicao: { x: 4405, y: 2429, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the back, under the chimney, you can hear a conversation from inside.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-167 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-167
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Overheard Conversation (clinic)
+  posicao: { x: 4409, y: 2467, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the left side, in the clinic, by the elevator.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-168 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-168
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Gang Car Crash
+  posicao: { x: 3833, y: 4833, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Gangsters roll their car over and are then killed by the police. Pick up the loot bag afterwards., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-169 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-169
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Mobility Scooter Robber
+  posicao: { x: 3212, y: 6633, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A woman on a mobility scooter steals a tourist's wallet, then tries to mug you.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-170 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-170
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Insurance Fraud (van crash)
+  posicao: { x: 4144, y: 3608, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A van crashes into a car. The man fakes an insurance claim and asks you to be his witness for a payout., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-171 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-171
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Kingfisher Intimidation
+  posicao: { x: 3510, y: 6317, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Camo Kingfisher pickup rolls up to harass and threaten random man in parking lot. Their mad that he blew them off and didnt show up, they say. After they leave I question the man who got harassed and he reveals a Kingfisher Robbery opportunity on an island 1.69m north of Ammu-Na…", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-172 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-172
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Police Raid
+  posicao: { x: 4034, y: 3696, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Three or four police cars and a riot squad raid the building., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-173 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-173
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Mushroom Trip (stamina boost)
+  posicao: { x: 2364, y: 5629, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Eat the mushrooms to enter a trance and run an obstacle course. Finishing it improves your stamina., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-174 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-174
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Rescue the Girl from Dru Kol
+  posicao: { x: 2915, y: 3972, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Get back in your car from going in the gas station to find her in the backseat. Drive her back to Gellhorn, raid the Kolt warehouse (4/5 enemies, suppressed weapon recommended) and then break the safe and collect the cash dotted around the warehouse. Take is about $6k.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-175 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-175
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Assassination
+  posicao: { x: 2420, y: 7053, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man shoots his opponent and runs off., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-176 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-176
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Wanted Posters (side mission)
+  posicao: { x: 2275, y: 3883, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two wanted posters next to the front entrance of the Xero Food Mart. Examine them to unlock a side mission., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-177 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-177
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Bud the Alien Hunter
+  posicao: { x: 2643, y: 2261, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 'Around 19:00 you hear "woo woo" shouts: Bud stands on top of his car, hoping to draw aliens and take a picture of them.', spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-178 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-178
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Tigers in the Garages
+  posicao: { x: 3734, y: 5149, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: There is a tiger in each of the garages of this house., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-179 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-179
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Drugged Robber
+  posicao: { x: 1880, y: 3073, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A man on drugs holds up his friend at the convenience store., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-180 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-180
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Van Stuck in the Mud
+  posicao: { x: 2713, y: 3590, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Push the van out of the mud., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-181 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-181
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Van Stuck in the Mud
+  posicao: { x: 2712, y: 3590, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Help push the van out of the mud., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-182 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-182
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Caravan Fight
+  posicao: { x: 3232, y: 5499, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Knock on the caravan door enough times and the man inside comes out to fight., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-183 }
+  status: nao_confirmado
+- id: item:eventos-aleatorios-183
+  tipo: item
+  subtipo: atividade
+  categoria: eventos-aleatorios
+  nome: Jumbo the Gator
+  posicao: { x: 2278, y: 2949, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: While you are in the store a gator comes through the door. The clerk calls him Jumbo and asks you to feed him a hot dog., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: random-event-184 }
+  status: nao_confirmado

@@ -1,0 +1,183 @@
+# Itens da categoria estandes-tiro. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:estandes-tiro-001
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch Alien Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2023, y: 2570, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-001 }
+  status: referencia
+- id: item:estandes-tiro-002
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch Market Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2002, y: 2591, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-002 }
+  status: referencia
+- id: item:estandes-tiro-003
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch Cops & Robbers Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2027, y: 2590, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-003 }
+  status: referencia
+- id: item:estandes-tiro-004
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch & Shooting Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2015, y: 2593, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-004 }
+  status: referencia
+- id: item:estandes-tiro-005
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch Zombie Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2021, y: 2600, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-005 }
+  status: referencia
+- id: item:estandes-tiro-006
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch Hunting Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2016, y: 2609, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-006 }
+  status: referencia
+- id: item:estandes-tiro-007
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Rodgers Ranch Saloon Range
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2007, y: 2619, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-007 }
+  status: referencia
+- id: item:estandes-tiro-008
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Villa Range
+  regiao: regiao:vice-city
+  posicao: { x: 3340, y: 3678, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-008 }
+  status: referencia
+- id: item:estandes-tiro-009
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Compound Range
+  regiao: regiao:vice-city
+  posicao: { x: 3369, y: 3695, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-009 }
+  status: referencia
+- id: item:estandes-tiro-010
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Maze Range
+  regiao: regiao:vice-city
+  posicao: { x: 3386, y: 3710, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-010 }
+  status: referencia
+- id: item:estandes-tiro-011
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Loop Range
+  regiao: regiao:vice-city
+  posicao: { x: 3398, y: 3717, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-011 }
+  status: referencia
+- id: item:estandes-tiro-012
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Hook Range
+  regiao: regiao:vice-city
+  posicao: { x: 3407, y: 3722, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-012 }
+  status: referencia
+- id: item:estandes-tiro-013
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin 3-Point Range
+  regiao: regiao:vice-city
+  posicao: { x: 3406, y: 3739, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-013 }
+  status: referencia
+- id: item:estandes-tiro-014
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Shooting Range
+  regiao: regiao:vice-city
+  posicao: { x: 3412, y: 3753, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-014 }
+  status: referencia
+- id: item:estandes-tiro-015
+  tipo: item
+  subtipo: atividade
+  categoria: estandes-tiro
+  nome: Griffin Free Fire Range
+  regiao: regiao:vice-city
+  posicao: { x: 3419, y: 3755, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: shooting-range-015 }
+  status: referencia

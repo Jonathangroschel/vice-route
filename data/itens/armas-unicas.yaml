@@ -1,0 +1,679 @@
+# Itens da categoria armas-unicas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:armas-unicas-001
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Basher Gorse 425
+  posicao: { x: 1877, y: 3039, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: For sale at Pawn & Gun in Port Gellhorn., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-001 }
+  status: nao_confirmado
+- id: item:armas-unicas-002
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Gutterball Moreland 850
+  posicao: { x: 1860, y: 3104, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique pump action shotgun, looted during the Kingpin Bowling Illegal Operation in the abandoned bowling alley in Port Gellhorn.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-002 }
+  status: nao_confirmado
+- id: item:armas-unicas-003
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Quarter Mile ES9
+  posicao: { x: 4344, y: 4030, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Chatfield Storage & Logistics Illegal Operation on Waxman Island.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-003 }
+  status: nao_confirmado
+- id: item:armas-unicas-004
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: PTT Youngin$ K17
+  posicao: { x: 3664, y: 4953, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Kamar Devon Community Center Illegal Operation in Southside.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-004 }
+  status: nao_confirmado
+- id: item:armas-unicas-005
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: San4San K17
+  posicao: { x: 4142, y: 3452, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Sound4Sound Studio Illegal Operation in Stockyard.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-005 }
+  status: nao_confirmado
+- id: item:armas-unicas-006
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Hellspawn Comshot 12
+  posicao: { x: 2433, y: 2356, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique combat shotgun, reward for the challenge at a campsite off a side road in the mountains of North Kelly County. Sit on the carved wooden throne and eat to start it, survive, then pick up the shotgun leaning against the throne.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-006 }
+  status: nao_confirmado
+- id: item:armas-unicas-007
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Stoner K17 MCD
+  posicao: { x: 3215, y: 2532, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique automatic pistol, in room 115 of the Big Day Motel off US-35, just north of Ambrosia. It is on the nightstand to the right of the bed; the people in the room are harmless.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-007 }
+  status: nao_confirmado
+- id: item:armas-unicas-008
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: The Patriarch DRX
+  posicao: { x: 3159, y: 1741, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique tactical pistol, underwater next to a sunken car in the south-west part of Kalaga Reservoir. Look for luggage and debris on the bank, then dive past the algae to find the car.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-008 }
+  status: nao_confirmado
+- id: item:armas-unicas-009
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Lyle's H&L .38
+  posicao: { x: 2745, y: 1131, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique revolver, in the trunk of the car inside the old barn at the dead end of a road in Bonanza. Go in through the side door and open the trunk.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-009 }
+  status: nao_confirmado
+- id: item:armas-unicas-010
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Dirty Drifter
+  posicao: { x: 2790, y: 1093, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique double barrel shotgun, in the trunk of a blue car stuck in a mudslide just off the coastal road in Bonanza. Climb the bank to reach it.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-010 }
+  status: nao_confirmado
+- id: item:armas-unicas-011
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Little Friend W-10
+  posicao: { x: 5023, y: 3964, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique micro SMG, on the floor of a second-floor room at the Sunlite Motel in Ocean Beach, off Shore Drive. Take the stairs under the red awning: it is in the blood-splattered room on the right.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-011 }
+  status: nao_confirmado
+- id: item:armas-unicas-012
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Cold War 556
+  posicao: { x: 2137, y: 4900, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique carbine assault rifle, just inside a bunker in Big Pine, North Mariana County. Enter from the south-west: it leans against a wooden crate at the back left.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-012 }
+  status: nao_confirmado
+- id: item:armas-unicas-013
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Twin's Laird 350
+  posicao: { x: 3274, y: 1659, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique sporting sniper rifle, on the ground below a small hunting platform in the woods just east of Kalaga Reservoir, Lummox County, at the scene of a hunting accident.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-013 }
+  status: nao_confirmado
+- id: item:armas-unicas-014
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: IAA SMS-01
+  posicao: { x: 4854, y: 3144, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique advanced sniper rifle, on the very top of the roof of the Aichi Condominiums on Northside Ave, Washington Beach.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-014 }
+  status: nao_confirmado
+- id: item:armas-unicas-015
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Internal Affairs FF-SR
+  posicao: { x: 4898, y: 3170, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique sniper rifle, at the north-west edge of the roof of the tallest building on this stretch of Northside Ave, Washington Beach: the skyscraper with the helipad.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-015 }
+  status: nao_confirmado
+- id: item:armas-unicas-016
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: FIB SM-69
+  posicao: { x: 4931, y: 3253, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique sniper rifle, at the top of a skyscraper in Washington Beach, Vice Beach, between two hospitals.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-016 }
+  status: nao_confirmado
+- id: item:armas-unicas-017
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Deever Tech GLR40
+  posicao: { x: 3940, y: 4544, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, found inside the same garage that holds the Cockroach Xtreme 556.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-017 }
+  status: nao_confirmado
+- id: item:armas-unicas-018
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Tallaloko Knife
+  posicao: { x: 3554, y: 1558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, found on the upper floor of a cabin on the west shore of Lake Tallaloko, behind a locked door.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-018 }
+  status: nao_confirmado
+- id: item:armas-unicas-019
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Shark Knife
+  posicao: { x: 3004, y: 783, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, found at the bottom of an underwater ravine north of the Saint Attaway Islands, stuck in the seabed next to a shark cage.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-019 }
+  status: nao_confirmado
+- id: item:armas-unicas-020
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Mercenary LMG 6
+  posicao: { x: 4632, y: 4230, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, found at the northern tip of the Port Vice City cargo island, next to a yellow shipping container.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-020 }
+  status: nao_confirmado
+- id: item:armas-unicas-021
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Soldier's Combat Knife
+  posicao: { x: 1782, y: 4979, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, found next to a half-submerged tank on the western beach between Bobcat Bight and Bobcat Key.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-021 }
+  status: nao_confirmado
+- id: item:armas-unicas-022
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Ride Free H&L .38
+  posicao: { x: 3526, y: 2727, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Biker Hideout Illegal Operation, on the southern shore of Lake Leonida.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-022 }
+  status: nao_confirmado
+- id: item:armas-unicas-023
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Marabunta Grande Type 9
+  posicao: { x: 3765, y: 1501, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Weed Grow Illegal Operation, on the north-east shore of Lake Tallaloko.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-023 }
+  status: nao_confirmado
+- id: item:armas-unicas-024
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Eris Fresh DSG
+  posicao: { x: 3664, y: 4886, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Illegal Goods Store Illegal Operation, in Southside.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-024 }
+  status: nao_confirmado
+- id: item:armas-unicas-025
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Chronic Vatra
+  posicao: { x: 2281, y: 4729, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Industrial Weed Grow Illegal Operation, in North Mariana County.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-025 }
+  status: nao_confirmado
+- id: item:armas-unicas-026
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: San4San Gorse 425
+  posicao: { x: 3797, y: 3927, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Parlor Apartments Illegal Operation, in Rockridge.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-026 }
+  status: nao_confirmado
+- id: item:armas-unicas-027
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Final Chapter Shortstraw
+  posicao: { x: 3241, y: 2690, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Hog Stars Garage Illegal Operation, in Ambrosia.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-027 }
+  status: nao_confirmado
+- id: item:armas-unicas-028
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Throttler Verro
+  posicao: { x: 3839, y: 2781, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Farm Fix Meth Lab Illegal Operation.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-028 }
+  status: nao_confirmado
+- id: item:armas-unicas-029
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Hostile Super400
+  posicao: { x: 2435, y: 5240, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Mill Station Radar Base Illegal Operation, in Grassrivers, north of Watson Bay.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-029 }
+  status: nao_confirmado
+- id: item:armas-unicas-030
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Final Chapter KVGA-12
+  posicao: { x: 3145, y: 2734, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Irons Building Supply Illegal Operation, in Ambrosia.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-030 }
+  status: nao_confirmado
+- id: item:armas-unicas-031
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Clunker 556
+  posicao: { x: 1800, y: 2678, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Brooks Boatworks Illegal Operation, in Port Gellhorn.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-031 }
+  status: nao_confirmado
+- id: item:armas-unicas-032
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: GRX 556
+  posicao: { x: 3414, y: 3954, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Leonida Carrier Warehouse Illegal Operation.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-032 }
+  status: nao_confirmado
+- id: item:armas-unicas-033
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Marabunta Grande KZ-59
+  posicao: { x: 3377, y: 5506, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Nova Auto Junkyard Illegal Operation, in Hamlet.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-033 }
+  status: nao_confirmado
+- id: item:armas-unicas-034
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: San4San KZ-59
+  posicao: { x: 3821, y: 3735, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Janjak's Garage Illegal Operation, in La Perle.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-034 }
+  status: nao_confirmado
+- id: item:armas-unicas-035
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Guardia Brothers FRA
+  posicao: { x: 3876, y: 4039, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, looted during the Casa Guardia Illegal Operation, in Little Cuba.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: unique-weapon-035 }
+  status: nao_confirmado
+- id: item:armas-unicas-036
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Swamp Bait Akulus
+  posicao: { x: 2893, y: 3663, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Revolver. On the floor of a wrecked cabin in the middle of the Pelican Valley swamp., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-055 }
+  status: nao_confirmado
+- id: item:armas-unicas-037
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Chromium W-10
+  posicao: { x: 3992, y: 3541, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, inside the house in the gaming room.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-057 }
+  status: nao_confirmado
+- id: item:armas-unicas-038
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Spangled Vatra
+  posicao: { x: 3639, y: 4047, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, for sale only at this Ammu-Nation.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-059 }
+  status: nao_confirmado
+- id: item:armas-unicas-039
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Guardia Brothers VF5
+  posicao: { x: 3703, y: 3980, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique weapon, on the coffee table on the second floor of the warehouse.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-060 }
+  status: nao_confirmado
+- id: item:armas-unicas-040
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Kolt & Associates Vatra
+  posicao: { x: 1819, y: 2982, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Unique SMG very close to the door., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-062 }
+  status: nao_confirmado
+- id: item:armas-unicas-041
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: La Polilla Negra KZ-59
+  posicao: { x: 2256, y: 5474, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On a weapon case, close to the safe.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-063 }
+  status: nao_confirmado
+- id: item:armas-unicas-042
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Zodiac Nipper .38
+  posicao: { x: 4981, y: 3896, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the garage of the robbery opportunity., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-064 }
+  status: nao_confirmado
+- id: item:armas-unicas-043
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Money Bag & Deadringer 1922 Pistols
+  posicao: { x: 3434, y: 1211, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Two unique 1922 pistols inside the caravan., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-066 }
+  status: nao_confirmado
+- id: item:armas-unicas-044
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Martha's 1922 Pistol
+  posicao: { x: 2916, y: 1178, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Go into the house and search the oven., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-067 }
+  status: nao_confirmado
+- id: item:armas-unicas-045
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Double Cross Vatra (Heavy SMG)
+  posicao: { x: 1579, y: 5256, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the sea floor, right under the Cocaine Yacht.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-069 }
+  status: nao_confirmado
+- id: item:armas-unicas-046
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Kolt & Associates 556
+  posicao: { x: 1865, y: 2692, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique AR: in a weapon case beside the safe in the right dorm.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-070 }
+  status: nao_confirmado
+- id: item:armas-unicas-047
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Cargo H&L .38
+  posicao: { x: 4633, y: 4275, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Unique revolver in a SCOOP crate, alongside a few bricks of cocaine.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-071 }
+  status: nao_confirmado
+- id: item:armas-unicas-048
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Kingfishers Akulus
+  posicao: { x: 2996, y: 5947, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In a trailer., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-073 }
+  status: nao_confirmado
+- id: item:armas-unicas-049
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Kingpin Heathen
+  posicao: { x: 4477, y: 3698, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the room with the two safes., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-075 }
+  status: nao_confirmado
+- id: item:armas-unicas-050
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Turnt Nipper .38
+  posicao: { x: 1501, y: 4612, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Shoot the glider down by aiming at its ropes., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-076 }
+  status: nao_confirmado
+- id: item:armas-unicas-051
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Explorer's Knife
+  posicao: { x: 2555, y: 3260, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the underwater cave: scuba gear can be picked up at the stairs.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-077 }
+  status: nao_confirmado
+- id: item:armas-unicas-052
+  tipo: item
+  subtipo: crime
+  categoria: armas-unicas
+  nome: Couch Potato Mustang .357
+  posicao: { x: 1830, y: 2934, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In front of Dunk's trailer: shoot the rope holding the couch in the tree, then sit on it to find the revolver.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-078 }
+  status: nao_confirmado

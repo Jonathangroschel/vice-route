@@ -1,0 +1,15 @@
+# Imagem-base do mapa (ADR 003). Posições do catálogo são pixels desta imagem original,
+# com origem no canto superior esquerdo e y para baixo.
+edicao: leonida-poster-2026-11-19
+titulo: Mapa de Leonida (Rockstar Games, pôster imprimível)
+origem:
+  url: 'https://www.rockstargames.com/VI/media'
+  credito: 'Mapa: Rockstar Games, pôster de Leonida (rockstargames.com/VI/media)'
+  publicada: '2026-11-19'
+tamanho: { largura: 5775, altura: 7900 }
+recorte: { x: 200, y: 200, largura: 5376, altura: 7500 }
+tiles:
+  url: '/tiles/leonida-poster-2026-11-19/{z}/{x}/{y}.webp'
+  tamanho: 512
+  zoom_nativo_max: 4
+  zoom_max: 5

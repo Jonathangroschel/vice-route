@@ -1,0 +1,427 @@
+# Itens da categoria pesca. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:pesca-001
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Tiger Grouper
+  regiao: regiao:vice-city
+  posicao: { x: 3501, y: 872, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-001 }
+  status: referencia
+- id: item:pesca-002
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Black Grouper
+  regiao: regiao:leonida-keys
+  posicao: { x: 2394, y: 1178, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-002 }
+  status: referencia
+- id: item:pesca-003
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Hogfish
+  regiao: regiao:vice-city
+  posicao: { x: 4137, y: 1407, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-003 }
+  status: referencia
+- id: item:pesca-004
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Largemouth Bass
+  regiao: regiao:vice-city
+  posicao: { x: 3634, y: 1535, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-004 }
+  status: referencia
+- id: item:pesca-005
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Stoplight Parrotfish
+  regiao: regiao:vice-city
+  posicao: { x: 4700, y: 2044, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-005 }
+  status: referencia
+- id: item:pesca-006
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Black Drum
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1765, y: 2582, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-006 }
+  status: referencia
+- id: item:pesca-007
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Sea Rock Bass
+  regiao: regiao:ambrosia
+  posicao: { x: 3432, y: 2483, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-007 }
+  status: referencia
+- id: item:pesca-008
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Channel Catfish
+  regiao: regiao:vice-city
+  posicao: { x: 3489, y: 2513, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-008 }
+  status: referencia
+- id: item:pesca-009
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Yellowfin Tuna
+  posicao: { x: 839, y: 2721, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-009 }
+  status: referencia
+- id: item:pesca-010
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Atlantic Spadefish
+  posicao: { x: 5216, y: 3044, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-010 }
+  status: referencia
+- id: item:pesca-011
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Redfin Pickerel
+  regiao: regiao:leonida-keys
+  posicao: { x: 2626, y: 3335, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-011 }
+  status: referencia
+- id: item:pesca-012
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Cobia
+  regiao: regiao:leonida-keys
+  posicao: { x: 2782, y: 3682, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-012 }
+  status: referencia
+- id: item:pesca-013
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Mahi-Mahi
+  posicao: { x: 1064, y: 3815, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-013 }
+  status: referencia
+- id: item:pesca-014
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Common Snook
+  posicao: { x: 5353, y: 3589, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-014 }
+  status: referencia
+- id: item:pesca-015
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Florida Gar
+  regiao: regiao:vice-city
+  posicao: { x: 4469, y: 3934, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-015 }
+  status: referencia
+- id: item:pesca-016
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Salt Fish
+  regiao: regiao:vice-city
+  posicao: { x: 3020, y: 4074, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-016 }
+  status: referencia
+- id: item:pesca-017
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Candy Fish
+  regiao: regiao:leonida-keys
+  posicao: { x: 2431, y: 4493, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-017 }
+  status: referencia
+- id: item:pesca-018
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Yellowtail Snapper
+  posicao: { x: 1061, y: 4897, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-018 }
+  status: referencia
+- id: item:pesca-019
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Red Northern Snapper
+  regiao: regiao:hamlet
+  posicao: { x: 1559, y: 4998, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-019 }
+  status: referencia
+- id: item:pesca-020
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Green Moray Eel
+  posicao: { x: 5289, y: 4976, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-020 }
+  status: referencia
+- id: item:pesca-021
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Red Lionfish
+  posicao: { x: 4511, y: 5080, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-021 }
+  status: referencia
+- id: item:pesca-022
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Great Barracuda
+  regiao: regiao:hamlet
+  posicao: { x: 2986, y: 5343, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-022 }
+  status: referencia
+- id: item:pesca-023
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Spanish Mackerel
+  regiao: regiao:hamlet
+  posicao: { x: 2010, y: 5514, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-023 }
+  status: referencia
+- id: item:pesca-024
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Littlehead Porgy
+  regiao: regiao:leonida-keys
+  posicao: { x: 2707, y: 5708, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-024 }
+  status: referencia
+- id: item:pesca-025
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Redbreast Sunfish
+  regiao: regiao:hamlet
+  posicao: { x: 1600, y: 5938, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-025 }
+  status: referencia
+- id: item:pesca-026
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Blue Striped Grunt
+  posicao: { x: 1469, y: 6118, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-026 }
+  status: referencia
+- id: item:pesca-027
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Atlantic Herring
+  regiao: regiao:vice-city
+  posicao: { x: 2990, y: 6047, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-027 }
+  status: referencia
+- id: item:pesca-028
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Lake Chubsucker
+  regiao: regiao:vice-city
+  posicao: { x: 3873, y: 6321, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-028 }
+  status: referencia
+- id: item:pesca-029
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Striped Bass
+  regiao: regiao:leonida-keys
+  posicao: { x: 2856, y: 6457, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-029 }
+  status: referencia
+- id: item:pesca-030
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Greater Amberjack
+  regiao: regiao:vice-city
+  posicao: { x: 3665, y: 6558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-030 }
+  status: referencia
+- id: item:pesca-031
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Spotted Moray Eel
+  regiao: regiao:leonida-keys
+  posicao: { x: 3363, y: 6799, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-031 }
+  status: referencia
+- id: item:pesca-032
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Permit
+  posicao: { x: 1183, y: 6977, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-032 }
+  status: referencia
+- id: item:pesca-033
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - American Eel
+  regiao: regiao:leonida-keys
+  posicao: { x: 2434, y: 7062, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-033 }
+  status: referencia
+- id: item:pesca-034
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Bluegill
+  regiao: regiao:leonida-keys
+  posicao: { x: 2843, y: 7118, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-034 }
+  status: referencia
+- id: item:pesca-035
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Atlantic Tarpon
+  regiao: regiao:vice-city
+  posicao: { x: 3459, y: 7365, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-035 }
+  status: referencia
+- id: item:pesca-036
+  tipo: item
+  subtipo: atividade
+  categoria: pesca
+  nome: Hotspot - Atlantic Spadefish
+  posicao: { x: 3475, y: 7366, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Part of Cal's fishing quest., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: fishing-036 }
+  status: nao_confirmado

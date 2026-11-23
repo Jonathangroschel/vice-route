@@ -1,0 +1,491 @@
+# Itens da categoria smash-grab. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:smash-grab-001
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: The Siren’s Chest
+  regiao: regiao:leonida-keys
+  posicao: { x: 3113, y: 6763, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, low-end jewelry store with a range of merchandise.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-001 }
+  status: referencia
+- id: item:smash-grab-002
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Timeless Peculiars
+  regiao: regiao:watson-bay
+  posicao: { x: 2454, y: 5581, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Medium; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-002 }
+  status: referencia
+- id: item:smash-grab-003
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Victoria Lee Jeweler
+  regiao: regiao:capri
+  posicao: { x: 1690, y: 4247, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $9,000 - $20,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-003 }
+  status: referencia
+- id: item:smash-grab-004
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Hamlet Pawn
+  regiao: regiao:hamlet
+  posicao: { x: 3341, y: 5598, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-004 }
+  status: referencia
+- id: item:smash-grab-005
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Joyeria Empenos
+  regiao: regiao:vice-city
+  posicao: { x: 3637, y: 5046, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-005 }
+  status: referencia
+- id: item:smash-grab-006
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Ernesto’s Pawn
+  regiao: regiao:vice-city
+  posicao: { x: 3674, y: 4995, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-006 }
+  status: referencia
+- id: item:smash-grab-007
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Donovan Banks & Co.
+  regiao: regiao:vice-city
+  posicao: { x: 3843, y: 4847, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-007 }
+  status: referencia
+- id: item:smash-grab-008
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Plush
+  regiao: regiao:vice-city
+  posicao: { x: 3954, y: 4583, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $9,000 - $20,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-008 }
+  status: referencia
+- id: item:smash-grab-009
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Pawn City
+  regiao: regiao:vice-city
+  posicao: { x: 3749, y: 4429, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-009 }
+  status: referencia
+- id: item:smash-grab-010
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Icegem Diamonds & Watches
+  regiao: regiao:vice-city
+  posicao: { x: 4064, y: 4251, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-010 }
+  status: referencia
+- id: item:smash-grab-011
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Richardson Jewelry & Diamonds
+  regiao: regiao:vice-city
+  posicao: { x: 4041, y: 4222, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-011 }
+  status: referencia
+- id: item:smash-grab-012
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: All That Glitters
+  regiao: regiao:vice-city
+  posicao: { x: 4184, y: 4140, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $9,000 - $20,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-012 }
+  status: referencia
+- id: item:smash-grab-013
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Peacock
+  regiao: regiao:vice-city
+  posicao: { x: 4183, y: 4110, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $9,000 - $20,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-013 }
+  status: referencia
+- id: item:smash-grab-014
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Fast Cash
+  regiao: regiao:vice-city
+  posicao: { x: 3846, y: 4112, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-014 }
+  status: referencia
+- id: item:smash-grab-015
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: The Jewelry Place
+  regiao: regiao:vice-city
+  posicao: { x: 3236, y: 3949, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, low-end jewelry store with a range of merchandise.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-015 }
+  status: referencia
+- id: item:smash-grab-016
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Crown Jewels
+  regiao: regiao:vice-city
+  posicao: { x: 3224, y: 3964, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, low-end jewelry store with a range of merchandise.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-016 }
+  status: referencia
+- id: item:smash-grab-017
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Dorado Pawn Shop
+  regiao: regiao:vice-city
+  posicao: { x: 3843, y: 3930, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-017 }
+  status: referencia
+- id: item:smash-grab-018
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: White Sand Jewelry Pawn
+  regiao: regiao:vice-city
+  posicao: { x: 3853, y: 3778, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Medium; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-018 }
+  status: referencia
+- id: item:smash-grab-019
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Down Town Pawn
+  regiao: regiao:vice-city
+  posicao: { x: 4003, y: 3846, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-019 }
+  status: referencia
+- id: item:smash-grab-020
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Vice City Pawn
+  regiao: regiao:vice-city
+  posicao: { x: 4041, y: 3743, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-020 }
+  status: referencia
+- id: item:smash-grab-021
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Pawn Stash
+  regiao: regiao:vice-city
+  posicao: { x: 4055, y: 3557, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-021 }
+  status: referencia
+- id: item:smash-grab-022
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Blanc & Giroux
+  regiao: regiao:vice-city
+  posicao: { x: 4182, y: 3331, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-022 }
+  status: referencia
+- id: item:smash-grab-023
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Roval Jewelry
+  regiao: regiao:vice-city
+  posicao: { x: 4165, y: 3324, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-023 }
+  status: referencia
+- id: item:smash-grab-024
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Covgari
+  regiao: regiao:vice-city
+  posicao: { x: 4175, y: 3303, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-024 }
+  status: referencia
+- id: item:smash-grab-025
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Ayoka Jewelers
+  regiao: regiao:vice-city
+  posicao: { x: 4927, y: 3620, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-025 }
+  status: referencia
+- id: item:smash-grab-026
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Marshal's
+  regiao: regiao:vice-city
+  posicao: { x: 5040, y: 3614, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $9,000 - $20,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-026 }
+  status: referencia
+- id: item:smash-grab-027
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Casa De Empeno
+  regiao: regiao:vice-city
+  posicao: { x: 4972, y: 3739, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Medium; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-027 }
+  status: referencia
+- id: item:smash-grab-028
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Rococo Rich
+  regiao: regiao:vice-city
+  posicao: { x: 4971, y: 3876, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-028 }
+  status: referencia
+- id: item:smash-grab-029
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Legendary Custom Jewelry
+  regiao: regiao:vice-city
+  posicao: { x: 4896, y: 4043, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-029 }
+  status: referencia
+- id: item:smash-grab-030
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Brilliant Cuts
+  regiao: regiao:vice-city
+  posicao: { x: 3824, y: 3103, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Small, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $9,000 - $20,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-030 }
+  status: referencia
+- id: item:smash-grab-031
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Skala
+  posicao: { x: 4236, y: 2672, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-031 }
+  status: referencia
+- id: item:smash-grab-032
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Kowalski
+  posicao: { x: 4209, y: 2638, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Large, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-032 }
+  status: referencia
+- id: item:smash-grab-033
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Buck’s Jewelry & Pawn
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1846, y: 3165, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-033 }
+  status: referencia
+- id: item:smash-grab-034
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Avery Pawn
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1862, y: 2869, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Low; Take value: $1,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-034 }
+  status: referencia
+- id: item:smash-grab-035
+  tipo: item
+  subtipo: crime
+  categoria: smash-grab
+  nome: Florence & Co.
+  regiao: regiao:ambrosia
+  posicao: { x: 3221, y: 2508, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pawn shop that buys collectibles, like cards, doubloons and meteorites.; Security: Medium; Take value: $4,500 - $12,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: smash-n-grab-035 }
+  status: referencia

@@ -1,0 +1,1119 @@
+# Itens da categoria caixas-eletronicos. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:caixas-eletronicos-001
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1857, y: 2845, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-001 }
+  status: referencia
+- id: item:caixas-eletronicos-002
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1868, y: 2991, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-002 }
+  status: referencia
+- id: item:caixas-eletronicos-003
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3980, y: 3116, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-003 }
+  status: referencia
+- id: item:caixas-eletronicos-004
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1880, y: 3288, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-004 }
+  status: referencia
+- id: item:caixas-eletronicos-005
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4814, y: 3204, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-005 }
+  status: referencia
+- id: item:caixas-eletronicos-006
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4250, y: 3287, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-006 }
+  status: referencia
+- id: item:caixas-eletronicos-007
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4171, y: 3301, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-007 }
+  status: referencia
+- id: item:caixas-eletronicos-008
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4232, y: 3300, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-008 }
+  status: referencia
+- id: item:caixas-eletronicos-009
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4864, y: 3311, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-009 }
+  status: referencia
+- id: item:caixas-eletronicos-010
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4645, y: 3359, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-010 }
+  status: referencia
+- id: item:caixas-eletronicos-011
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4222, y: 3393, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-011 }
+  status: referencia
+- id: item:caixas-eletronicos-012
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4265, y: 3443, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-012 }
+  status: referencia
+- id: item:caixas-eletronicos-013
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4865, y: 3441, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-013 }
+  status: referencia
+- id: item:caixas-eletronicos-014
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4896, y: 3444, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-014 }
+  status: referencia
+- id: item:caixas-eletronicos-015
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4852, y: 3471, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-016 }
+  status: referencia
+- id: item:caixas-eletronicos-016
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4057, y: 3561, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-017 }
+  status: referencia
+- id: item:caixas-eletronicos-017
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4128, y: 3565, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-018 }
+  status: referencia
+- id: item:caixas-eletronicos-018
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4160, y: 3565, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-019 }
+  status: referencia
+- id: item:caixas-eletronicos-019
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3923, y: 3593, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-021 }
+  status: referencia
+- id: item:caixas-eletronicos-020
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4103, y: 3611, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-022 }
+  status: referencia
+- id: item:caixas-eletronicos-021
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3069, y: 3703, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-023 }
+  status: referencia
+- id: item:caixas-eletronicos-022
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 5016, y: 3589, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-024 }
+  status: referencia
+- id: item:caixas-eletronicos-023
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4947, y: 3618, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-025 }
+  status: referencia
+- id: item:caixas-eletronicos-024
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4952, y: 3673, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-026 }
+  status: referencia
+- id: item:caixas-eletronicos-025
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4024, y: 3747, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-027 }
+  status: referencia
+- id: item:caixas-eletronicos-026
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3516, y: 3785, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-028 }
+  status: referencia
+- id: item:caixas-eletronicos-027
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4941, y: 3714, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-029 }
+  status: referencia
+- id: item:caixas-eletronicos-028
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3853, y: 3807, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-030 }
+  status: referencia
+- id: item:caixas-eletronicos-029
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3779, y: 3819, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-031 }
+  status: referencia
+- id: item:caixas-eletronicos-030
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 5064, y: 3762, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-032 }
+  status: referencia
+- id: item:caixas-eletronicos-031
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4138, y: 3847, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-033 }
+  status: referencia
+- id: item:caixas-eletronicos-032
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3776, y: 3899, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-034 }
+  status: referencia
+- id: item:caixas-eletronicos-033
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4924, y: 3826, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-035 }
+  status: referencia
+- id: item:caixas-eletronicos-034
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4074, y: 3886, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-036 }
+  status: referencia
+- id: item:caixas-eletronicos-035
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4024, y: 3906, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-037 }
+  status: referencia
+- id: item:caixas-eletronicos-036
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4898, y: 3891, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-038 }
+  status: referencia
+- id: item:caixas-eletronicos-037
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4813, y: 3944, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-039 }
+  status: referencia
+- id: item:caixas-eletronicos-038
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3380, y: 4054, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-040 }
+  status: referencia
+- id: item:caixas-eletronicos-039
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4906, y: 3972, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-041 }
+  status: referencia
+- id: item:caixas-eletronicos-040
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4836, y: 3999, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-042 }
+  status: referencia
+- id: item:caixas-eletronicos-041
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4105, y: 4050, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-044 }
+  status: referencia
+- id: item:caixas-eletronicos-042
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4983, y: 4001, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-045 }
+  status: referencia
+- id: item:caixas-eletronicos-043
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4171, y: 4080, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-046 }
+  status: referencia
+- id: item:caixas-eletronicos-044
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4910, y: 4053, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-047 }
+  status: referencia
+- id: item:caixas-eletronicos-045
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4087, y: 4107, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-048 }
+  status: referencia
+- id: item:caixas-eletronicos-046
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3547, y: 4145, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-049 }
+  status: referencia
+- id: item:caixas-eletronicos-047
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4990, y: 4058, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-050 }
+  status: referencia
+- id: item:caixas-eletronicos-048
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3835, y: 4140, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-051 }
+  status: referencia
+- id: item:caixas-eletronicos-049
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3980, y: 4162, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-052 }
+  status: referencia
+- id: item:caixas-eletronicos-050
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4958, y: 4103, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-053 }
+  status: referencia
+- id: item:caixas-eletronicos-051
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4929, y: 4115, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-055 }
+  status: referencia
+- id: item:caixas-eletronicos-052
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4082, y: 4172, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-056 }
+  status: referencia
+- id: item:caixas-eletronicos-053
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4269, y: 4176, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-057 }
+  status: referencia
+- id: item:caixas-eletronicos-054
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4095, y: 4217, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-058 }
+  status: referencia
+- id: item:caixas-eletronicos-055
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3956, y: 4231, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-059 }
+  status: referencia
+- id: item:caixas-eletronicos-056
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4223, y: 4214, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-060 }
+  status: referencia
+- id: item:caixas-eletronicos-057
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3957, y: 4246, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-061 }
+  status: referencia
+- id: item:caixas-eletronicos-058
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3736, y: 4265, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-062 }
+  status: referencia
+- id: item:caixas-eletronicos-059
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4013, y: 4254, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-063 }
+  status: referencia
+- id: item:caixas-eletronicos-060
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4038, y: 4285, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-064 }
+  status: referencia
+- id: item:caixas-eletronicos-061
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4093, y: 4308, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-065 }
+  status: referencia
+- id: item:caixas-eletronicos-062
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4406, y: 4298, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-066 }
+  status: referencia
+- id: item:caixas-eletronicos-063
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4462, y: 4310, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-067 }
+  status: referencia
+- id: item:caixas-eletronicos-064
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4558, y: 4332, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-068 }
+  status: referencia
+- id: item:caixas-eletronicos-065
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4085, y: 4368, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-069 }
+  status: referencia
+- id: item:caixas-eletronicos-066
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3972, y: 4383, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-070 }
+  status: referencia
+- id: item:caixas-eletronicos-067
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4136, y: 4377, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-071 }
+  status: referencia
+- id: item:caixas-eletronicos-068
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3991, y: 4391, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-072 }
+  status: referencia
+- id: item:caixas-eletronicos-069
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4136, y: 4406, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-073 }
+  status: referencia
+- id: item:caixas-eletronicos-070
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4033, y: 4415, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-074 }
+  status: referencia
+- id: item:caixas-eletronicos-071
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3993, y: 4430, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-075 }
+  status: referencia
+- id: item:caixas-eletronicos-072
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3816, y: 4463, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-076 }
+  status: referencia
+- id: item:caixas-eletronicos-073
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4050, y: 4483, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-077 }
+  status: referencia
+- id: item:caixas-eletronicos-074
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3802, y: 4528, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-078 }
+  status: referencia
+- id: item:caixas-eletronicos-075
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3989, y: 4558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-079 }
+  status: referencia
+- id: item:caixas-eletronicos-076
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 4184, y: 4565, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-081 }
+  status: referencia
+- id: item:caixas-eletronicos-077
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3943, y: 4607, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-082 }
+  status: referencia
+- id: item:caixas-eletronicos-078
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3992, y: 4659, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-083 }
+  status: referencia
+- id: item:caixas-eletronicos-079
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3979, y: 4693, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-084 }
+  status: referencia
+- id: item:caixas-eletronicos-080
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3901, y: 4751, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-085 }
+  status: referencia
+- id: item:caixas-eletronicos-081
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3656, y: 4883, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-087 }
+  status: referencia
+- id: item:caixas-eletronicos-082
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3804, y: 4879, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-088 }
+  status: referencia
+- id: item:caixas-eletronicos-083
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3835, y: 4911, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-089 }
+  status: referencia
+- id: item:caixas-eletronicos-084
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3672, y: 4994, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-090 }
+  status: referencia
+- id: item:caixas-eletronicos-085
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3633, y: 5044, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-091 }
+  status: referencia
+- id: item:caixas-eletronicos-086
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:vice-city
+  posicao: { x: 3563, y: 5146, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-092 }
+  status: referencia
+- id: item:caixas-eletronicos-087
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:hamlet
+  posicao: { x: 3321, y: 5438, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-093 }
+  status: referencia
+- id: item:caixas-eletronicos-088
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:hamlet
+  posicao: { x: 3465, y: 5445, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-094 }
+  status: referencia
+- id: item:caixas-eletronicos-089
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:hamlet
+  posicao: { x: 3343, y: 5485, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-095 }
+  status: referencia
+- id: item:caixas-eletronicos-090
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:leonida-keys
+  posicao: { x: 3515, y: 6287, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-096 }
+  status: referencia
+- id: item:caixas-eletronicos-091
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:leonida-keys
+  posicao: { x: 3508, y: 6304, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-097 }
+  status: referencia
+- id: item:caixas-eletronicos-092
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:leonida-keys
+  posicao: { x: 3294, y: 6558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-098 }
+  status: referencia
+- id: item:caixas-eletronicos-093
+  tipo: item
+  subtipo: crime
+  categoria: caixas-eletronicos
+  nome: Towable ATM
+  regiao: regiao:hamlet
+  posicao: { x: 1890, y: 6738, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: towable-atm-099 }
+  status: referencia

@@ -1,0 +1,101 @@
+# Itens da categoria emprestimos. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:emprestimos-001
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Quick Buck - Hamlet
+  regiao: regiao:hamlet
+  posicao: { x: 3344, y: 5607, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: Medium; Take value: $5,000 - $15,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-001 }
+  status: referencia
+- id: item:emprestimos-002
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Payline Loans 247
+  regiao: regiao:hamlet
+  posicao: { x: 3459, y: 5454, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: Medium; Take value: $5,000 - $15,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-002 }
+  status: referencia
+- id: item:emprestimos-003
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Payday Loans Store - Southside
+  regiao: regiao:vice-city
+  posicao: { x: 3675, y: 4982, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: Medium; Take value: $5,000 - $15,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-003 }
+  status: referencia
+- id: item:emprestimos-004
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Payday Loans Store - Little Cuba
+  regiao: regiao:vice-city
+  posicao: { x: 3804, y: 4033, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: High; Take value: $15,000 - $25,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-004 }
+  status: referencia
+- id: item:emprestimos-005
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Payday Loans Store - Rockridge
+  regiao: regiao:vice-city
+  posicao: { x: 3856, y: 3814, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: Medium; Take value: $5,000 - $15,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-005 }
+  status: referencia
+- id: item:emprestimos-006
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Quick Buck - La Perle
+  regiao: regiao:vice-city
+  posicao: { x: 4059, y: 3561, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: Medium; Take value: $5,000 - $15,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-006 }
+  status: referencia
+- id: item:emprestimos-007
+  tipo: item
+  subtipo: crime
+  categoria: emprestimos
+  nome: Cash Flow
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1846, y: 2845, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Loan store with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Security: Medium; Take value: $2,000 - $10,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: payday-loan-007 }
+  status: referencia

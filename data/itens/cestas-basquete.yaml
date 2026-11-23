@@ -1,0 +1,1196 @@
+# Itens da categoria cestas-basquete. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:cestas-basquete-001
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 98 - Lummox County
+  regiao: regiao:lummox-county
+  posicao: { x: 3799, y: 1319, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-001 }
+  status: referencia
+- id: item:cestas-basquete-002
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 99 - Lummox County
+  regiao: regiao:lummox-county
+  posicao: { x: 3825, y: 1501, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-002 }
+  status: referencia
+- id: item:cestas-basquete-003
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 97 - Lummox County
+  regiao: regiao:lummox-county
+  posicao: { x: 2849, y: 1586, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-003 }
+  status: referencia
+- id: item:cestas-basquete-004
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 96 - Lummox County
+  regiao: regiao:lummox-county
+  posicao: { x: 2730, y: 1656, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-004 }
+  status: referencia
+- id: item:cestas-basquete-005
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 100 - Lummox County
+  regiao: regiao:lummox-county
+  posicao: { x: 3911, y: 1835, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-005 }
+  status: referencia
+- id: item:cestas-basquete-006
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 95 - Kelly County
+  regiao: regiao:kelly-county
+  posicao: { x: 2629, y: 2159, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-006 }
+  status: referencia
+- id: item:cestas-basquete-007
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 74 - Leonard County
+  posicao: { x: 4155, y: 2498, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-007 }
+  status: referencia
+- id: item:cestas-basquete-008
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 85 - Kelly County
+  regiao: regiao:ambrosia
+  posicao: { x: 3164, y: 2590, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-008 }
+  status: referencia
+- id: item:cestas-basquete-009
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 86 - Kelly County
+  regiao: regiao:ambrosia
+  posicao: { x: 3155, y: 2596, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-009 }
+  status: referencia
+- id: item:cestas-basquete-010
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 92 - Kelly County
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1842, y: 2719, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-010 }
+  status: referencia
+- id: item:cestas-basquete-011
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 73 - Leonard County
+  posicao: { x: 4117, y: 2579, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-011 }
+  status: referencia
+- id: item:cestas-basquete-012
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 84 - Kelly County
+  regiao: regiao:ambrosia
+  posicao: { x: 3302, y: 2632, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-012 }
+  status: referencia
+- id: item:cestas-basquete-013
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 89 - Kelly County
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1849, y: 2725, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-013 }
+  status: referencia
+- id: item:cestas-basquete-014
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 91 - Kelly County
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1837, y: 2727, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-014 }
+  status: referencia
+- id: item:cestas-basquete-015
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 90 - Kelly County
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1845, y: 2731, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-015 }
+  status: referencia
+- id: item:cestas-basquete-016
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 88 - Kelly County
+  regiao: regiao:ambrosia
+  posicao: { x: 2985, y: 2671, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-016 }
+  status: referencia
+- id: item:cestas-basquete-017
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 83 - Kelly County
+  regiao: regiao:ambrosia
+  posicao: { x: 3299, y: 2673, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-017 }
+  status: referencia
+- id: item:cestas-basquete-018
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 87 - Kelly County
+  regiao: regiao:ambrosia
+  posicao: { x: 3066, y: 2712, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-018 }
+  status: referencia
+- id: item:cestas-basquete-019
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 72 - Leonard County
+  posicao: { x: 4269, y: 2653, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-019 }
+  status: referencia
+- id: item:cestas-basquete-020
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 71 - Leonard County
+  posicao: { x: 4383, y: 2680, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-020 }
+  status: referencia
+- id: item:cestas-basquete-021
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 93 - Kelly County
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1794, y: 2922, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-021 }
+  status: referencia
+- id: item:cestas-basquete-022
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 70 - Leonard County
+  posicao: { x: 4299, y: 2767, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-022 }
+  status: referencia
+- id: item:cestas-basquete-023
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 82 - Leonard County
+  regiao: regiao:ambrosia
+  posicao: { x: 3661, y: 2879, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-023 }
+  status: referencia
+- id: item:cestas-basquete-024
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 75 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 4595, y: 2827, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-024 }
+  status: referencia
+- id: item:cestas-basquete-025
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 69 - Leonard County
+  posicao: { x: 4329, y: 2857, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-025 }
+  status: referencia
+- id: item:cestas-basquete-026
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 77 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 3800, y: 2996, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-026 }
+  status: referencia
+- id: item:cestas-basquete-027
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 76 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 3807, y: 2996, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-027 }
+  status: referencia
+- id: item:cestas-basquete-028
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 78 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 3800, y: 3007, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-028 }
+  status: referencia
+- id: item:cestas-basquete-029
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 79 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 3807, y: 3007, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-029 }
+  status: referencia
+- id: item:cestas-basquete-030
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 80 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 3786, y: 3086, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-030 }
+  status: referencia
+- id: item:cestas-basquete-031
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 94 - Kelly County
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1810, y: 3221, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-031 }
+  status: referencia
+- id: item:cestas-basquete-032
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 81 - Leonard County
+  regiao: regiao:leonard
+  posicao: { x: 3717, y: 3161, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-032 }
+  status: referencia
+- id: item:cestas-basquete-033
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 68 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4418, y: 3151, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-033 }
+  status: referencia
+- id: item:cestas-basquete-034
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 67 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4616, y: 3241, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-034 }
+  status: referencia
+- id: item:cestas-basquete-035
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 66 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4622, y: 3243, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-035 }
+  status: referencia
+- id: item:cestas-basquete-036
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 65 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 5075, y: 3409, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-036 }
+  status: referencia
+- id: item:cestas-basquete-037
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 48 - Kelly County
+  regiao: regiao:kelly-county
+  posicao: { x: 2318, y: 3646, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-037 }
+  status: referencia
+- id: item:cestas-basquete-038
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 63 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 5025, y: 3510, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-038 }
+  status: referencia
+- id: item:cestas-basquete-039
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 64 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 5033, y: 3511, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-039 }
+  status: referencia
+- id: item:cestas-basquete-040
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 55 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4507, y: 3624, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-040 }
+  status: referencia
+- id: item:cestas-basquete-041
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 54 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4489, y: 3647, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-041 }
+  status: referencia
+- id: item:cestas-basquete-042
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 53 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4335, y: 3707, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-042 }
+  status: referencia
+- id: item:cestas-basquete-043
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 56 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4771, y: 3737, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-043 }
+  status: referencia
+- id: item:cestas-basquete-044
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 57 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4781, y: 3736, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-044 }
+  status: referencia
+- id: item:cestas-basquete-045
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 58 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4787, y: 3736, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-045 }
+  status: referencia
+- id: item:cestas-basquete-046
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 59 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4861, y: 3817, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-046 }
+  status: referencia
+- id: item:cestas-basquete-047
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 46 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3534, y: 3914, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-047 }
+  status: referencia
+- id: item:cestas-basquete-048
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 45 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3853, y: 3930, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-048 }
+  status: referencia
+- id: item:cestas-basquete-049
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 60 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4593, y: 3939, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-049 }
+  status: referencia
+- id: item:cestas-basquete-050
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 51 - Mariana County
+  regiao: regiao:capri
+  posicao: { x: 1505, y: 4148, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-050 }
+  status: referencia
+- id: item:cestas-basquete-051
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 61 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4551, y: 3962, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-051 }
+  status: referencia
+- id: item:cestas-basquete-052
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 42 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3803, y: 4013, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-052 }
+  status: referencia
+- id: item:cestas-basquete-053
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 50 - Mariana County
+  regiao: regiao:capri
+  posicao: { x: 1606, y: 4156, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-053 }
+  status: referencia
+- id: item:cestas-basquete-054
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 43 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3792, y: 4018, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-054 }
+  status: referencia
+- id: item:cestas-basquete-055
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 41 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3806, y: 4021, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-055 }
+  status: referencia
+- id: item:cestas-basquete-056
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 44 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3794, y: 4025, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-056 }
+  status: referencia
+- id: item:cestas-basquete-057
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 47 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3262, y: 4072, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-057 }
+  status: referencia
+- id: item:cestas-basquete-058
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 39 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4214, y: 4019, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-058 }
+  status: referencia
+- id: item:cestas-basquete-059
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 40 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3971, y: 4044, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-059 }
+  status: referencia
+- id: item:cestas-basquete-060
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 62 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4540, y: 4027, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-060 }
+  status: referencia
+- id: item:cestas-basquete-061
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 52 - Mariana County
+  regiao: regiao:capri
+  posicao: { x: 1526, y: 4253, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-061 }
+  status: referencia
+- id: item:cestas-basquete-062
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 33 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3803, y: 4153, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-062 }
+  status: referencia
+- id: item:cestas-basquete-063
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 32 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3811, y: 4220, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-063 }
+  status: referencia
+- id: item:cestas-basquete-064
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 49 - Mariana County
+  regiao: regiao:capri
+  posicao: { x: 1846, y: 4376, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-064 }
+  status: referencia
+- id: item:cestas-basquete-065
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 31 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3813, y: 4382, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-065 }
+  status: referencia
+- id: item:cestas-basquete-066
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 35 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4487, y: 4364, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-066 }
+  status: referencia
+- id: item:cestas-basquete-067
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 34 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4478, y: 4367, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-067 }
+  status: referencia
+- id: item:cestas-basquete-068
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 36 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4514, y: 4366, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-068 }
+  status: referencia
+- id: item:cestas-basquete-069
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 26 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3789, y: 4475, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-069 }
+  status: referencia
+- id: item:cestas-basquete-070
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 28 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3867, y: 4481, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-070 }
+  status: referencia
+- id: item:cestas-basquete-071
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 29 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3875, y: 4484, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-071 }
+  status: referencia
+- id: item:cestas-basquete-072
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 27 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3864, y: 4489, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-072 }
+  status: referencia
+- id: item:cestas-basquete-073
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 30 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3872, y: 4492, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-073 }
+  status: referencia
+- id: item:cestas-basquete-074
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 25 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3760, y: 4711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-074 }
+  status: referencia
+- id: item:cestas-basquete-075
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 24 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3827, y: 4783, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-075 }
+  status: referencia
+- id: item:cestas-basquete-076
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 38 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 4297, y: 4831, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-076 }
+  status: referencia
+- id: item:cestas-basquete-077
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 37 - Vice-Dale County
+  posicao: { x: 4574, y: 4841, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-077 }
+  status: referencia
+- id: item:cestas-basquete-078
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 23 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3655, y: 4948, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-078 }
+  status: referencia
+- id: item:cestas-basquete-079
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 20 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3784, y: 5138, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-079 }
+  status: referencia
+- id: item:cestas-basquete-080
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 21 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3855, y: 5199, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-080 }
+  status: referencia
+- id: item:cestas-basquete-081
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 22 - Vice-Dale County
+  regiao: regiao:vice-city
+  posicao: { x: 3889, y: 5262, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-081 }
+  status: referencia
+- id: item:cestas-basquete-082
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 16 - Vice-Dale County
+  regiao: regiao:hamlet
+  posicao: { x: 3166, y: 5308, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-082 }
+  status: referencia
+- id: item:cestas-basquete-083
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 15 - Vice-Dale County
+  regiao: regiao:hamlet
+  posicao: { x: 3161, y: 5320, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-083 }
+  status: referencia
+- id: item:cestas-basquete-084
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 17 - Vice-Dale County
+  regiao: regiao:hamlet
+  posicao: { x: 3252, y: 5325, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-084 }
+  status: referencia
+- id: item:cestas-basquete-085
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 18 - Vice-Dale County
+  regiao: regiao:hamlet
+  posicao: { x: 3261, y: 5325, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-085 }
+  status: referencia
+- id: item:cestas-basquete-086
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 14 - Mariana County
+  regiao: regiao:mariana-county
+  posicao: { x: 2821, y: 5411, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-086 }
+  status: referencia
+- id: item:cestas-basquete-087
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 12 - Mariana County
+  regiao: regiao:watson-bay
+  posicao: { x: 2486, y: 5477, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-087 }
+  status: referencia
+- id: item:cestas-basquete-088
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 13 - Mariana County
+  regiao: regiao:watson-bay
+  posicao: { x: 2599, y: 5517, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-088 }
+  status: referencia
+- id: item:cestas-basquete-089
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 19 - Vice-Dale County
+  regiao: regiao:hamlet
+  posicao: { x: 3286, y: 5534, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-089 }
+  status: referencia
+- id: item:cestas-basquete-090
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 9 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3601, y: 6209, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-090 }
+  status: referencia
+- id: item:cestas-basquete-091
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 8 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3583, y: 6276, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-091 }
+  status: referencia
+- id: item:cestas-basquete-092
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 6 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3426, y: 6314, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-092 }
+  status: referencia
+- id: item:cestas-basquete-093
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 7 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3567, y: 6330, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-093 }
+  status: referencia
+- id: item:cestas-basquete-094
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 5 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3410, y: 6355, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-094 }
+  status: referencia
+- id: item:cestas-basquete-095
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 3 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3312, y: 6463, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-095 }
+  status: referencia
+- id: item:cestas-basquete-096
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 4 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3434, y: 6466, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-096 }
+  status: referencia
+- id: item:cestas-basquete-097
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 11 - Mariana County
+  regiao: regiao:mariana-county
+  posicao: { x: 1903, y: 6719, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-097 }
+  status: referencia
+- id: item:cestas-basquete-098
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 10 - Mariana County
+  regiao: regiao:mariana-county
+  posicao: { x: 1925, y: 6743, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-098 }
+  status: referencia
+- id: item:cestas-basquete-099
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 2 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3267, y: 6673, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-099 }
+  status: referencia
+- id: item:cestas-basquete-100
+  tipo: item
+  subtipo: atividade
+  categoria: cestas-basquete
+  nome: Hoop 1 - Mariana County
+  regiao: regiao:leonida-keys
+  posicao: { x: 3095, y: 6792, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: basketball-100 }
+  status: referencia

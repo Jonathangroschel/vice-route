@@ -1,0 +1,375 @@
+# Itens da categoria fliperamas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:fliperamas-001
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 3557, y: 1195, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-001 }
+  status: referencia
+- id: item:fliperamas-002
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:leonida-keys
+  posicao: { x: 2318, y: 1687, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-002 }
+  status: referencia
+- id: item:fliperamas-003
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 3856, y: 1742, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-003 }
+  status: referencia
+- id: item:fliperamas-004
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:ambrosia
+  posicao: { x: 3222, y: 2531, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-004 }
+  status: referencia
+- id: item:fliperamas-005
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:ambrosia
+  posicao: { x: 3515, y: 2745, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-005 }
+  status: referencia
+- id: item:fliperamas-006
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:ambrosia
+  posicao: { x: 3515, y: 2745, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-006 }
+  status: referencia
+- id: item:fliperamas-007
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1864, y: 2857, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-007 }
+  status: referencia
+- id: item:fliperamas-008
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1864, y: 2857, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-008 }
+  status: referencia
+- id: item:fliperamas-009
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1872, y: 3276, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-009 }
+  status: referencia
+- id: item:fliperamas-010
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4995, y: 3414, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-010 }
+  status: referencia
+- id: item:fliperamas-011
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4147, y: 3492, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-011 }
+  status: referencia
+- id: item:fliperamas-012
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 4144, y: 3585, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-012 }
+  status: referencia
+- id: item:fliperamas-013
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:leonida-keys
+  posicao: { x: 2272, y: 3887, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-013 }
+  status: referencia
+- id: item:fliperamas-014
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 3877, y: 3918, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-014 }
+  status: referencia
+- id: item:fliperamas-015
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 3249, y: 3969, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-015 }
+  status: referencia
+- id: item:fliperamas-016
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4403, y: 3963, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-016 }
+  status: referencia
+- id: item:fliperamas-017
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4904, y: 4016, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-017 }
+  status: referencia
+- id: item:fliperamas-018
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 4904, y: 4016, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-018 }
+  status: referencia
+- id: item:fliperamas-019
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 4191, y: 4192, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-019 }
+  status: referencia
+- id: item:fliperamas-020
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4191, y: 4192, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-020 }
+  status: referencia
+- id: item:fliperamas-021
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 4039, y: 4223, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-021 }
+  status: referencia
+- id: item:fliperamas-022
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4039, y: 4223, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-022 }
+  status: referencia
+- id: item:fliperamas-023
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 4492, y: 4343, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-023 }
+  status: referencia
+- id: item:fliperamas-024
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:vice-city
+  posicao: { x: 3648, y: 5128, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-024 }
+  status: referencia
+- id: item:fliperamas-025
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:vice-city
+  posicao: { x: 3648, y: 5128, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-025 }
+  status: referencia
+- id: item:fliperamas-026
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:leonida-keys
+  posicao: { x: 2797, y: 5419, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-026 }
+  status: referencia
+- id: item:fliperamas-027
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:hamlet
+  posicao: { x: 3328, y: 5475, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-027 }
+  status: referencia
+- id: item:fliperamas-028
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:watson-bay
+  posicao: { x: 2325, y: 5599, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-028 }
+  status: referencia
+- id: item:fliperamas-029
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:hamlet
+  posicao: { x: 3329, y: 5688, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-029 }
+  status: referencia
+- id: item:fliperamas-030
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: Bang For Your Buck
+  regiao: regiao:leonida-keys
+  posicao: { x: 3461, y: 6214, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-030 }
+  status: referencia
+- id: item:fliperamas-031
+  tipo: item
+  subtipo: atividade
+  categoria: fliperamas
+  nome: "Street Trash 3: Dezombifier"
+  regiao: regiao:hamlet
+  posicao: { x: 1876, y: 6722, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: arcade-031 }
+  status: referencia

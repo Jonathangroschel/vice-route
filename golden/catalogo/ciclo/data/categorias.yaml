@@ -1,0 +1,8 @@
+- id: easter-eggs
+  nome: Easter eggs
+  grupo: colecionaveis
+  cor: '#ff6fae'
+  ordem: 1
+  total: 2
+  regra_100: { tipo: itens, minimo: 1 }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

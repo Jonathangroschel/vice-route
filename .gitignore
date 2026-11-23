@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.turbo/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+# saída do build do catálogo (gerada no deploy)
+apps/web/public/catalog/
+# respostas brutas das fontes (cache local dos importadores)
+tooling/importers/cache/

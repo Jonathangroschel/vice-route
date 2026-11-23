@@ -1,0 +1,77 @@
+# Itens da categoria garrafas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:garrafas-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: garrafas
+  nome: Message in a Bottle 6
+  regiao: regiao:leonida-keys
+  posicao: { x: 2893, y: 6475, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the eastern side of the small hill, on the south part of the island.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: message-bottle-001 }
+  status: referencia
+- id: item:garrafas-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: garrafas
+  nome: Message in a Bottle 1
+  regiao: regiao:leonida-keys
+  posicao: { x: 3123, y: 6497, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: message-bottle-002 }
+  status: referencia
+- id: item:garrafas-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: garrafas
+  nome: Message in a Bottle 2
+  regiao: regiao:leonida-keys
+  posicao: { x: 3226, y: 6367, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: message-bottle-003 }
+  status: referencia
+- id: item:garrafas-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: garrafas
+  nome: Message in a Bottle 3
+  regiao: regiao:leonida-keys
+  posicao: { x: 3238, y: 6304, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: message-bottle-004 }
+  status: referencia
+- id: item:garrafas-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: garrafas
+  nome: Message in a Bottle 4
+  regiao: regiao:leonida-keys
+  posicao: { x: 3350, y: 6157, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: message-bottle-005 }
+  status: referencia
+- id: item:garrafas-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: garrafas
+  nome: Message in a Bottle 5
+  regiao: regiao:leonida-keys
+  posicao: { x: 3562, y: 5976, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: message-bottle-006 }
+  status: referencia

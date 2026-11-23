@@ -1,0 +1,6 @@
+descricao: B fundido em A (CO-001-03)
+erros: []
+verificar:
+  - alvo: catalogo
+    caminho: [aliases, 'item:easter-eggs-b']
+    igual: 'item:easter-eggs-a'

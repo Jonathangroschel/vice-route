@@ -1,0 +1,10 @@
+pnpm-lock.yaml
+node_modules
+tooling/importers/cache
+data/**/*.yaml
+specs
+docs
+*.md
+tooling/importers/src/open-gta6-map/controle.yaml
+golden/**/*.yaml
+.github

@@ -1,0 +1,860 @@
+# Itens da categoria armas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:armas-001
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sniper Rifle
+  regiao: regiao:leonida-keys
+  posicao: { x: 2628, y: 6895, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On top of the tower there is an sniper rifle, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-001 }
+  status: referencia
+- id: item:armas-002
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Assassin Pistol
+  regiao: regiao:hamlet
+  posicao: { x: 2210, y: 6845, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Check the middle of the ship wreck, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-002 }
+  status: referencia
+- id: item:armas-003
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Legendary Shotgun
+  regiao: regiao:hamlet
+  posicao: { x: 1993, y: 6553, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Next to a wrecked smuggler's boat, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-003 }
+  status: referencia
+- id: item:armas-004
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Gun Nut House
+  regiao: regiao:leonida-keys
+  posicao: { x: 3261, y: 6692, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-004 }
+  status: referencia
+- id: item:armas-005
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sniper SM69 - Early game
+  regiao: regiao:leonida-keys
+  posicao: { x: 3314, y: 6513, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-005 }
+  status: referencia
+- id: item:armas-006
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Hobo Shotgun (Marabunta Grande warehouse)
+  regiao: regiao:hamlet
+  posicao: { x: 3355, y: 5595, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the warehouse behind pawn shop, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-006 }
+  status: referencia
+- id: item:armas-007
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Hobo Shotgun
+  regiao: regiao:watson-bay
+  posicao: { x: 2417, y: 5539, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-007 }
+  status: referencia
+- id: item:armas-008
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Molotov Cocktails
+  regiao: regiao:watson-bay
+  posicao: { x: 2400, y: 5451, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-008 }
+  status: referencia
+- id: item:armas-009
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: "Gun Nut House: SMS-01"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3469, y: 6259, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Go up the stairs to get the break-in prompt. The SMS-01 sniper rifle is in a gun case on the kitchen table. The house holds six weapons in all: the AR the gun nut carries, the sniper, a rocket launcher, an MG and two revolvers.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-009 }
+  status: referencia
+- id: item:armas-010
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sticky Bombs
+  regiao: regiao:vice-city
+  posicao: { x: 3623, y: 5285, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside a crate in the large block enclosure., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-010 }
+  status: referencia
+- id: item:armas-011
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Laird 350 Sniper Rifle
+  regiao: regiao:hamlet
+  posicao: { x: 2028, y: 3783, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the top of the tower, in a corner.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-011 }
+  status: referencia
+- id: item:armas-012
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Comshot 12
+  regiao: regiao:leonida-keys
+  posicao: { x: 3233, y: 6598, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-012 }
+  status: referencia
+- id: item:armas-013
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Kingfishers Laird 350 (Legendary Sniper Rifle)
+  regiao: regiao:vice-city
+  posicao: { x: 3167, y: 5802, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Manatee Motel, Pelican Valley: a fully upgraded legendary sniper rifle. Kill the tiger, then keep the wall to your right and go to the next room with the open door. There is also about $2,000 and some bricks of cocaine.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-013 }
+  status: referencia
+- id: item:armas-014
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Kingfishers W-22 (Legendary)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2605, y: 5955, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the main building connected to the pier., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-014 }
+  status: referencia
+- id: item:armas-015
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Pump Shotgun
+  regiao: regiao:leonida-keys
+  posicao: { x: 3269, y: 6537, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Behind a door., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-015 }
+  status: referencia
+- id: item:armas-016
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Laird 350 Longarm Rifle (Hunters event reward)
+  regiao: regiao:hamlet
+  posicao: { x: 2188, y: 4917, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "You get this rifle after the random event with the two hunters, once you've dropped the injured hunter at the hospital.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-016 }
+  status: referencia
+- id: item:armas-017
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Kozlov KZ-59 Assault Rifle
+  regiao: regiao:leonida-keys
+  posicao: { x: 2847, y: 6138, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Assault rifle sitting on top of 55 gallon drum, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-017 }
+  status: referencia
+- id: item:armas-018
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Golf Clubs
+  regiao: regiao:leonida-keys
+  posicao: { x: 3480, y: 6203, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the enterable low-level garage, there's a bag with golf clubs. You can choose 1 of 4 different types", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-018 }
+  status: referencia
+- id: item:armas-019
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Los Santos Corkers Baseball Bat
+  regiao: regiao:leonida-keys
+  posicao: { x: 3523, y: 6367, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Los Santos Corkers Baseball Bat laying in the corner in that large warehouse when enter from the backyard. There's also a crowbar, sledgehammer and 3 types of hammer around the large hall", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-019 }
+  status: referencia
+- id: item:armas-020
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: M306 TMR Rifle (Black Eagle Import)
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3300, y: 3709, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside a caged room inside of the warehouse (look for the room with the forklift in it). To access the gun you must use the forklift to move the stack of storage boxes, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-020 }
+  status: referencia
+- id: item:armas-021
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Darknite Drifter (Legendary)
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1718, y: 2806, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the ammu nation shop at the entrance, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-021 }
+  status: referencia
+- id: item:armas-022
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Deever Tech DSG, Girardi Super400, Fortune & Son Laird 350
+  posicao: { x: 1283, y: 6886, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-022 }
+  status: referencia
+- id: item:armas-023
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Molotov Cocktails
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1721, y: 2848, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-023 }
+  status: referencia
+- id: item:armas-024
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Crabshack VF5 SMG (Unique Variant)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2800, y: 5807, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: $8000 Marked Bills Screenshot from Norzza's youTube video., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-024 }
+  status: referencia
+- id: item:armas-025
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Gold Revolver
+  regiao: regiao:vice-city
+  posicao: { x: 2954, y: 5796, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-025 }
+  status: referencia
+- id: item:armas-026
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sniper Rifle
+  regiao: regiao:vice-city
+  posicao: { x: 2952, y: 5800, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-026 }
+  status: referencia
+- id: item:armas-027
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Baseball Bat
+  regiao: regiao:leonida-keys
+  posicao: { x: 2383, y: 7078, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Leaning on the railing of a wooden deck by the beach, next to a collectible card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-027 }
+  status: referencia
+- id: item:armas-028
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Conspiracist Type 9 SMG
+  regiao: regiao:vice-city
+  posicao: { x: 3380, y: 3779, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the trailer with all the antennas., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-028 }
+  status: referencia
+- id: item:armas-029
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Grenade Launcher
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1877, y: 3293, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Grenade launcher pickup in the alley behind the shops., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-029 }
+  status: referencia
+- id: item:armas-030
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Shrewsbury SM69 Sniper Rifle
+  regiao: regiao:ambrosia
+  posicao: { x: 3148, y: 2639, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the roof of the tower in Ambrosia, next to the Immigrantasma (Blue) card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-030 }
+  status: referencia
+- id: item:armas-031
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Scorpio Nipper .38
+  regiao: regiao:leonida-keys
+  posicao: { x: 3550, y: 6230, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Compact pistol on the roof of the 247 store in Key Lento., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-031 }
+  status: referencia
+- id: item:armas-032
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Duke 556 Assault Rifle
+  regiao: regiao:leonida-keys
+  posicao: { x: 2604, y: 5949, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Near the seaplane, on top of the small building to the right of the water tank (facing the water).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-032 }
+  status: referencia
+- id: item:armas-033
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Bat Batesaurio
+  regiao: regiao:ambrosia
+  posicao: { x: 2590, y: 2803, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Unique bat. Pick it up next to the red mesh cage near Dino Golf., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-033 }
+  status: referencia
+- id: item:armas-034
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: 556 Shortcut
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1803, y: 2691, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Assault rifle pickup., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-034 }
+  status: referencia
+- id: item:armas-035
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Redneck W-22
+  regiao: regiao:leonida-keys
+  posicao: { x: 2817, y: 1442, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the derailed train., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-035 }
+  status: referencia
+- id: item:armas-036
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Machete
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2161, y: 2605, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On top of the hay bales., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-036 }
+  status: referencia
+- id: item:armas-037
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Cockroach Xtreme 556 Assault Rifle
+  regiao: regiao:vice-city
+  posicao: { x: 3940, y: 4544, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Unique weapon at the back of the garage., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-037 }
+  status: referencia
+- id: item:armas-038
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: .50 Pistol
+  posicao: { x: 3613, y: 5301, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-038 }
+  status: nao_confirmado
+- id: item:armas-039
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Drug Mule KZ-59
+  posicao: { x: 1476, y: 6366, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Underwater. Look for floating debris and dive straight down to the sunken boat. The weapon is under the boat., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-039 }
+  status: nao_confirmado
+- id: item:armas-040
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Rocket Launcher
+  posicao: { x: 2290, y: 1225, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the shipwreck in the Featherstone Islands: in one of the crates on the beach.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-040 }
+  status: nao_confirmado
+- id: item:armas-041
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Frag Grenades
+  posicao: { x: 1752, y: 2717, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under the overpass, near a bright construction light and shovels: break open the large wooden crate for 3 or more frag grenades.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-041 }
+  status: nao_confirmado
+- id: item:armas-042
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sticky Bombs
+  posicao: { x: 1807, y: 2852, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In a crate inside the warehouse., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-042 }
+  status: nao_confirmado
+- id: item:armas-043
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sticky Bombs
+  posicao: { x: 1866, y: 2635, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the crate., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-043 }
+  status: nao_confirmado
+- id: item:armas-044
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: AT-T
+  posicao: { x: 1840, y: 2932, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On a crate in the fence's yard., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-044 }
+  status: nao_confirmado
+- id: item:armas-045
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Frag Grenades
+  posicao: { x: 1966, y: 2502, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under the bridge in a large wooden crate, just behind a large construction light with shovels and cones.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-045 }
+  status: nao_confirmado
+- id: item:armas-046
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sticky Bombs
+  posicao: { x: 1757, y: 2953, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the last open train car, in a wooden box.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-046 }
+  status: nao_confirmado
+- id: item:armas-047
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: "Gun Nut House: SM-01"
+  posicao: { x: 3046, y: 2722, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Break into the house through the side door: the gun is on the kitchen counter with plenty of ammo next to it, and there's body armor in the bedroom.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-047 }
+  status: nao_confirmado
+- id: item:armas-048
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Scraper VF5C
+  posicao: { x: 1680, y: 2826, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the top floor, near the safe.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-048 }
+  status: nao_confirmado
+- id: item:armas-049
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Molotov Cocktails
+  posicao: { x: 2319, y: 5375, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In a chest full of Molotovs., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-049 }
+  status: nao_confirmado
+- id: item:armas-050
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Black Eagle Import Kalinga .50
+  posicao: { x: 3307, y: 3710, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the safe. Door code: 789987, safe code: 031462.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-050 }
+  status: nao_confirmado
+- id: item:armas-051
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Convict Kalinga .50
+  posicao: { x: 2400, y: 3533, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Enter at the Escaped Prisoners barn: underground, at the end of the collapsed tunnel, by the dead prisoner.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-051 }
+  status: nao_confirmado
+- id: item:armas-052
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Molotov Cocktails
+  posicao: { x: 3609, y: 5291, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Break open the crate at the end of the destroyed building, behind the drug deal gone wrong.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-052 }
+  status: nao_confirmado
+- id: item:armas-053
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Hillinger Boomer
+  posicao: { x: 3282, y: 3718, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In a crate you can break open., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-053 }
+  status: nao_confirmado
+- id: item:armas-054
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Rocket Launcher
+  posicao: { x: 3351, y: 5709, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Contents may vary: a member found a shotgun in it.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-056 }
+  status: nao_confirmado
+- id: item:armas-055
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Sticky Bombs
+  posicao: { x: 3867, y: 4357, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Crate with 3 sticky bombs., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-058 }
+  status: nao_confirmado
+- id: item:armas-056
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Laird 350 Sniper Rifle
+  posicao: { x: 3380, y: 4069, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Up top, by the card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-061 }
+  status: nao_confirmado
+- id: item:armas-057
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Rocket Launcher
+  posicao: { x: 1795, y: 2689, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-065 }
+  status: nao_confirmado
+- id: item:armas-058
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Flare Gun
+  posicao: { x: 2645, y: 2744, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside a metal box., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-068 }
+  status: nao_confirmado
+- id: item:armas-059
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: ADB M350 Longarm
+  posicao: { x: 1865, y: 3113, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: After killing Booker you can take this gun off his body., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-072 }
+  status: nao_confirmado
+- id: item:armas-060
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Hobo Shotgun (for sale)
+  posicao: { x: 3871, y: 3695, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A unique weapon you can buy from this store., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-074 }
+  status: nao_confirmado
+- id: item:armas-061
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Wortham WCR-1
+  posicao: { x: 3242, y: 6587, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-079 }
+  status: nao_confirmado
+- id: item:armas-062
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Molotov Cocktails & Hammer
+  posicao: { x: 4255, y: 3287, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A Molotov crate in the parking bay for the delivery truck, with a hammer on top.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-080 }
+  status: nao_confirmado
+- id: item:armas-063
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Shotgun (Kingpin Bowling)
+  posicao: { x: 1860, y: 3104, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the case on the pool table., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-081 }
+  status: nao_confirmado
+- id: item:armas-064
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Flare Gun
+  posicao: { x: 2017, y: 5237, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the hangar, up the stairs: a wooden crate on the side with money and the flare gun.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-082 }
+  status: nao_confirmado
+- id: item:armas-065
+  tipo: item
+  subtipo: crime
+  categoria: armas
+  nome: Fortune & Son Laird 350
+  posicao: { x: 2625, y: 5950, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Against some wooden pallets., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: weapon-spawn-083 }
+  status: nao_confirmado

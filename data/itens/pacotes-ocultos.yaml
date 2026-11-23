@@ -1,0 +1,1004 @@
+# Itens da categoria pacotes-ocultos. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:pacotes-ocultos-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Shipwreck
+  regiao: regiao:vice-city
+  posicao: { x: 4214, y: 6136, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Underwater shipwreck. Player directed here as a part of a side mission for Kenton, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-002 }
+  status: referencia
+- id: item:pacotes-ocultos-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Jewellery Lockbox ($300)
+  regiao: regiao:hamlet
+  posicao: { x: 1997, y: 6774, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: $300 of Jewellery in a lockbox on the wrecked boat on the western side of this island, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-015 }
+  status: referencia
+- id: item:pacotes-ocultos-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Stamped Magazine Tattoo Scan
+  regiao: regiao:hamlet
+  posicao: { x: 2069, y: 6641, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the floor, up the ramp on the shack with the UV Bug zapper", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-016 }
+  status: referencia
+- id: item:pacotes-ocultos-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Scuba Gear
+  regiao: regiao:hamlet
+  posicao: { x: 2075, y: 6647, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Scuba Gear on the small white boat next to the shack (not the black RIB boat)., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-017 }
+  status: referencia
+- id: item:pacotes-ocultos-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: "Easter Egg: Giant Grab"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2802, y: 5807, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Enter a dead spot and activate the power box, the same one you use when entering the house. Go to the left room, interact with the paper, and use the last word as the computer password. Access the computer to get your sentence. Then, go to the safe in the house and enter the cod…", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-018 }
+  status: referencia
+- id: item:pacotes-ocultos-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:leonida-keys
+  posicao: { x: 2840, y: 6140, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Destroy the flamingo to find two half cocaine bricks, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-019 }
+  status: referencia
+- id: item:pacotes-ocultos-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo (beach party)
+  regiao: regiao:hamlet
+  posicao: { x: 2069, y: 6645, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: At the beach party, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-020 }
+  status: referencia
+- id: item:pacotes-ocultos-008
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Half Brick of Cocaine
+  posicao: { x: 1327, y: 6902, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the door of the southern-most building on the east side of the island. Room also contains beer, E Cola and chips", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-021 }
+  status: referencia
+- id: item:pacotes-ocultos-009
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: "Easter Egg: QR Code (NoFlushers)"
+  regiao: regiao:vice-city
+  posicao: { x: 3943, y: 5711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A QR code on a "Stop! Don't flush" poster. It leads to a seized FIB page on Rockstar's website., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-022 }
+  status: referencia
+- id: item:pacotes-ocultos-010
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Two Bags of Cocaine ($640)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2957, y: 7251, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Two bags of cocaine, worth $640 in total.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-023 }
+  status: referencia
+- id: item:pacotes-ocultos-011
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1316, y: 6895, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the same building as the other cocaine, among the candles.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-024 }
+  status: referencia
+- id: item:pacotes-ocultos-012
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Speed Boat Cocaine
+  regiao: regiao:leonida-keys
+  posicao: { x: 2814, y: 5999, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Jump on the boat to open the latch., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-025 }
+  status: referencia
+- id: item:pacotes-ocultos-013
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Money Box ($398)
+  regiao: regiao:hamlet
+  posicao: { x: 1999, y: 6771, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "$398 in a box on an abandoned white boat, on the west side of the island facing the town.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-026 }
+  status: referencia
+- id: item:pacotes-ocultos-014
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Bags of Acid ($300-$450)
+  regiao: regiao:hamlet
+  posicao: { x: 1896, y: 6743, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 3-4 bags of Acid $300-$450 Located behind garage of gas station in crater use focus, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-027 }
+  status: referencia
+- id: item:pacotes-ocultos-015
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Lockbox ($244) - Boat House
+  regiao: regiao:hamlet
+  posicao: { x: 1892, y: 6693, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: $244 dollars in lock box in upstairs office of boat house - note people inside best at night, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-028 }
+  status: referencia
+- id: item:pacotes-ocultos-016
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo ($160)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3487, y: 6412, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: $160 half a brick of cocaine. In left from yard of house. Use focus to see highlighted in white, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-029 }
+  status: referencia
+- id: item:pacotes-ocultos-017
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Shrooms Stash ($240)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3425, y: 6355, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Three packs of shrooms in the old fridge wide-open, in front of the red trailer and next to collectible card", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-030 }
+  status: referencia
+- id: item:pacotes-ocultos-018
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Small Bag of Drugs (under the bridge)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2264, y: 7054, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A small bag of drugs under the bridge, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-031 }
+  status: referencia
+- id: item:pacotes-ocultos-019
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:hamlet
+  posicao: { x: 3261, y: 5398, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-032 }
+  status: referencia
+- id: item:pacotes-ocultos-020
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Weed Bricks
+  regiao: regiao:leonida-keys
+  posicao: { x: 3474, y: 6619, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the middle of the old tire, near the campment.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-033 }
+  status: referencia
+- id: item:pacotes-ocultos-021
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1714, y: 2845, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-034 }
+  status: referencia
+- id: item:pacotes-ocultos-022
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:watson-bay
+  posicao: { x: 2790, y: 5428, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the corner, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-035 }
+  status: referencia
+- id: item:pacotes-ocultos-023
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:leonida-keys
+  posicao: { x: 3217, y: 6708, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: There's a unique house here with a lot of weird decoration. There is a cocaine flamingo here with some cocaine (1 of 32), spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-036 }
+  status: referencia
+- id: item:pacotes-ocultos-024
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Bags of Acid (boat house)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2731, y: 5923, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the small boat house, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-037 }
+  status: referencia
+- id: item:pacotes-ocultos-025
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Shrooms Stash (toilet)
+  regiao: regiao:vice-city
+  posicao: { x: 3951, y: 5701, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the toilet, next to the QR code (NoFlushers easter egg).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-038 }
+  status: referencia
+- id: item:pacotes-ocultos-026
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Three Bags of Cocaine (floating box)
+  regiao: regiao:vice-city
+  posicao: { x: 3804, y: 1030, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Three packets of cocaine under a floating box., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-039 }
+  status: referencia
+- id: item:pacotes-ocultos-027
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Aqua Stadium Weed Stash
+  posicao: { x: 4518, y: 4853, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Drugs to sell: a secret weed grow on the bottom level behind a shutter, and more on a rusted walkway at the top of the seating.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-040 }
+  status: referencia
+- id: item:pacotes-ocultos-028
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:hamlet
+  posicao: { x: 1980, y: 6954, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside a small building, on the table.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-041 }
+  status: referencia
+- id: item:pacotes-ocultos-029
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  regiao: regiao:leonida-keys
+  posicao: { x: 3507, y: 6182, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Lying on the ground in the corner between two trees, left of the fire hydrant.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-042 }
+  status: referencia
+- id: item:pacotes-ocultos-030
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Aviator Sunglasses
+  regiao: regiao:hamlet
+  posicao: { x: 2220, y: 6561, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On a table in a small hut., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-043 }
+  status: referencia
+- id: item:pacotes-ocultos-031
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1230, y: 2738, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On top of the garbage mountain, under the fridge.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-044 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-032
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Money
+  posicao: { x: 3100, y: 6777, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the rooftop., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-045 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-033
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Swamp Car Trunk Stash
+  posicao: { x: 3104, y: 6010, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the trunk of an abandoned car in the swamp: ammo, a hunting rifle and packages of drugs.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-046 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-034
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Crystal Stash (Keyline Paint Shop)
+  posicao: { x: 3459, y: 6359, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In a box next to the noticeboard inside the Keyline Paint Shop., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-047 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-035
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Stranded Boat Cocaine
+  posicao: { x: 2812, y: 3654, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On a stranded boat: 3 half-kilos of cocaine and a machete.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-048 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-036
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cash and Cocaine Stash
+  posicao: { x: 4336, y: 5317, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under the window, on the floor. You won't like what you see.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-049 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-037
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1123, y: 4489, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Next to the sunken ship, among a group of flamingos: use Focus to make it light up.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-050 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-038
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingos (dock)
+  posicao: { x: 1262, y: 4562, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "3 cocaine flamingos: 1 on the dock next to the dead man, the other 2 closer to the music. Use Focus to find them.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-051 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-039
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Purple Drank
+  posicao: { x: 1787, y: 3007, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the red open train car, next to the collectible card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-052 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-040
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cannabis Stash (gas station roof)
+  posicao: { x: 3553, y: 6239, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the roof of the gas station., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-053 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-041
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 969, y: 4193, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under the dock., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-054 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-042
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 3269, y: 6539, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-055 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-043
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Weed Stash (boarded-up shack)
+  posicao: { x: 2917, y: 3472, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the table on the back porch of the boarded-up shack with a dock: 3 bags of weed ($150 each).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-056 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-044
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 2745, y: 7073, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Among the flamingos on the beach. Use focus to spot the right one., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-057 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-045
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Abandoned Train Car Stash
+  posicao: { x: 2818, y: 5059, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the abandoned train car (sofa chair in the opening): drugs, with weed in the corner of the building next to it.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-058 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-046
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Weed Stash (house)
+  posicao: { x: 2596, y: 5540, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Enter through the front, where there are no residents; avoid the back.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-059 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-047
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1974, y: 6959, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Near the one inside the house: walk out, go straight to the damaged wall and look far right.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-060 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-048
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Pills Stash
+  posicao: { x: 2392, y: 5488, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pills ($260) in the back bedroom, and another set in the back bathroom.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-061 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-049
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 3840, y: 3934, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the store lockup., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-062 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-050
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1806, y: 2921, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-063 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-051
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1836, y: 3255, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: At the front of the house., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-065 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-052
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: LSD Stash (bus)
+  posicao: { x: 2641, y: 3528, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Some LSD is hidden in the bus., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-066 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-053
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Tower Stash
+  posicao: { x: 2332, y: 5072, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Loot ($349) and weed., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-067 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-054
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1556, y: 4103, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "White beak, behind the grill.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-068 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-055
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1884, y: 2645, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the roof (white beak)., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-069 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-056
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 2496, y: 5193, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the small cave off the side of the road., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-070 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-057
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1014, y: 4513, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Near the shipping containers, by the burning pile.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-071 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-058
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: "Easter Egg: Evidence of a Murder"
+  posicao: { x: 3480, y: 6285, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Behind Mandy's house: a plastic drum big enough to fit a person, next to a body-sized patch of dug-up dirt.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-072 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-059
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1769, y: 4311, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Among the flamingos in the middle of the Halloween House's front yard., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-073 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-060
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 1825, y: 3057, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In front of the house by the highway., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-074 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-061
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Macizo Cigars
+  posicao: { x: 1990, y: 6544, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Among the wreckage on the shore., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-075 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-062
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: "Easter Egg: Bird Nest on the Mast"
+  posicao: { x: 3336, y: 5113, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Climb the mast all the way up to find a nest with an egg. Nothing to keep: you can only throw it.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-076 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-063
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Half Brick of Cocaine
+  posicao: { x: 4335, y: 2283, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the garage., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-077 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-064
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Dead Man's Wallet
+  posicao: { x: 4357, y: 2130, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A dead man lies on the beach of the island. The wallet next to him held $1,238 in cash.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-078 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-065
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Crate
+  posicao: { x: 1937, y: 6885, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A large crate near a guard leaning over a rail. It had cocaine in it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-079 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-066
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Pills Stash (gold mine)
+  posicao: { x: 2788, y: 1094, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pills and a card, on the shelves.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-080 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-067
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 3652, y: 4934, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In front of the brick and white house with the hearts., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-081 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-068
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: "Easter Egg: Beeping Bed (observatory)"
+  posicao: { x: 2597, y: 2253, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Enter the dome from the top and go all the way down. Sit on the chair, get up and walk to the bed on the floor to find something to interact with.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-082 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-069
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Bag of Cocaine (pool)
+  posicao: { x: 3616, y: 6244, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the table next to the pool., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-083 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-070
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cocaine Flamingo
+  posicao: { x: 3281, y: 5579, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-084 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-071
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Gentrificator Mask
+  posicao: { x: 3233, y: 5495, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "After the caravan fight, go inside to find a mask you can use to hide your face in robberies.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-085 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-072
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Crystal Stash
+  posicao: { x: 3261, y: 5565, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-086 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-073
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Shrooms Stash
+  posicao: { x: 2661, y: 3536, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-087 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-074
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Cash Box ($300)
+  posicao: { x: 3306, y: 5038, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A cash box with about $300 in the garage., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-088 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-075
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: $330 cash in box south side of this building
+  posicao: { x: 2757, y: 3262, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: $330 cash in box south side of Building, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-089 }
+  status: nao_confirmado
+- id: item:pacotes-ocultos-076
+  tipo: item
+  subtipo: colecionavel
+  categoria: pacotes-ocultos
+  nome: Scoop Shipping container
+  posicao: { x: 2808, y: 3127, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Scoop Shipping container Require cutting tool from chapter 3, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hidden-package-090 }
+  status: nao_confirmado

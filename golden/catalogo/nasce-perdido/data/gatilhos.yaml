@@ -1,0 +1,10 @@
+- id: 'gatilho:loja-x-noite'
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Visitar a loja X à noite
+  conta_para_100: false
+  disponivel_desde: { missao: 'missao:principal-015', momento: conclusao }
+  condicoes_momento: [{ horario: { de: 20, ate: 4 } }]
+  spoiler: 1
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

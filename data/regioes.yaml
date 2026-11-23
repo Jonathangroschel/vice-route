@@ -1,0 +1,28 @@
+# Regiões de Leonida usadas pelo catálogo.
+
+- id: regiao:ambrosia
+  nome: Ambrosia
+- id: regiao:capri
+  nome: Capri
+- id: regiao:grassrivers
+  nome: Grassrivers
+- id: regiao:hamlet
+  nome: Hamlet
+- id: regiao:kelly-county
+  nome: Kelly County
+- id: regiao:leonard
+  nome: Leonard
+- id: regiao:leonida-keys
+  nome: Leonida Keys
+- id: regiao:lummox-county
+  nome: Lummox County
+- id: regiao:mariana-county
+  nome: Mariana County
+- id: regiao:mount-kalaga
+  nome: Mount Kalaga
+- id: regiao:port-gellhorn
+  nome: Port Gellhorn
+- id: regiao:vice-city
+  nome: Vice City
+- id: regiao:watson-bay
+  nome: Watson Bay

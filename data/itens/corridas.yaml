@@ -1,0 +1,652 @@
+# Itens da categoria corridas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:corridas-001
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Mount Kalaga - Cycling Trial
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3025, y: 1818, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Near the summit of Mount Kalaga, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-001 }
+  status: referencia
+- id: item:corridas-002
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Mountainside
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3085, y: 1599, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-002 }
+  status: referencia
+- id: item:corridas-003
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Strip Mine
+  regiao: regiao:vice-city
+  posicao: { x: 3083, y: 1601, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-003 }
+  status: referencia
+- id: item:corridas-004
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Red Canyon Run
+  regiao: regiao:hamlet
+  posicao: { x: 2083, y: 1814, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-004 }
+  status: referencia
+- id: item:corridas-005
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Farm Tour
+  regiao: regiao:hamlet
+  posicao: { x: 2084, y: 1814, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-005 }
+  status: referencia
+- id: item:corridas-006
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Log Jam
+  regiao: regiao:vice-city
+  posicao: { x: 3729, y: 1737, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-006 }
+  status: referencia
+- id: item:corridas-007
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Golf Tour
+  regiao: regiao:vice-city
+  posicao: { x: 3726, y: 1737, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-007 }
+  status: referencia
+- id: item:corridas-008
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Waning Sands - Motocross Stunt Run
+  regiao: regiao:vice-city
+  posicao: { x: 4118, y: 2276, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-008 }
+  status: referencia
+- id: item:corridas-009
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Oval Trial
+  regiao: regiao:leonida-keys
+  posicao: { x: 2805, y: 2370, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-009 }
+  status: referencia
+- id: item:corridas-010
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Drag Trial
+  regiao: regiao:leonida-keys
+  posicao: { x: 2873, y: 2368, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-010 }
+  status: referencia
+- id: item:corridas-011
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Skid Loop
+  regiao: regiao:leonida-keys
+  posicao: { x: 2788, y: 2376, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-011 }
+  status: referencia
+- id: item:corridas-012
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Figure 8 Blitz
+  regiao: regiao:leonida-keys
+  posicao: { x: 2789, y: 2376, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-012 }
+  status: referencia
+- id: item:corridas-013
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Swamp Run Trial
+  regiao: regiao:grassrivers
+  posicao: { x: 2864, y: 2382, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-013 }
+  status: referencia
+- id: item:corridas-014
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Air Time Stunt Run
+  regiao: regiao:leonida-keys
+  posicao: { x: 2759, y: 2409, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-014 }
+  status: referencia
+- id: item:corridas-015
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Hill Climb Trial
+  regiao: regiao:leonida-keys
+  posicao: { x: 2856, y: 2417, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-015 }
+  status: referencia
+- id: item:corridas-016
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Ambrosia Raceway - Oval
+  regiao: regiao:ambrosia
+  posicao: { x: 3180, y: 2414, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-016 }
+  status: referencia
+- id: item:corridas-017
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Ambrosia Raceway - Figure 8
+  regiao: regiao:ambrosia
+  posicao: { x: 3182, y: 2415, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-017 }
+  status: referencia
+- id: item:corridas-018
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Big Mud
+  regiao: regiao:leonida-keys
+  posicao: { x: 2747, y: 2489, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-018 }
+  status: referencia
+- id: item:corridas-019
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Hog Hustle
+  regiao: regiao:leonida-keys
+  posicao: { x: 2746, y: 2490, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-019 }
+  status: referencia
+- id: item:corridas-020
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Muck Scramble
+  regiao: regiao:grassrivers
+  posicao: { x: 2746, y: 2491, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-020 }
+  status: referencia
+- id: item:corridas-021
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Dirt Slam
+  regiao: regiao:leonida-keys
+  posicao: { x: 2746, y: 2492, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-021 }
+  status: referencia
+- id: item:corridas-022
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Sludge Rush
+  regiao: regiao:leonida-keys
+  posicao: { x: 2745, y: 2493, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-022 }
+  status: referencia
+- id: item:corridas-023
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Trash Dash
+  regiao: regiao:leonida-keys
+  posicao: { x: 2745, y: 2494, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-023 }
+  status: referencia
+- id: item:corridas-024
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Ambrosia Raceway - Raceway Trial
+  regiao: regiao:ambrosia
+  posicao: { x: 3151, y: 2475, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-024 }
+  status: referencia
+- id: item:corridas-025
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Thrillbilly Mud Club - Dirt Track Trial
+  regiao: regiao:ambrosia
+  posicao: { x: 2669, y: 2626, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-025 }
+  status: referencia
+- id: item:corridas-026
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Dragway Trial
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1742, y: 3282, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-026 }
+  status: referencia
+- id: item:corridas-027
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Long Loop
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1733, y: 3444, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-027 }
+  status: referencia
+- id: item:corridas-028
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Intermediate Loop CCW
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1731, y: 3444, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-028 }
+  status: referencia
+- id: item:corridas-029
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Short Loop
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1731, y: 3445, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-029 }
+  status: referencia
+- id: item:corridas-030
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Basic Loop
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1730, y: 3446, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-030 }
+  status: referencia
+- id: item:corridas-031
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Introduction
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1744, y: 3448, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-031 }
+  status: referencia
+- id: item:corridas-032
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Full Loop CCW
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1699, y: 3484, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-032 }
+  status: referencia
+- id: item:corridas-033
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Long Loop CCW
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1698, y: 3487, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-033 }
+  status: referencia
+- id: item:corridas-034
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Short Loop CCW
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1696, y: 3488, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-034 }
+  status: referencia
+- id: item:corridas-035
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Full Loop
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1688, y: 3497, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-035 }
+  status: referencia
+- id: item:corridas-036
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Raceway Trial
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1733, y: 3496, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-036 }
+  status: referencia
+- id: item:corridas-037
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Intermediate Loop
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1687, y: 3499, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-037 }
+  status: referencia
+- id: item:corridas-038
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Gellhorn Raceway - Basic Loop CCW
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1686, y: 3501, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-038 }
+  status: referencia
+- id: item:corridas-039
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Little Cuba Run
+  regiao: regiao:vice-city
+  posicao: { x: 4050, y: 3449, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-039 }
+  status: referencia
+- id: item:corridas-040
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Mural Tour
+  regiao: regiao:vice-city
+  posicao: { x: 4052, y: 3450, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-040 }
+  status: referencia
+- id: item:corridas-041
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Beach Blast
+  regiao: regiao:vice-city
+  posicao: { x: 4836, y: 3633, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-041 }
+  status: referencia
+- id: item:corridas-042
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Rialto Run
+  regiao: regiao:vice-city
+  posicao: { x: 4835, y: 3633, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-042 }
+  status: referencia
+- id: item:corridas-043
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Airport Run
+  regiao: regiao:vice-city
+  posicao: { x: 3799, y: 4360, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-043 }
+  status: referencia
+- id: item:corridas-044
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Freeway Run
+  regiao: regiao:vice-city
+  posicao: { x: 3797, y: 4360, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-044 }
+  status: referencia
+- id: item:corridas-045
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Shoreline
+  regiao: regiao:vice-city
+  posicao: { x: 3796, y: 4361, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-045 }
+  status: referencia
+- id: item:corridas-046
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - The Tunnel
+  posicao: { x: 4562, y: 4846, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-046 }
+  status: referencia
+- id: item:corridas-047
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hit 'N' Run VC - Port Cruise
+  posicao: { x: 4562, y: 4847, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-047 }
+  status: referencia
+- id: item:corridas-048
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Wetlands Circuit
+  regiao: regiao:grassrivers
+  posicao: { x: 2519, y: 5212, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-048 }
+  status: referencia
+- id: item:corridas-049
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Landfill
+  regiao: regiao:leonida-keys
+  posicao: { x: 2521, y: 5213, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-049 }
+  status: referencia
+- id: item:corridas-050
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Hamlet - BMX Stunt Run
+  regiao: regiao:hamlet
+  posicao: { x: 3327, y: 5401, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-050 }
+  status: referencia
+- id: item:corridas-051
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Boone Speedway - Speedway Trial
+  regiao: regiao:hamlet
+  posicao: { x: 3136, y: 5514, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-051 }
+  status: referencia
+- id: item:corridas-052
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Boone Speedway - Oval
+  regiao: regiao:hamlet
+  posicao: { x: 3095, y: 5561, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-052 }
+  status: referencia
+- id: item:corridas-053
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Boone Speedway - Figure 8
+  regiao: regiao:hamlet
+  posicao: { x: 3097, y: 5562, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-053 }
+  status: referencia
+- id: item:corridas-054
+  tipo: item
+  subtipo: atividade
+  categoria: corridas
+  nome: Animal Crackers - Grayson
+  posicao: { x: 2085, y: 1815, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "An Animal Crackers race, starting next to the Farm Tour and Red Canyon Run races.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: race-054 }
+  status: nao_confirmado

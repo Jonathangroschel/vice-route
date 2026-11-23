@@ -1,0 +1,71 @@
+# Itens da categoria subaquaticas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:subaquaticas-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: subaquaticas
+  nome: Nuestra Señora de la Noche Treasure 1/7
+  regiao: regiao:vice-city
+  posicao: { x: 3281, y: 7034, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: treasures 1 of 7, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: treasure-001 }
+  status: referencia
+- id: item:subaquaticas-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: subaquaticas
+  nome: Nuestra Señora de la Ética Laxa Treasure
+  regiao: regiao:vice-city
+  posicao: { x: 3072, y: 7047, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: treasure-002 }
+  status: referencia
+- id: item:subaquaticas-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: subaquaticas
+  nome: Urca de Santa Sierra Treasure
+  regiao: regiao:vice-city
+  posicao: { x: 3603, y: 6863, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Contains 6 artifacts. Unlocked after completing Kenton's first three requests and checking in with him., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: treasure-003 }
+  status: referencia
+- id: item:subaquaticas-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: subaquaticas
+  nome: Urca de Cinco Torres Treasure
+  regiao: regiao:leonida-keys
+  posicao: { x: 3333, y: 6801, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Contains 6 artifacts. Unlocked after completing Kenton's first three requests and checking in with him. In shallow water: you can see the wreck from above.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: treasure-004 }
+  status: referencia
+- id: item:subaquaticas-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: subaquaticas
+  nome: Nuestra Señora Lujuriosa Treasure
+  regiao: regiao:leonida-keys
+  posicao: { x: 3259, y: 6858, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Contains 6 artifacts. Unlocked after completing Kenton's first three requests and checking in with him. In shallow water: you can see the wreck from above.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: treasure-005 }
+  status: referencia

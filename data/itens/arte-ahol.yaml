@@ -1,0 +1,647 @@
+# Itens da categoria arte-ahol. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:arte-ahol-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 379"
+  posicao: { x: 4072, y: 4209, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A wheel cap at the entrance to the alleyway, between a yellow bollard and the wall.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-001 }
+  status: nao_confirmado
+- id: item:arte-ahol-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Chair 135"
+  posicao: { x: 4111, y: 4245, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A chair painted with black and white stripes, next to the dumpster in the alley.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-002 }
+  status: nao_confirmado
+- id: item:arte-ahol-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Pallet 353"
+  posicao: { x: 4032, y: 4291, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A pallet with painted eyes, just at the start of the alleyway on the right.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-003 }
+  status: nao_confirmado
+- id: item:arte-ahol-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: Ahol Street Art
+  posicao: { x: 3967, y: 3668, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A piece of Ahol street art., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-004 }
+  status: nao_confirmado
+- id: item:arte-ahol-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel"
+  posicao: { x: 4063, y: 3462, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A piece of Ahol street art showing a wheel., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-005 }
+  status: nao_confirmado
+- id: item:arte-ahol-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 62"
+  posicao: { x: 5002, y: 4112, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Tucked around a corner next to the green dustbin and proper aganced a short wall is a matriss painted with a face, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-006 }
+  status: nao_confirmado
+- id: item:arte-ahol-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 72"
+  posicao: { x: 3850, y: 4584, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In front of the stairs up to the house, on the road side.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-007 }
+  status: nao_confirmado
+- id: item:arte-ahol-008
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 168"
+  posicao: { x: 4124, y: 3628, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the corner where the road comes into the lot., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-008 }
+  status: nao_confirmado
+- id: item:arte-ahol-009
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 433"
+  posicao: { x: 3833, y: 4464, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Along the short side of the red building, next to an AC unit.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-009 }
+  status: nao_confirmado
+- id: item:arte-ahol-010
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 292"
+  posicao: { x: 3808, y: 4076, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Behind the fence, leaning against the wall.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-010 }
+  status: nao_confirmado
+- id: item:arte-ahol-011
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 74"
+  posicao: { x: 5035, y: 3820, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Between a brown power pole and a window, leaning against the wall.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-011 }
+  status: nao_confirmado
+- id: item:arte-ahol-012
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 181"
+  posicao: { x: 3859, y: 3646, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Just inside the gated area, next to a red skip.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-012 }
+  status: nao_confirmado
+- id: item:arte-ahol-013
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 133"
+  posicao: { x: 3586, y: 5006, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the bin area, leaning against the wall.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-013 }
+  status: nao_confirmado
+- id: item:arte-ahol-014
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Mattress 252"
+  posicao: { x: 3718, y: 4216, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Next to a green bin at the end of a parking space., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-014 }
+  status: nao_confirmado
+- id: item:arte-ahol-015
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 186"
+  posicao: { x: 3768, y: 3891, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Behind the corner shops, in the back alley.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-015 }
+  status: nao_confirmado
+- id: item:arte-ahol-016
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Tires 262"
+  posicao: { x: 4001, y: 3834, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Between an orange construction sign and a garage marked "Keep Clear"., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-016 }
+  status: nao_confirmado
+- id: item:arte-ahol-017
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 311"
+  posicao: { x: 3959, y: 4300, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under the overpass, by a support pillar.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-017 }
+  status: nao_confirmado
+- id: item:arte-ahol-018
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 296"
+  posicao: { x: 3892, y: 3748, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Down the alley, by a red concrete bollard: a wheel rim with red decoration.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-018 }
+  status: nao_confirmado
+- id: item:arte-ahol-019
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Containers"
+  posicao: { x: 4077, y: 3740, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under the steps, by the mailboxes.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-019 }
+  status: nao_confirmado
+- id: item:arte-ahol-020
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Tires"
+  posicao: { x: 3849, y: 3712, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Behind the red wall of Jeff's Discount Centre: a stack of tires.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-020 }
+  status: nao_confirmado
+- id: item:arte-ahol-021
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Chair 337"
+  posicao: { x: 4222, y: 3399, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the front doorway of the building., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-021 }
+  status: nao_confirmado
+- id: item:arte-ahol-022
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Tires 460"
+  posicao: { x: 3935, y: 3745, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Just inside the open gated area, in front of a red skip.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-022 }
+  status: nao_confirmado
+- id: item:arte-ahol-023
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Tires 140"
+  posicao: { x: 3696, y: 4474, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the grassy corner with the rubbish and green dumpsters., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-023 }
+  status: nao_confirmado
+- id: item:arte-ahol-024
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Geographies of Trash"
+  posicao: { x: 3745, y: 4702, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-024 }
+  status: nao_confirmado
+- id: item:arte-ahol-025
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Tires 44"
+  posicao: { x: 4054, y: 4654, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-025 }
+  status: nao_confirmado
+- id: item:arte-ahol-026
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Tires 188"
+  posicao: { x: 4822, y: 3879, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the corner of the car park, by the large red skip: a stack of tires painted green.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-026 }
+  status: nao_confirmado
+- id: item:arte-ahol-027
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 498"
+  posicao: { x: 3878, y: 4236, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Behind the Euroform van, next to the silver shutters: a wheel painted with stripes.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-027 }
+  status: nao_confirmado
+- id: item:arte-ahol-028
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 429"
+  posicao: { x: 3809, y: 3819, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 'Behind the petrol station, under the "GAS ->" sign on the wall: a painted wheel.', spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-028 }
+  status: nao_confirmado
+- id: item:arte-ahol-029
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 78"
+  posicao: { x: 4060, y: 3617, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the right-hand corner of the building, under the purple graffiti.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-029 }
+  status: nao_confirmado
+- id: item:arte-ahol-030
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 114"
+  posicao: { x: 3957, y: 3869, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the right side of the building, under the yellow graffiti.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-030 }
+  status: nao_confirmado
+- id: item:arte-ahol-031
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 216"
+  posicao: { x: 3827, y: 3978, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the corner of VCA, propped up by a telephone pole.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-031 }
+  status: nao_confirmado
+- id: item:arte-ahol-032
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Buckets"
+  posicao: { x: 3888, y: 3603, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Geographies of Trash: buckets on the corner, on a maintenance box.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-032 }
+  status: nao_confirmado
+- id: item:arte-ahol-033
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Chair"
+  posicao: { x: 4017, y: 3726, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A striped black and white chair leaning against a wall., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-033 }
+  status: nao_confirmado
+- id: item:arte-ahol-034
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Chair 98"
+  posicao: { x: 3792, y: 3742, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-034 }
+  status: nao_confirmado
+- id: item:arte-ahol-035
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: TV 367"
+  posicao: { x: 4144, y: 3313, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Decor District: next to the dumpster by the blue and black building.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-035 }
+  status: nao_confirmado
+- id: item:arte-ahol-036
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Cone 435"
+  posicao: { x: 4289, y: 3316, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Decor District: at the construction site entrance, on the right.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-036 }
+  status: nao_confirmado
+- id: item:arte-ahol-037
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Buckets 212"
+  posicao: { x: 4199, y: 3329, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 'Decor District: buckets looking out of a dumpster like eyes, under the big "Tetes" lettering on the side of the building.', spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-037 }
+  status: nao_confirmado
+- id: item:arte-ahol-038
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Cone 246"
+  posicao: { x: 4118, y: 3551, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: 'Crosstown: across the street from 247 - Bayside, by a wall that says "SAUTE".', spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-038 }
+  status: nao_confirmado
+- id: item:arte-ahol-039
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Wheel 468"
+  posicao: { x: 3834, y: 4216, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Tucked in the alcove of the blue building next to the dirt mound: a wheel covered in striped paint.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-039 }
+  status: nao_confirmado
+- id: item:arte-ahol-040
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: TV 137"
+  posicao: { x: 3934, y: 3569, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the ground outside the store., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-040 }
+  status: nao_confirmado
+- id: item:arte-ahol-041
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 442"
+  posicao: { x: 4072, y: 3751, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the base of the Brian Bradley ad sign: a fridge with blue paint on its side.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-041 }
+  status: nao_confirmado
+- id: item:arte-ahol-042
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 136"
+  posicao: { x: 3905, y: 3686, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the corner of the Tropical Thrift: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-042 }
+  status: nao_confirmado
+- id: item:arte-ahol-043
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 207"
+  posicao: { x: 3798, y: 4377, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Down the middle of an alleyway, between some old boxes and a green dumpster: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-043 }
+  status: nao_confirmado
+- id: item:arte-ahol-044
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Pallet 108"
+  posicao: { x: 3846, y: 4466, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A painted pallet with boxes on it, by the fence.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-044 }
+  status: nao_confirmado
+- id: item:arte-ahol-045
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 53"
+  posicao: { x: 4899, y: 3649, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Just inside an alleyway by some rubbish: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-045 }
+  status: nao_confirmado
+- id: item:arte-ahol-046
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 25"
+  posicao: { x: 4984, y: 3644, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Next to a green dumpster at the end of a parking spot: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-046 }
+  status: nao_confirmado
+- id: item:arte-ahol-047
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 187"
+  posicao: { x: 3873, y: 4795, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Just inside an alleyway, next to a green cabinet and cardboard boxes: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-047 }
+  status: nao_confirmado
+- id: item:arte-ahol-048
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 199"
+  posicao: { x: 3868, y: 4868, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Just under the overhang of some flats: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-048 }
+  status: nao_confirmado
+- id: item:arte-ahol-049
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 49"
+  posicao: { x: 3647, y: 4061, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under a telephone pole next to Logan's Machine Shop: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-049 }
+  status: nao_confirmado
+- id: item:arte-ahol-050
+  tipo: item
+  subtipo: colecionavel
+  categoria: arte-ahol
+  nome: "Ahol Street Art: Fridge 319"
+  posicao: { x: 4015, y: 4017, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the sidewalk next to a staircase: a fridge painted blue.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: ahol-street-art-050 }
+  status: nao_confirmado

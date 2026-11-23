@@ -1,0 +1,29 @@
+- id: 'missao:principal-008'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 8
+  ordem: 8
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-011'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 11
+  ordem: 11
+  capitulo_referencia: 1
+  spoiler: 2
+  status: referencia
+  requer: { concluido: 'missao:principal-008' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'missao:principal-015'
+  tipo: missao
+  subtipo: principal
+  nome: Principal 15
+  ordem: 15
+  capitulo_referencia: 2
+  spoiler: 2
+  status: referencia
+  requer: { concluido: 'missao:principal-011' }
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

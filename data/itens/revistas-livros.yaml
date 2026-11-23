@@ -1,0 +1,1034 @@
+# Itens da categoria revistas-livros. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:revistas-livros-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 7
+  regiao: regiao:ambrosia
+  posicao: { x: 3264, y: 2571, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-001 }
+  status: referencia
+- id: item:revistas-livros-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 6
+  posicao: { x: 4311, y: 2773, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-002 }
+  status: referencia
+- id: item:revistas-livros-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 5
+  regiao: regiao:vice-city
+  posicao: { x: 4513, y: 3682, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-003 }
+  status: referencia
+- id: item:revistas-livros-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 4
+  regiao: regiao:capri
+  posicao: { x: 1766, y: 4309, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-004 }
+  status: referencia
+- id: item:revistas-livros-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 2
+  regiao: regiao:vice-city
+  posicao: { x: 3557, y: 4979, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-005 }
+  status: referencia
+- id: item:revistas-livros-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 3
+  regiao: regiao:watson-bay
+  posicao: { x: 2396, y: 5483, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-006 }
+  status: referencia
+- id: item:revistas-livros-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Book Swap 1
+  regiao: regiao:leonida-keys
+  posicao: { x: 3580, y: 6287, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-007 }
+  status: referencia
+- id: item:revistas-livros-008
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: An Alien Love Saga"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3205, y: 6701, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Dicked down in Deep Space: An Alien Love Saga book by Benjamin Williams", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-008 }
+  status: referencia
+- id: item:revistas-livros-009
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: Children of Wizard Wang"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2254, y: 3002, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Children of Wizard Wang Book by Brenton Marshall, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: book-swap-009 }
+  status: referencia
+- id: item:revistas-livros-010
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Un Extraño Rescate
+  regiao: regiao:hamlet
+  posicao: { x: 3305, y: 5805, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Climb one of the towers (some light parkour) and drop in through a roof hatch. Downstairs, a door asks for a code (2341). At the back is an operations room with a recording on a table next to a phone. All the buttons on the board must be blue. Don't take the middle door: there i…", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: comics-002 }
+  status: referencia
+- id: item:revistas-livros-011
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Trigger Happy 1
+  regiao: regiao:vice-city
+  posicao: { x: 3734, y: 1631, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-001 }
+  status: referencia
+- id: item:revistas-livros-012
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: 11:59 1
+  regiao: regiao:vice-city
+  posicao: { x: 3280, y: 1666, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-002 }
+  status: referencia
+- id: item:revistas-livros-013
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Manly Gaze
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2064, y: 2323, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-003 }
+  status: referencia
+- id: item:revistas-livros-014
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Drive Shaft 1
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1503, y: 2384, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-004 }
+  status: referencia
+- id: item:revistas-livros-015
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Off the Hook 3
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1859, y: 2734, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-005 }
+  status: referencia
+- id: item:revistas-livros-016
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Trigger Happy 3
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1677, y: 2868, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-006 }
+  status: referencia
+- id: item:revistas-livros-017
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Endowed 2
+  posicao: { x: 4285, y: 2843, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-007 }
+  status: referencia
+- id: item:revistas-livros-018
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Foiled 2
+  regiao: regiao:vice-city
+  posicao: { x: 3718, y: 3075, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-008 }
+  status: referencia
+- id: item:revistas-livros-019
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Endowed 3
+  regiao: regiao:vice-city
+  posicao: { x: 4494, y: 3068, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-009 }
+  status: referencia
+- id: item:revistas-livros-020
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Body Copy 3
+  regiao: regiao:vice-city
+  posicao: { x: 4835, y: 3474, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-010 }
+  status: referencia
+- id: item:revistas-livros-021
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: ¡Bombazo! 3
+  regiao: regiao:vice-city
+  posicao: { x: 4017, y: 3595, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-011 }
+  status: referencia
+- id: item:revistas-livros-022
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Endowed 1
+  regiao: regiao:vice-city
+  posicao: { x: 4459, y: 3625, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-012 }
+  status: referencia
+- id: item:revistas-livros-023
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Drive Shaft 2
+  regiao: regiao:vice-city
+  posicao: { x: 4529, y: 3692, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-013 }
+  status: referencia
+- id: item:revistas-livros-024
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: High Rollerz 3
+  regiao: regiao:vice-city
+  posicao: { x: 4030, y: 3728, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-014 }
+  status: referencia
+- id: item:revistas-livros-025
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Drive Shaft 3
+  regiao: regiao:vice-city
+  posicao: { x: 4002, y: 3853, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-015 }
+  status: referencia
+- id: item:revistas-livros-026
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Pêche 3
+  regiao: regiao:vice-city
+  posicao: { x: 3029, y: 3926, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-016 }
+  status: referencia
+- id: item:revistas-livros-027
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: ¡Bombazo! 1
+  regiao: regiao:vice-city
+  posicao: { x: 3859, y: 4274, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-017 }
+  status: referencia
+- id: item:revistas-livros-028
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: High Rollerz 1
+  regiao: regiao:vice-city
+  posicao: { x: 4433, y: 4264, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-018 }
+  status: referencia
+- id: item:revistas-livros-029
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Body Copy 2
+  regiao: regiao:vice-city
+  posicao: { x: 3988, y: 4403, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-019 }
+  status: referencia
+- id: item:revistas-livros-030
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: High Rollerz 2
+  regiao: regiao:vice-city
+  posicao: { x: 4196, y: 4480, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-020 }
+  status: referencia
+- id: item:revistas-livros-031
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: 11:59 2
+  regiao: regiao:vice-city
+  posicao: { x: 3836, y: 5185, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-021 }
+  status: referencia
+- id: item:revistas-livros-032
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Pêche 1
+  regiao: regiao:vice-city
+  posicao: { x: 3890, y: 5244, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-022 }
+  status: referencia
+- id: item:revistas-livros-033
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: ¡Bombazo! 2
+  regiao: regiao:hamlet
+  posicao: { x: 3273, y: 5432, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-023 }
+  status: referencia
+- id: item:revistas-livros-034
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Foiled 1
+  regiao: regiao:leonida-keys
+  posicao: { x: 2699, y: 5668, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-024 }
+  status: referencia
+- id: item:revistas-livros-035
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Pêche 2
+  regiao: regiao:leonida-keys
+  posicao: { x: 3608, y: 6230, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-025 }
+  status: referencia
+- id: item:revistas-livros-036
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Body Copy 1
+  regiao: regiao:leonida-keys
+  posicao: { x: 3423, y: 6311, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-026 }
+  status: referencia
+- id: item:revistas-livros-037
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Off the Hook 1
+  regiao: regiao:leonida-keys
+  posicao: { x: 3424, y: 6313, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-027 }
+  status: referencia
+- id: item:revistas-livros-038
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Off the Hook 2
+  regiao: regiao:leonida-keys
+  posicao: { x: 3457, y: 6460, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-028 }
+  status: referencia
+- id: item:revistas-livros-039
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Trigger Happy 2
+  regiao: regiao:leonida-keys
+  posicao: { x: 3245, y: 6587, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-029 }
+  status: referencia
+- id: item:revistas-livros-040
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: The Cowboy's Prayer
+  regiao: regiao:leonida-keys
+  posicao: { x: 3346, y: 6451, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the main marina building, in the office.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-030 }
+  status: referencia
+- id: item:revistas-livros-041
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Tattoo Magazine: Home Street Home"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2011, y: 3032, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Scan it to unlock tattoo styles., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-031 }
+  status: referencia
+- id: item:revistas-livros-042
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Remote Strike (Book)
+  regiao: regiao:hamlet
+  posicao: { x: 1941, y: 6779, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the table between two chairs., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-032 }
+  status: referencia
+- id: item:revistas-livros-043
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Styling Magazine: Lucia Make-up"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2341, y: 7054, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Outside the staff-only door, next to a chair. Scan it to unlock a make-up style for Lucia.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-033 }
+  status: referencia
+- id: item:revistas-livros-044
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Styling Magazine: Square Goatee (Jason)"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3490, y: 6218, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the trailer, on the bed. Scan it to unlock the square goatee for Jason.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-034 }
+  status: referencia
+- id: item:revistas-livros-045
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Orca: A Whole Different Animal"
+  regiao: regiao:hamlet
+  posicao: { x: 1920, y: 6793, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Orca- A Whole Different Animal, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-035 }
+  status: referencia
+- id: item:revistas-livros-046
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Styling Magazine (Waink scan)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3604, y: 6262, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: There's a magazine on the top of the circular building. You have to scan it with Waink to unlock a special hairstyle., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-036 }
+  status: referencia
+- id: item:revistas-livros-047
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: 11:59
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1877, y: 3280, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the grocery store at the entrance, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-037 }
+  status: referencia
+- id: item:revistas-livros-048
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Foiled
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1877, y: 3276, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the grocery store at the entrance, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-038 }
+  status: referencia
+- id: item:revistas-livros-049
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Dicked Down in Deep Space
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1715, y: 2892, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the bedroom on the shelves, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-039 }
+  status: referencia
+- id: item:revistas-livros-050
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Ashes of Glory
+  regiao: regiao:leonida-keys
+  posicao: { x: 3423, y: 6317, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: in bedroom only available chapter 1, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-040 }
+  status: referencia
+- id: item:revistas-livros-051
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Lethal by Design
+  regiao: regiao:leonida-keys
+  posicao: { x: 3418, y: 6314, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: in dining table only available chapter 1, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-041 }
+  status: referencia
+- id: item:revistas-livros-052
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Tattoo Magazine: Circles of Hell Skull"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1872, y: 2671, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-042 }
+  status: referencia
+- id: item:revistas-livros-053
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: RX Men
+  regiao: regiao:leonida-keys
+  posicao: { x: 3561, y: 6233, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Found in gas station store in magazine rack, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-043 }
+  status: referencia
+- id: item:revistas-livros-054
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Tattoo Magazine: Hovercraft"
+  posicao: { x: 839, y: 3701, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the camp next to the hovercraft crash., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-044 }
+  status: referencia
+- id: item:revistas-livros-055
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Orca: A Whole Different Animal"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3419, y: 6310, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Book on the sideboard in Jason's house, by the lamp and the shell.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-045 }
+  status: referencia
+- id: item:revistas-livros-056
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Remote Strike (Book)
+  regiao: regiao:vice-city
+  posicao: { x: 3639, y: 4052, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Remote Strike: A Modern Military Memoir. On a table in Jackson Firearms.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-046 }
+  status: referencia
+- id: item:revistas-livros-057
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Tee'd Off Dino
+  regiao: regiao:ambrosia
+  posicao: { x: 2574, y: 2826, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Magazine on the table. Unlocks the unique Tee'd Off Dino tattoo., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-047 }
+  status: referencia
+- id: item:revistas-livros-058
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Foiled
+  posicao: { x: 1930, y: 4615, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On a stand, by the door.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-048 }
+  status: nao_confirmado
+- id: item:revistas-livros-059
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Styling Magazine: Lucia Make-up"
+  posicao: { x: 3274, y: 6531, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On top of the bed. Scannable with Waink., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-049 }
+  status: nao_confirmado
+- id: item:revistas-livros-060
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Tattoo Magazine: The Freedom Raft"
+  posicao: { x: 2065, y: 6635, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-050 }
+  status: nao_confirmado
+- id: item:revistas-livros-061
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Tattoo Magazine: Backyard Wrestling Belt & Luchadora"
+  posicao: { x: 3237, y: 5502, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the sofa by the B.A.M. flag., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-051 }
+  status: nao_confirmado
+- id: item:revistas-livros-062
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Styling Magazine: Beard Style"
+  posicao: { x: 3484, y: 6250, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the bed: read it to unlock a new beard style.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-052 }
+  status: nao_confirmado
+- id: item:revistas-livros-063
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Dazzle
+  posicao: { x: 1500, y: 4237, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the 2nd floor., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-053 }
+  status: nao_confirmado
+- id: item:revistas-livros-064
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: The Cowboy's Prayer
+  posicao: { x: 2140, y: 1925, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Immediately right of the front door, on a shelf at head height.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-054 }
+  status: nao_confirmado
+- id: item:revistas-livros-065
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Waink Tattoo Style (tower)
+  posicao: { x: 2659, y: 1798, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the top of the tower: scan it with the Waink app to unlock a tattoo style.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-055 }
+  status: nao_confirmado
+- id: item:revistas-livros-066
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: Passion B.C."
+  posicao: { x: 4111, y: 3720, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the safehouse bathroom, past the bedroom by the tub. Available until Chapter 3.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-056 }
+  status: nao_confirmado
+- id: item:revistas-livros-067
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: Two Pricks in the Bush"
+  posicao: { x: 4111, y: 3717, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the Bayside apartment, on the glass table in front of the TV. Available until the end of Chapter 3.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-057 }
+  status: nao_confirmado
+- id: item:revistas-livros-068
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: Passion B.C. (Jason's house)"
+  posicao: { x: 3377, y: 6365, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the corner of the bar during the escape from Jason's home in Chapter 1., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-058 }
+  status: nao_confirmado
+- id: item:revistas-livros-069
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Styling Magazine: Cowboy Horseshoe Mustache"
+  posicao: { x: 2433, y: 5417, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the chair in the bedroom., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-059 }
+  status: nao_confirmado
+- id: item:revistas-livros-070
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Pout: Tiger Eyes Makeup"
+  posicao: { x: 4113, y: 3494, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the office on the second floor of the warehouse., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-060 }
+  status: nao_confirmado
+- id: item:revistas-livros-071
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Lights, Camera, Affirmative Action
+  posicao: { x: 4114, y: 3503, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the table next to the couches., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-061 }
+  status: nao_confirmado
+- id: item:revistas-livros-072
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Tattoo Magazine (under the bridge)
+  posicao: { x: 2340, y: 2828, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under the bridge., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-062 }
+  status: nao_confirmado
+- id: item:revistas-livros-073
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Magazine rack: 247 - Hamlet"
+  posicao: { x: 3468, y: 5425, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Magazines on the shelf next to the cashier: ¡Bombazo!, Special Friends Force and Body Copy (the same one as at Jason's house).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-063 }
+  status: nao_confirmado
+- id: item:revistas-livros-074
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Mermaid Tattoo Book
+  posicao: { x: 4374, y: 4787, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the same building as the mermaid statues: follow the door around the building.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-064 }
+  status: nao_confirmado
+- id: item:revistas-livros-075
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Law & Litigation in Leonida
+  posicao: { x: 3282, y: 5433, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the coffee table in the messy apartment: go up one floor, first apartment on the left.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-065 }
+  status: nao_confirmado
+- id: item:revistas-livros-076
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Tattoo Magazine (lovers' camp)
+  posicao: { x: 3261, y: 1756, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Beside the bed in the lovers' camp., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-066 }
+  status: nao_confirmado
+- id: item:revistas-livros-077
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: The Cowboy's Prayer (motel reception)"
+  posicao: { x: 2662, y: 1494, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the coffee table in the motel's reception., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-067 }
+  status: nao_confirmado
+- id: item:revistas-livros-078
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Off The Hook - America's No. 1 Fishing Magazine
+  posicao: { x: 3561, y: 6231, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the magazine board in the gas station., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-068 }
+  status: nao_confirmado
+- id: item:revistas-livros-079
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "Book: The Cowboy's Prayer (bar)"
+  posicao: { x: 3855, y: 1744, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On a table in the bar., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-069 }
+  status: nao_confirmado
+- id: item:revistas-livros-080
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: "DriveShaft: The Deviant"
+  posicao: { x: 3665, y: 5036, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the magazine rack to the left of the counter., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-070 }
+  status: nao_confirmado
+- id: item:revistas-livros-081
+  tipo: item
+  subtipo: colecionavel
+  categoria: revistas-livros
+  nome: Styling Magazine (Lucia's make-up)
+  posicao: { x: 3691, y: 3092, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A styling magazine that unlocks a new make-up style for Lucia., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: magazine-071 }
+  status: nao_confirmado

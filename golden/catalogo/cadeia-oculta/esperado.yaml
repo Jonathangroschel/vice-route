@@ -1,0 +1,9 @@
+descricao: Cadeia de missão oculta de docs/04 §7 (CO-001-01, CO-001-02)
+erros: []
+verificar:
+  - caminho: [perdiveis_por_missao, 'missao:principal-015', inicio]
+    contem: ['missao:oculta-exemplo-01', 'item:easter-eggs-007']
+  - caminho: [valor_desbloqueio, 'gatilho:loja-x-noite']
+    igual: { total: 2, conta_100: 2, perdiveis: 2 }
+  - caminho: [ordem_principais]
+    igual: [{ id: 'missao:principal-008', indice: 1 }, { id: 'missao:principal-011', indice: 2 }, { id: 'missao:principal-015', indice: 3 }]

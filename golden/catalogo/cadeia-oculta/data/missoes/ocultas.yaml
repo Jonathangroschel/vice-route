@@ -1,0 +1,9 @@
+- id: 'missao:oculta-exemplo-01'
+  tipo: missao
+  subtipo: oculta
+  nome: Missão oculta de exemplo
+  requer: { concluido: 'gatilho:loja-x-noite' }
+  perdivel_apos: { missao: 'missao:principal-015', momento: inicio }
+  spoiler: 2
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

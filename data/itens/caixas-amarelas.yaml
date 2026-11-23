@@ -1,0 +1,1052 @@
+# Itens da categoria caixas-amarelas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:caixas-amarelas-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1428, y: 3124, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Crystal card (America's Next Top Hooker) here. In a yellow box at the top of the tower.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: card-americas-next-top-hooker-015 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3497, y: 6177, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Los Santos Pounders: Granian Beach card here. At the top of the tower, in the phone box.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: card-los-santos-pounders-012 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3448, y: 6342, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). At the top of the unfinished building, next to a generator.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-001 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1856, y: 2862, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the staff-only part of the convenience store.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-002 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2617, y: 6893, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Through the door on the left inside the main building.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-003 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4075, y: 3328, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the portable toilet.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-004 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3244, y: 2502, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-005 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-008
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3996, y: 5552, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A yellow emergency phone box.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-006 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-009
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3427, y: 6471, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the garage of the house. A member found the Ali Zeidan card here.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-007 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-010
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2259, y: 6684, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A closed yellow metal box on the shoreline. A member found $549 in cash.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-008 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-011
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1751, y: 2959, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the first level of the water tower. A member found cash.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-009 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-012
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3359, y: 5606, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the back corner of the building, under the shelves. A member found the J.D. Wild card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-010 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-013
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2634, y: 3783, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). At the back of the tent. A member found cash.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-011 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-014
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4176, y: 5486, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Up the stairs. A member found sunglasses.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-012 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-015
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1390, y: 2589, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). At the back of a big building. A member found the Lionel Taber card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-013 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-016
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2647, y: 3538, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found drugs in it; more drugs are scattered around the huts.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-014 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-017
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3233, y: 6629, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Romss card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-015 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-018
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1508, y: 3194, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A yellow case on the side of the house. A member found the Carl Kasey card (Vice City Narcos).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-016 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-019
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1812, y: 2874, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Inside the building. A member found the Seo-Jun Kim card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-017 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-020
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3300, y: 2706, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the warehouse. A member found $180.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-018 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-021
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1530, y: 3053, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A yellow telephone box. A member found the Delord Nathan Alford card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-019 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-022
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2257, y: 1241, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In a lock box inside a blue storage container. A member found the Brandon Roncevic card (Lob Dunks).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-020 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-023
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2211, y: 1193, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A yellow lock box on the beach. A member found the Crystal card (America's Next Top Hooker).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-021 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-024
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3602, y: 5302, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Near the warehouse of the drug deal gone wrong. A member found the Gerry Northgate card (Vice City Club de Futbol).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-022 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-025
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1882, y: 3161, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A medical box on the side of the building, about 10 m from the seating area you can see from the ghost bike.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-023 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-026
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4044, y: 3582, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the run-down house., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-024 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-027
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2362, y: 1472, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A member found the Liberty City Wrath: Tyson Briggs card here.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-025 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-028
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3950, y: 3846, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A member found the Vice City Club De Fútbol: Gerry Northgate card here. In the next garage under the bridge.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-026 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-029
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4043, y: 3619, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the warehouse., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-027 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-030
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4047, y: 3690, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Climb the fridges once inside: it is on the shelf.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-028 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-031
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4020, y: 3686, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the roof of the hotel., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-029 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-032
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4006, y: 3711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the roof of this building: the ladder is at the back.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-030 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-033
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4062, y: 5296, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the back of a washed-up boat., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-031 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-034
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3972, y: 3762, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Behind the garage door., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-032 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-035
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3930, y: 3758, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On top of the roof., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-033 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-036
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3898, y: 3771, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the roof by the pool., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-034 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-037
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2887, y: 5416, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the roof of the sunken yacht. A member found a brick of cocaine in it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-035 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-038
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2149, y: 3184, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A member found the Vice City Manatees: Ali Zeidan card here. Under the ramp.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-036 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-039
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2254, y: 1523, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A member found 4 acid packs (about $190 each) in it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-037 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-040
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1867, y: 2992, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the roof of the convenience store., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-038 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-041
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2653, y: 714, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A member found Molotov cocktails in it., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-039 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-042
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3394, y: 6548, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: At the back of the house., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-040 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-043
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2164, y: 2552, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the building., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-041 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-044
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3829, y: 4353, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A member found the Delights: Crystal card here. Top floor by the roof access. Another card lies on the floor here.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-042 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-045
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1832, y: 3152, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-043 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-046
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2289, y: 2801, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A green loot box next to the crashed hot dog stand, at the edge of the river.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-044 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-047
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3506, y: 2970, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the small building, on the table. A member found $72 in cash in it.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-045 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-048
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1397, y: 3056, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A member found the Liberty City Penetrators: Taylor Blanc card here. Behind the house.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-046 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-049
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3029, y: 3148, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-047 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-050
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4901, y: 3168, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Below the helipad on the maintenance deck, by the ladder in the far north-east corner.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-048 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-051
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1855, y: 3276, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Axel Hughes card (Backyard Wrestling) here. Outside, at the back of a shop, in a phone box.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-049 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-052
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3289, y: 6558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the roof of the Fleeca bank.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-050 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-053
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4928, y: 3230, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Bryson Powers rookie card (Vice City Narcos) here. In an emergency phone box on a structure on the rooftop, south corner.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-051 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-054
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1263, y: 6910, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On top of the building next to the van.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-052 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-055
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1921, y: 6797, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the roof of the Tiki bar.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-053 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-056
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1931, y: 6890, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A small box at the top of the large tower.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-054 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-057
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Black Loot Box
+  posicao: { x: 5051, y: 3787, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A black box with an envelope of cash, on the bar.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-055 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-058
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1131, y: 2268, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Next to the meteorite fragment.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-056 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-059
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1284, y: 2209, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). At the campsite.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-057 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-060
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4385, y: 2048, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Tyson Brooks card (Los Santos Pounders) here. In the yellow lockbox at the camp.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-058 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-061
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1844, y: 2906, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Xavier Gomez card (Los Santos Corkers) here.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-059 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-062
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2318, y: 4180, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Beside the tower, on a table.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-060 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-063
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3776, y: 5977, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the construction site toilet, right next to the jump. A member found the Vicki card (Delights) here.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-061 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-064
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3196, y: 6705, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Climb the stairs at the back to the roof.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-062 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-065
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4216, y: 3236, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Luke X card (Backyard Wrestling) here. In the emergency phone box on the roof of the Flash FM building.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-063 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-066
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4216, y: 3259, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). At the top of the Flash FM radio transmitter.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-064 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-067
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2000, y: 3050, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found a weed stash worth $300 here.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-065 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-068
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3361, y: 6383, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Antoine Bello card (Vice City Narcos) here. In a toolbox on the roof.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-066 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-069
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4145, y: 3763, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). A member found the Lucky card (Delights) here. In the yellow phone box on the rooftop.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-067 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-070
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2395, y: 3382, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Inside a garage.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-068 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-071
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2289, y: 1592, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-069 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-072
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3201, y: 6701, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On top of the building: climb the ladder behind the psychic.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-070 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-073
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2626, y: 5801, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the corner of the dock, on the opposite side from the tent.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-071 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-074
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 2176, y: 4187, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Right at the entrance of the small boat dock.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-072 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-075
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3976, y: 3652, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the roof of Tyrone's apartment building, next to the couch.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-073 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-076
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4227, y: 3272, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). Under the bridge, on a concrete pillar.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-074 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-077
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 1793, y: 3133, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...).", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-075 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-078
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4269, y: 3301, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the walkway of the roadside advertising sign.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-076 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-079
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 4251, y: 3307, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). In the emergency phone box on the roof opposite the car park.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-077 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-080
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3524, y: 6365, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On a table in the north-west corner of the main warehouse area.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-078 }
+  status: nao_confirmado
+- id: item:caixas-amarelas-081
+  tipo: item
+  subtipo: colecionavel
+  categoria: caixas-amarelas
+  nome: Yellow Loot Box
+  posicao: { x: 3524, y: 6372, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Random contents (a card, cash, jewelry...). On the roof of the building next to the warehouse.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: yellow-loot-box-079 }
+  status: nao_confirmado

@@ -1,0 +1,779 @@
+# Itens da categoria cofres. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:cofres-001
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Locked Safe - Carter Mining Boathouse
+  regiao: regiao:leonida-keys
+  posicao: { x: 2793, y: 1020, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-001 }
+  status: referencia
+- id: item:cofres-002
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: RV Safe - Weed Grow
+  regiao: regiao:vice-city
+  posicao: { x: 3734, y: 1502, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-002 }
+  status: referencia
+- id: item:cofres-003
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Weed Grow
+  regiao: regiao:vice-city
+  posicao: { x: 3756, y: 1511, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-003 }
+  status: referencia
+- id: item:cofres-004
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Warehouse Safe - Brooks Boatworks
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1789, y: 2695, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-004 }
+  status: referencia
+- id: item:cofres-005
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Stash House
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1866, y: 2690, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-005 }
+  status: referencia
+- id: item:cofres-006
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Office Safe - Brooks Boatworks
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1781, y: 2704, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-006 }
+  status: referencia
+- id: item:cofres-007
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Locked Safe - Walker Farm
+  regiao: regiao:ambrosia
+  posicao: { x: 2491, y: 2711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-007 }
+  status: referencia
+- id: item:cofres-008
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Office Safe - Hog Stars Garage
+  regiao: regiao:ambrosia
+  posicao: { x: 3230, y: 2704, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-008 }
+  status: referencia
+- id: item:cofres-009
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Lieutenant Room Safe - La Cascara Motel
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1677, y: 2831, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-009 }
+  status: referencia
+- id: item:cofres-010
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Irons Building Supply
+  regiao: regiao:ambrosia
+  posicao: { x: 3133, y: 2745, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-010 }
+  status: referencia
+- id: item:cofres-011
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Biker Hideout
+  regiao: regiao:ambrosia
+  posicao: { x: 3516, y: 2737, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-011 }
+  status: referencia
+- id: item:cofres-012
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Farm Fix Meth Lab
+  regiao: regiao:vice-city
+  posicao: { x: 3840, y: 2783, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-012 }
+  status: referencia
+- id: item:cofres-013
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - June Warehouse
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1812, y: 2984, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-013 }
+  status: referencia
+- id: item:cofres-014
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Locked Safe - Backroom Weed Front
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1877, y: 3082, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-014 }
+  status: referencia
+- id: item:cofres-015
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Office Safe - Kingpin Bowling
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1866, y: 3104, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-015 }
+  status: referencia
+- id: item:cofres-016
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe
+  regiao: regiao:vice-city
+  posicao: { x: 3003, y: 3186, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-016 }
+  status: referencia
+- id: item:cofres-017
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Sound4Sound Studio
+  regiao: regiao:vice-city
+  posicao: { x: 4142, y: 3457, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-017 }
+  status: referencia
+- id: item:cofres-018
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Illegal Sneaker Trade
+  regiao: regiao:vice-city
+  posicao: { x: 3914, y: 3631, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-018 }
+  status: referencia
+- id: item:cofres-019
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Cigar Import Front
+  regiao: regiao:vice-city
+  posicao: { x: 3884, y: 3718, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-019 }
+  status: referencia
+- id: item:cofres-020
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Armory Safe - Vespucci Mansion
+  regiao: regiao:vice-city
+  posicao: { x: 4479, y: 3697, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-020 }
+  status: referencia
+- id: item:cofres-021
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Armory Safe 2 - Vespucci Mansion
+  regiao: regiao:vice-city
+  posicao: { x: 4476, y: 3697, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-021 }
+  status: referencia
+- id: item:cofres-022
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe -Janjak's Garage
+  regiao: regiao:vice-city
+  posicao: { x: 3815, y: 3745, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-022 }
+  status: referencia
+- id: item:cofres-023
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Leonida Carrier Warehouse
+  regiao: regiao:vice-city
+  posicao: { x: 3419, y: 3958, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-023 }
+  status: referencia
+- id: item:cofres-024
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Parlor Apartments
+  regiao: regiao:vice-city
+  posicao: { x: 3787, y: 3937, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-024 }
+  status: referencia
+- id: item:cofres-025
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Ocean Beach Lab
+  regiao: regiao:vice-city
+  posicao: { x: 4984, y: 3898, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-025 }
+  status: referencia
+- id: item:cofres-026
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Saber Shipping Facility
+  regiao: regiao:vice-city
+  posicao: { x: 3703, y: 3981, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-026 }
+  status: referencia
+- id: item:cofres-027
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Casa Guardia
+  regiao: regiao:vice-city
+  posicao: { x: 3865, y: 4053, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-027 }
+  status: referencia
+- id: item:cofres-028
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Office Safe - Chatfield Storage & Logistics
+  regiao: regiao:vice-city
+  posicao: { x: 4343, y: 4029, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-028 }
+  status: referencia
+- id: item:cofres-029
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Office Safe - Saber Shipping Facility
+  regiao: regiao:vice-city
+  posicao: { x: 3753, y: 4135, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-029 }
+  status: referencia
+- id: item:cofres-030
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Industrial Weed Grow
+  regiao: regiao:leonida-keys
+  posicao: { x: 2239, y: 4717, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-030 }
+  status: referencia
+- id: item:cofres-031
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Slator Towing Inc
+  regiao: regiao:vice-city
+  posicao: { x: 3758, y: 4708, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-031 }
+  status: referencia
+- id: item:cofres-032
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Illegal Goods Store
+  regiao: regiao:vice-city
+  posicao: { x: 3661, y: 4898, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-032 }
+  status: referencia
+- id: item:cofres-033
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Locked Safe - Mill Station Radar Base
+  regiao: regiao:leonida-keys
+  posicao: { x: 2421, y: 5252, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-033 }
+  status: referencia
+- id: item:cofres-034
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Watson Bay Safe House
+  regiao: regiao:watson-bay
+  posicao: { x: 2569, y: 5386, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-034 }
+  status: referencia
+- id: item:cofres-035
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Palmer Fishing Warehouse
+  regiao: regiao:watson-bay
+  posicao: { x: 2260, y: 5477, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-035 }
+  status: referencia
+- id: item:cofres-036
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Garage Safe - Nova Auto Junkyard
+  regiao: regiao:hamlet
+  posicao: { x: 3365, y: 5515, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-036 }
+  status: referencia
+- id: item:cofres-037
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Manatee Motel
+  regiao: regiao:vice-city
+  posicao: { x: 3168, y: 5796, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-037 }
+  status: referencia
+- id: item:cofres-038
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Office Safe - Sunrise RV Park
+  regiao: regiao:vice-city
+  posicao: { x: 2996, y: 5942, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-038 }
+  status: referencia
+- id: item:cofres-039
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Dock Warehouse Safe - Sunset RV Park
+  regiao: regiao:vice-city
+  posicao: { x: 2992, y: 5978, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-039 }
+  status: referencia
+- id: item:cofres-040
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Exotic Animal Front
+  regiao: regiao:leonida-keys
+  posicao: { x: 3382, y: 6490, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-040 }
+  status: referencia
+- id: item:cofres-041
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (code 44017)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2847, y: 6134, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Code: 44017", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-041 }
+  status: referencia
+- id: item:cofres-042
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Ocean Beach Liquor Store
+  regiao: regiao:vice-city
+  posicao: { x: 4926, y: 3982, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Break into the back of the Liquor Shop and in the office is a safe box with $1000, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-042 }
+  status: referencia
+- id: item:cofres-043
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Southwind Gas Station ($458)
+  regiao: regiao:hamlet
+  posicao: { x: 1895, y: 6738, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Small safe $458 in office of gas station - can disable alarm and security as well, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-043 }
+  status: referencia
+- id: item:cofres-044
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (bedroom)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3465, y: 6258, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Couple bucks in the safe in the bedroom, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-044 }
+  status: referencia
+- id: item:cofres-045
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Belpoint Shipwreck
+  posicao: { x: 1120, y: 4488, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Combo is behind the painting, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-045 }
+  status: referencia
+- id: item:cofres-046
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Canoes and Kayaks
+  regiao: regiao:leonida-keys
+  posicao: { x: 3432, y: 6391, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: There's a safe hidden in Canoes and Kayaks rental. Easy 1000$, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-046 }
+  status: referencia
+- id: item:cofres-047
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Keyline Paint Shop
+  regiao: regiao:leonida-keys
+  posicao: { x: 3466, y: 6359, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Found in office on the paint shop, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-047 }
+  status: referencia
+- id: item:cofres-048
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Gun Nut House
+  regiao: regiao:leonida-keys
+  posicao: { x: 3265, y: 6690, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: There's a safe in this house with a bit of cash and a gun., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-048 }
+  status: referencia
+- id: item:cofres-049
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Fleeca Bank (Key Lento)
+  regiao: regiao:leonida-keys
+  posicao: { x: 3289, y: 6555, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Safe inside the Fleeca bank. Code: 1747.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-049 }
+  status: referencia
+- id: item:cofres-050
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Vanessa
+  regiao: regiao:vice-city
+  posicao: { x: 3920, y: 3670, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Enter the safe code found on Vanessa's laptop here., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-050 }
+  status: referencia
+- id: item:cofres-051
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - VR Gamer House
+  regiao: regiao:leonida-keys
+  posicao: { x: 3580, y: 6270, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the house, next to the bedroom.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-051 }
+  status: referencia
+- id: item:cofres-052
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Wash House
+  posicao: { x: 3505, y: 2786, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: The code is right under the collectible card., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-052 }
+  status: nao_confirmado
+- id: item:cofres-053
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Stormy
+  posicao: { x: 4141, y: 3701, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Safe code: 7869.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-053 }
+  status: nao_confirmado
+- id: item:cofres-054
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Drug Warehouse
+  posicao: { x: 3609, y: 5304, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the office of the warehouse where a gunfight left everyone dead. Lots to take: guns, a rare card, cocaine and cash.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-054 }
+  status: nao_confirmado
+- id: item:cofres-055
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe - Room 115
+  posicao: { x: 3216, y: 2531, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Safe code: 4242.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-055 }
+  status: nao_confirmado
+- id: item:cofres-056
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (abandoned house)
+  posicao: { x: 2738, y: 3497, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Climb onto the abandoned house and go through the hole in the roof., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-056 }
+  status: nao_confirmado
+- id: item:cofres-057
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (shipwreck)
+  posicao: { x: 1831, y: 5992, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the wrecked ship., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-057 }
+  status: nao_confirmado
+- id: item:cofres-058
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (slum house)
+  posicao: { x: 4035, y: 3590, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Code: 9790.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-058 }
+  status: nao_confirmado
+- id: item:cofres-059
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (caravan)
+  posicao: { x: 3435, y: 1205, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the caravan with the unique pistols: cash and a collectible card.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-059 }
+  status: nao_confirmado
+- id: item:cofres-060
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (gaming room)
+  posicao: { x: 3962, y: 3591, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the gaming room of the house., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-060 }
+  status: nao_confirmado
+- id: item:cofres-061
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: "Exotic Animals Front: Hidden Stash"
+  posicao: { x: 3382, y: 6488, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Listen to the parrot when it tells you to check the generator: right behind it there's an air shaft in the wall.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-061 }
+  status: nao_confirmado
+- id: item:cofres-062
+  tipo: item
+  subtipo: crime
+  categoria: cofres
+  nome: Safe (Prairie Court)
+  posicao: { x: 1816, y: 2895, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the house; it needs a code., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: safe-062 }
+  status: nao_confirmado

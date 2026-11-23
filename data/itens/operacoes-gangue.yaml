@@ -1,0 +1,560 @@
+# Itens da categoria operacoes-gangue. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:operacoes-gangue-001
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Fishing Shacks
+  regiao: regiao:leonida-keys
+  posicao: { x: 2601, y: 5953, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "The Kingfishers traffic cocaine from the privacy of this remote fishing shack in Wetman Bay.; Gang: Kingfishers; Security: High; Take value: $4,000 - $16,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-001 }
+  status: referencia
+- id: item:operacoes-gangue-002
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Sunrise RV Park
+  regiao: regiao:vice-city
+  posicao: { x: 2990, y: 5949, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "The Kingfishers use the Sunrise RV Park to handle cocaine shipments and breed exotic animals.; Gang: Kingfishers; Security: High; Take value: $23,800 - $42,200", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-002 }
+  status: referencia
+- id: item:operacoes-gangue-003
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Manatee Motel
+  regiao: regiao:vice-city
+  posicao: { x: 3167, y: 5797, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "The Kingfishers use this run-down motel for their illegal exotic animal business.; Gang: Kingfishers; Security: High; Take value: $2,800 - $6,200", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-003 }
+  status: referencia
+- id: item:operacoes-gangue-004
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Kingpin Bowling
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1859, y: 3108, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Kolt & Associates have a pill operation hidden in the abandoned Kingpin Bowling alley.; Gang: Kolt & Associates; Security: High; Take value: $15,100 - $25,600", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-004 }
+  status: referencia
+- id: item:operacoes-gangue-005
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: June Warehouse
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1815, y: 2981, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Kolt & Associates use the June Warehouse to store vans they use to move pills.; Gang: Kolt & Associates; Security: High; Take value: $5,800 - $10,200", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-005 }
+  status: referencia
+- id: item:operacoes-gangue-006
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: La Cascara Motel
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1676, y: 2839, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Kolt & Associates use the abandoned La Cascara Motel as a base for a large pill dealing and weed farming operation.; Gang: Kolt & Associates; Security: High; Take value: $21,600 - $47,200", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-006 }
+  status: referencia
+- id: item:operacoes-gangue-007
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Brooks Boatworks
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1790, y: 2688, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Kolt & Associates move prescription meds through the Brooks Boatworks docks.; Gang: Kolt & Associates; Security: High; Take value: $30,100 - $42,600", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-007 }
+  status: referencia
+- id: item:operacoes-gangue-008
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity - Kolts & Associates
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1864, y: 2689, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Vicki mentioned Kolt & Associates sell drugs here.; Gang: Kolt & Associates", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-008 }
+  status: referencia
+- id: item:operacoes-gangue-009
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "M7: Nova Auto Junkyard"
+  regiao: regiao:hamlet
+  posicao: { x: 3367, y: 5516, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Gang: M7", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-009 }
+  status: referencia
+- id: item:operacoes-gangue-010
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity - M7
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3757, y: 1514, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Tyrone mentioned that M7 has a drug operation in this compound.; Gang: M7", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-010 }
+  status: referencia
+- id: item:operacoes-gangue-011
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Palmer Fishing Warehouse
+  regiao: regiao:watson-bay
+  posicao: { x: 2272, y: 5483, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Gang: La Polilla Negra", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-011 }
+  status: referencia
+- id: item:operacoes-gangue-012
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Farm Fix Meth Lab
+  regiao: regiao:vice-city
+  posicao: { x: 3829, y: 2791, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Unlocked in the final chapter., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-012 }
+  status: referencia
+- id: item:operacoes-gangue-013
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity
+  regiao: regiao:ambrosia
+  posicao: { x: 3519, y: 2737, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Unlocked in the final chapter., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-013 }
+  status: referencia
+- id: item:operacoes-gangue-014
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Irons Building Supply
+  regiao: regiao:ambrosia
+  posicao: { x: 3135, y: 2743, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "The Final Chapter use Irons Building Supply as a club house and hub for their cocaine distribution network.; Unlocked: Final chapter; Security: High; Take value: $9,400 - $24,600", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-014 }
+  status: referencia
+- id: item:operacoes-gangue-015
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Sound4Sound Studio
+  regiao: regiao:vice-city
+  posicao: { x: 4142, y: 3452, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "San4San use this studio to record tracks and move cocaine on the side.; Gang: San4San; Security: High; Take value: $8,000 - $18,900", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-015 }
+  status: referencia
+- id: item:operacoes-gangue-016
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "San4San: La Perle Trap House"
+  regiao: regiao:vice-city
+  posicao: { x: 3993, y: 3543, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "You saw criminal activity here.; Gang: San4San", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-016 }
+  status: referencia
+- id: item:operacoes-gangue-017
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity - San4San
+  regiao: regiao:vice-city
+  posicao: { x: 3914, y: 3629, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A man slipped into the back room of this store.; Gang: San4San", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-017 }
+  status: referencia
+- id: item:operacoes-gangue-018
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: JanJak’s Garage
+  regiao: regiao:vice-city
+  posicao: { x: 3812, y: 3744, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Gang: San4San", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-018 }
+  status: referencia
+- id: item:operacoes-gangue-019
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity - San4San
+  regiao: regiao:vice-city
+  posicao: { x: 3787, y: 3936, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A local said bodies keep turning up by this apartment building and San4San are rumored to be involved.; Gang: San4San", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-019 }
+  status: referencia
+- id: item:operacoes-gangue-020
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "PTT Youngin$: Kamar Devon Community Center"
+  regiao: regiao:vice-city
+  posicao: { x: 3664, y: 4954, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Boobie mentioned PTT Youngin$ keep stolen goods at this community center.; Gang: PTT Youngin$", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-020 }
+  status: referencia
+- id: item:operacoes-gangue-021
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "PTT Youngin$: Southside Trap House"
+  regiao: regiao:vice-city
+  posicao: { x: 3652, y: 5026, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Gang: PTT Youngin$", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-021 }
+  status: referencia
+- id: item:operacoes-gangue-022
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity - The Guardia Brothers
+  regiao: regiao:vice-city
+  posicao: { x: 3758, y: 4135, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Gang: The Guardia Brothers", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-022 }
+  status: referencia
+- id: item:operacoes-gangue-023
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Casa Guardia
+  regiao: regiao:vice-city
+  posicao: { x: 3866, y: 4049, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Gang: The Guardia Brothers", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-023 }
+  status: referencia
+- id: item:operacoes-gangue-024
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Robbery Opportunity - The Guardia Brothers
+  regiao: regiao:vice-city
+  posicao: { x: 3710, y: 3987, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Karim mentioned the Guardia Brothers store drugs at this shipping facility.; Gang: The Guardia Brothers", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-024 }
+  status: referencia
+- id: item:operacoes-gangue-025
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Exotic Animals Front
+  regiao: regiao:leonida-keys
+  posicao: { x: 3384, y: 6488, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "This liquor store has an illegal exotic animal operation hidden in the back.; Gang: Independent; Security: Medium; Take value: $5,000 - $7,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-025 }
+  status: referencia
+- id: item:operacoes-gangue-026
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Slator Towing Inc
+  regiao: regiao:vice-city
+  posicao: { x: 3759, y: 4711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "There's an illegal chop shop operating out of the Slator Towing Inc lot.; Gang: Independent; Security: High; Take value: $5,500 - $7,500", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-026 }
+  status: referencia
+- id: item:operacoes-gangue-027
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Chatfield Storage & Logistics
+  regiao: regiao:vice-city
+  posicao: { x: 4343, y: 4030, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A criminal group use the Chatfield Storage & Logistics dock to move high-end, stolen vehicles.; Gang: Independent; Security: High; Take value: $5,500 - $6,500", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-027 }
+  status: referencia
+- id: item:operacoes-gangue-028
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Leonida Carrier Warehouse
+  regiao: regiao:vice-city
+  posicao: { x: 3404, y: 3964, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "An ex-military group are using a Leonida Carrier warehouse to export illegal firearms.; Gang: Independent; Security: High; Take value: $12,000 - $13,600", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-028 }
+  status: referencia
+- id: item:operacoes-gangue-029
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Cigar Import Front
+  regiao: regiao:vice-city
+  posicao: { x: 3889, y: 3718, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "This liquor store is a cover for an illegal cigar import operation.; Gang: Independent; Security: Low; Take value: $9,500 - $10,500", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-029 }
+  status: referencia
+- id: item:operacoes-gangue-030
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Gas Station Meth Front
+  regiao: regiao:vice-city
+  posicao: { x: 3003, y: 3184, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Criminals are running a crystal meth operation in the back room of this convenience store.; Gang: Independent; Security: Low; Take value: $8,100 - $14,400", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-030 }
+  status: referencia
+- id: item:operacoes-gangue-031
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Backroom Weed Front
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1878, y: 3081, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Some criminals are using this salon as a front for their weed business.; Gang: Independent; Security: Low; Take value: $7,000 - $13,500", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-031 }
+  status: referencia
+- id: item:operacoes-gangue-032
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Carter Mining Boathouse
+  regiao: regiao:leonida-keys
+  posicao: { x: 2789, y: 1015, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Independent criminal operation., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-032 }
+  status: referencia
+- id: item:operacoes-gangue-033
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "Criminals: Walker Farm"
+  regiao: regiao:ambrosia
+  posicao: { x: 2491, y: 2714, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-033 }
+  status: referencia
+- id: item:operacoes-gangue-034
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "Final Chapter: Hog Stars Garage"
+  regiao: regiao:ambrosia
+  posicao: { x: 3232, y: 2700, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-034 }
+  status: referencia
+- id: item:operacoes-gangue-035
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "Criminals: Vespucci Mansion"
+  regiao: regiao:vice-city
+  posicao: { x: 4481, y: 3698, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-036 }
+  status: referencia
+- id: item:operacoes-gangue-036
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "Criminals: Ocean Beach Lab"
+  regiao: regiao:vice-city
+  posicao: { x: 4986, y: 3897, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-037 }
+  status: referencia
+- id: item:operacoes-gangue-037
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "Criminals: Industrial Weed Grow"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2271, y: 4739, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-038 }
+  status: referencia
+- id: item:operacoes-gangue-038
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "PTT Youngin$: Illegal Goods Store"
+  regiao: regiao:vice-city
+  posicao: { x: 3655, y: 4896, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-039 }
+  status: referencia
+- id: item:operacoes-gangue-039
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "Criminals: Mill Station Radar Base"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2425, y: 5250, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-041 }
+  status: referencia
+- id: item:operacoes-gangue-040
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: "La Polilla Negra: Watson Bay Safehouse"
+  regiao: regiao:watson-bay
+  posicao: { x: 2568, y: 5389, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-042 }
+  status: referencia
+- id: item:operacoes-gangue-041
+  tipo: item
+  subtipo: crime
+  categoria: operacoes-gangue
+  nome: Small Weed Farm
+  posicao: { x: 2693, y: 3543, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Knock out the man at the front and enter the room: a small weed farm, loot around $1,000.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: gang-operation-046 }
+  status: nao_confirmado

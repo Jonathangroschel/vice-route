@@ -1,0 +1,1146 @@
+# Itens da categoria waink. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:waink-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Wreck of the Meerwunder
+  regiao: regiao:leonida-keys
+  posicao: { x: 2265, y: 1222, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-001 }
+  status: referencia
+- id: item:waink-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: C0-B8 Fairing
+  regiao: regiao:leonida-keys
+  posicao: { x: 2214, y: 1319, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-002 }
+  status: referencia
+- id: item:waink-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: C0-B8 Engine
+  regiao: regiao:leonida-keys
+  posicao: { x: 2665, y: 1318, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-003 }
+  status: referencia
+- id: item:waink-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: C0-B8 Debris
+  regiao: regiao:hamlet
+  posicao: { x: 2017, y: 1419, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-004 }
+  status: referencia
+- id: item:waink-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Fossilized Prints
+  regiao: regiao:leonida-keys
+  posicao: { x: 2603, y: 1487, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-005 }
+  status: referencia
+- id: item:waink-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Intriguing Substance
+  regiao: regiao:vice-city
+  posicao: { x: 3781, y: 1582, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-006 }
+  status: referencia
+- id: item:waink-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Grayson Assembly
+  regiao: regiao:hamlet
+  posicao: { x: 2182, y: 1703, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-007 }
+  status: referencia
+- id: item:waink-008
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Pet Cemetery
+  regiao: regiao:hamlet
+  posicao: { x: 2141, y: 1802, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-008 }
+  status: referencia
+- id: item:waink-009
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Fairy Lane
+  regiao: regiao:leonida-keys
+  posicao: { x: 2206, y: 1811, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-009 }
+  status: referencia
+- id: item:waink-010
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Imperial Spanish Ruins
+  regiao: regiao:leonida-keys
+  posicao: { x: 2532, y: 1938, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-010 }
+  status: referencia
+- id: item:waink-011
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Lovers Lookout
+  regiao: regiao:leonida-keys
+  posicao: { x: 2378, y: 2036, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-011 }
+  status: referencia
+- id: item:waink-012
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Spaceship House
+  regiao: regiao:ambrosia
+  posicao: { x: 3069, y: 2707, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-012 }
+  status: referencia
+- id: item:waink-013
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Dino Golf
+  regiao: regiao:ambrosia
+  posicao: { x: 2569, y: 2830, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-013 }
+  status: referencia
+- id: item:waink-014
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Anti Sugar Residence
+  regiao: regiao:ambrosia
+  posicao: { x: 3072, y: 2830, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-014 }
+  status: referencia
+- id: item:waink-015
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Selkie Hole
+  regiao: regiao:leonida-keys
+  posicao: { x: 2567, y: 3261, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-015 }
+  status: referencia
+- id: item:waink-016
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Belville Topiary
+  regiao: regiao:vice-city
+  posicao: { x: 3868, y: 3200, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-016 }
+  status: referencia
+- id: item:waink-017
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Deserted Home
+  regiao: regiao:leonida-keys
+  posicao: { x: 2741, y: 3498, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-017 }
+  status: referencia
+- id: item:waink-018
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Camp Moonflower
+  regiao: regiao:leonida-keys
+  posicao: { x: 2728, y: 3558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-018 }
+  status: referencia
+- id: item:waink-019
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Hovercraft Crash
+  posicao: { x: 825, y: 3711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-019 }
+  status: referencia
+- id: item:waink-020
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Promotional Sand Vehicles
+  regiao: regiao:vice-city
+  posicao: { x: 5068, y: 3996, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-020 }
+  status: referencia
+- id: item:waink-021
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Halloween House
+  regiao: regiao:capri
+  posicao: { x: 1771, y: 4312, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-021 }
+  status: referencia
+- id: item:waink-022
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Big Entrance
+  posicao: { x: 5012, y: 4635, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-022 }
+  status: referencia
+- id: item:waink-023
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Mermaid Display
+  posicao: { x: 4375, y: 4784, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-023 }
+  status: referencia
+- id: item:waink-024
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Unidentified Animal Pen (UAP)
+  regiao: regiao:watson-bay
+  posicao: { x: 2444, y: 5376, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-024 }
+  status: referencia
+- id: item:waink-025
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: NoFlusher Homestead
+  regiao: regiao:leonida-keys
+  posicao: { x: 2481, y: 5889, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-025 }
+  status: referencia
+- id: item:waink-026
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Wetman Bay Carcass
+  regiao: regiao:leonida-keys
+  posicao: { x: 2586, y: 6019, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-026 }
+  status: referencia
+- id: item:waink-027
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Dead Sharks
+  regiao: regiao:leonida-keys
+  posicao: { x: 2745, y: 6100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-027 }
+  status: referencia
+- id: item:waink-028
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Vibrant Pond
+  regiao: regiao:vice-city
+  posicao: { x: 3025, y: 6210, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-028 }
+  status: referencia
+- id: item:waink-029
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Desert Island Piano
+  regiao: regiao:leonida-keys
+  posicao: { x: 2847, y: 6350, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-029 }
+  status: referencia
+- id: item:waink-030
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Goose Key Carcass
+  regiao: regiao:leonida-keys
+  posicao: { x: 1802, y: 6521, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-030 }
+  status: referencia
+- id: item:waink-031
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Christmas House
+  regiao: regiao:leonida-keys
+  posicao: { x: 3263, y: 6558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-031 }
+  status: referencia
+- id: item:waink-032
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Beach Party Site
+  regiao: regiao:hamlet
+  posicao: { x: 2078, y: 6643, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-032 }
+  status: referencia
+- id: item:waink-033
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Fingerpost
+  regiao: regiao:hamlet
+  posicao: { x: 2051, y: 6672, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-033 }
+  status: referencia
+- id: item:waink-034
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Plunge Masters Deep Sea Chalet
+  regiao: regiao:leonida-keys
+  posicao: { x: 3209, y: 6621, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-034 }
+  status: referencia
+- id: item:waink-035
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Abismo Key Carcass
+  regiao: regiao:leonida-keys
+  posicao: { x: 2623, y: 7087, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-035 }
+  status: referencia
+- id: item:waink-036
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: '"Help me, help you, help me"'
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2256, y: 2975, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the table next to the entrance, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-037 }
+  status: referencia
+- id: item:waink-037
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: QR Code
+  regiao: regiao:leonida-keys
+  posicao: { x: 3355, y: 5967, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Scan the QR code to start a mission., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-038 }
+  status: referencia
+- id: item:waink-038
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Dolores the Snake
+  posicao: { x: 3420, y: 6311, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "After Chapter 1, under the stairs: Dolores the snake with her eggs.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-039 }
+  status: nao_confirmado
+- id: item:waink-039
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: QR Code (The Thirsty Wolf)
+  posicao: { x: 3516, y: 2740, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A QR code in the bathroom to scan with Waink. A message arrives after a moment, which may lead to more.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-040 }
+  status: nao_confirmado
+- id: item:waink-040
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: QR Code (Stop! Don't Flush)
+  posicao: { x: 2586, y: 3310, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the men's restroom. Scan it with WAiNK., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-041 }
+  status: nao_confirmado
+- id: item:waink-041
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Pout Magazine
+  posicao: { x: 4864, y: 4104, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Scan the magazine at the top of the building in the balcony lounge to unlock a new makeup style of Lucia, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-curiosity-042 }
+  status: nao_confirmado
+- id: item:waink-042
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Outlaw's Cabin
+  regiao: regiao:vice-city
+  posicao: { x: 2919, y: 1174, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-001 }
+  status: referencia
+- id: item:waink-043
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Bonanza Giant
+  regiao: regiao:leonida-keys
+  posicao: { x: 2699, y: 1193, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-002 }
+  status: referencia
+- id: item:waink-044
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Lawton Co. Paper Mill
+  regiao: regiao:leonida-keys
+  posicao: { x: 2724, y: 1474, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-003 }
+  status: referencia
+- id: item:waink-045
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Tallaloko Amphitheater
+  regiao: regiao:vice-city
+  posicao: { x: 3330, y: 1564, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-004 }
+  status: referencia
+- id: item:waink-046
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Kalaga Lookout
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2716, y: 1840, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-005 }
+  status: referencia
+- id: item:waink-047
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Grayson Cairns
+  regiao: regiao:leonida-keys
+  posicao: { x: 2658, y: 1874, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-006 }
+  status: referencia
+- id: item:waink-048
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: St. Lucia Lighthouse
+  regiao: regiao:vice-city
+  posicao: { x: 4531, y: 1760, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-007 }
+  status: referencia
+- id: item:waink-049
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Hoffman Observatory
+  regiao: regiao:leonida-keys
+  posicao: { x: 2597, y: 2250, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-008 }
+  status: referencia
+- id: item:waink-050
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Unidentified Building
+  regiao: regiao:vice-city
+  posicao: { x: 4330, y: 2163, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-009 }
+  status: referencia
+- id: item:waink-051
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Farmer Scrumpy's Apple Orchard
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2063, y: 2318, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-010 }
+  status: referencia
+- id: item:waink-052
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Old Goliath
+  regiao: regiao:ambrosia
+  posicao: { x: 3006, y: 2647, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-011 }
+  status: referencia
+- id: item:waink-053
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Howe Dairy Farm's Big Udder
+  regiao: regiao:leonida-keys
+  posicao: { x: 2368, y: 3011, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-012 }
+  status: referencia
+- id: item:waink-054
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Wild Hog Point Radar Base
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1429, y: 3125, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-013 }
+  status: referencia
+- id: item:waink-055
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Gellhorn Fun Fair
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1804, y: 3104, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-014 }
+  status: referencia
+- id: item:waink-056
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Tucker's Citrus Farms Water Tower
+  regiao: regiao:leonida-keys
+  posicao: { x: 2801, y: 3142, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-015 }
+  status: referencia
+- id: item:waink-057
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Sky Ride
+  regiao: regiao:leonida-keys
+  posicao: { x: 2698, y: 3276, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-016 }
+  status: referencia
+- id: item:waink-058
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Fleeca Field
+  regiao: regiao:vice-city
+  posicao: { x: 3684, y: 3812, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-017 }
+  status: referencia
+- id: item:waink-059
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Sahara Arena
+  regiao: regiao:vice-city
+  posicao: { x: 4158, y: 3997, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-018 }
+  status: referencia
+- id: item:waink-060
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Dock Ring
+  regiao: regiao:vice-city
+  posicao: { x: 4307, y: 4119, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-019 }
+  status: referencia
+- id: item:waink-061
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: IAA's Friends of Freedom
+  regiao: regiao:vice-city
+  posicao: { x: 4162, y: 4206, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-020 }
+  status: referencia
+- id: item:waink-062
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Downtown Periscope
+  regiao: regiao:vice-city
+  posicao: { x: 4174, y: 4300, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-021 }
+  status: referencia
+- id: item:waink-063
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Vice City Sign
+  regiao: regiao:vice-city
+  posicao: { x: 2868, y: 4433, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-022 }
+  status: referencia
+- id: item:waink-064
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Belpoint Lighthouse
+  posicao: { x: 1265, y: 4550, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-023 }
+  status: referencia
+- id: item:waink-065
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Aqua Stadium
+  posicao: { x: 4532, y: 4851, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-024 }
+  status: referencia
+- id: item:waink-066
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Courtland Park Stadium
+  regiao: regiao:vice-city
+  posicao: { x: 4206, y: 4899, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-025 }
+  status: referencia
+- id: item:waink-067
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Bobcat Key Experimental Home
+  regiao: regiao:hamlet
+  posicao: { x: 1817, y: 5233, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-026 }
+  status: referencia
+- id: item:waink-068
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Pelican valley Observation Tower
+  regiao: regiao:watson-bay
+  posicao: { x: 2882, y: 5284, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-027 }
+  status: referencia
+- id: item:waink-069
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Badger R&D Tower
+  regiao: regiao:leonida-keys
+  posicao: { x: 3312, y: 6512, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-028 }
+  status: referencia
+- id: item:waink-070
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Derelict Spy Vessel
+  regiao: regiao:hamlet
+  posicao: { x: 2209, y: 6841, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-029 }
+  status: referencia
+- id: item:waink-071
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Riquezas Keys Radome
+  regiao: regiao:leonida-keys
+  posicao: { x: 1247, y: 6935, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-030 }
+  status: referencia
+- id: item:waink-072
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Thicc Herbie
+  regiao: regiao:leonida-keys
+  posicao: { x: 2453, y: 6996, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-landmark-031 }
+  status: referencia
+- id: item:waink-073
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Junkyard T-Rex
+  regiao: regiao:vice-city
+  posicao: { x: 3263, y: 1383, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-001 }
+  status: referencia
+- id: item:waink-074
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Chariot to Valhalla
+  regiao: regiao:leonida-keys
+  posicao: { x: 2432, y: 1617, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-002 }
+  status: referencia
+- id: item:waink-075
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Mother Rushwood
+  regiao: regiao:vice-city
+  posicao: { x: 3915, y: 1603, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-003 }
+  status: referencia
+- id: item:waink-076
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Monument of Leonidan Supremacy
+  regiao: regiao:hamlet
+  posicao: { x: 2046, y: 2213, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-004 }
+  status: referencia
+- id: item:waink-077
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Thrillbilly Mascot
+  regiao: regiao:leonida-keys
+  posicao: { x: 2443, y: 2641, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-005 }
+  status: referencia
+- id: item:waink-078
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Monument of Leonida
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2032, y: 2955, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-006 }
+  status: referencia
+- id: item:waink-079
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Neptune Rises
+  regiao: regiao:vice-city
+  posicao: { x: 4779, y: 3099, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-007 }
+  status: referencia
+- id: item:waink-080
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Gimme All Your Oil
+  regiao: regiao:vice-city
+  posicao: { x: 4250, y: 3407, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-008 }
+  status: referencia
+- id: item:waink-081
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Princess Robot Bubblegum Statue
+  regiao: regiao:vice-city
+  posicao: { x: 5048, y: 3530, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-009 }
+  status: referencia
+- id: item:waink-082
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Catalan Blvd Garden
+  regiao: regiao:vice-city
+  posicao: { x: 4196, y: 3622, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-010 }
+  status: referencia
+- id: item:waink-083
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Vice Museum of Art Sculpture
+  regiao: regiao:vice-city
+  posicao: { x: 4991, y: 3577, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-011 }
+  status: referencia
+- id: item:waink-084
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Buckskin Swamp Totem
+  regiao: regiao:grassrivers
+  posicao: { x: 2719, y: 3830, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-012 }
+  status: referencia
+- id: item:waink-085
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Blanco Memorial
+  regiao: regiao:vice-city
+  posicao: { x: 4599, y: 3797, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-013 }
+  status: referencia
+- id: item:waink-086
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Flam Gummies
+  regiao: regiao:vice-city
+  posicao: { x: 4261, y: 3911, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-014 }
+  status: referencia
+- id: item:waink-087
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: The Grand Turkey of Capri
+  regiao: regiao:capri
+  posicao: { x: 1774, y: 4180, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-015 }
+  status: referencia
+- id: item:waink-088
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Large Lure
+  regiao: regiao:vice-city
+  posicao: { x: 4896, y: 4251, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-016 }
+  status: referencia
+- id: item:waink-089
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Leonida Snow
+  regiao: regiao:vice-city
+  posicao: { x: 4156, y: 4324, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-017 }
+  status: referencia
+- id: item:waink-090
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Pixel Fountain
+  regiao: regiao:vice-city
+  posicao: { x: 4015, y: 4515, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-018 }
+  status: referencia
+- id: item:waink-091
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Colossus
+  regiao: regiao:vice-city
+  posicao: { x: 3863, y: 4922, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-019 }
+  status: referencia
+- id: item:waink-092
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Triangler Sculpture
+  regiao: regiao:leonida-keys
+  posicao: { x: 3758, y: 5976, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-020 }
+  status: referencia
+- id: item:waink-093
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Grassrivers Visitor Center Status
+  regiao: regiao:leonida-keys
+  posicao: { x: 3287, y: 6018, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-021 }
+  status: referencia
+- id: item:waink-094
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: The Wonder Whale
+  regiao: regiao:leonida-keys
+  posicao: { x: 3202, y: 6669, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-022 }
+  status: referencia
+- id: item:waink-095
+  tipo: item
+  subtipo: colecionavel
+  categoria: waink
+  nome: Fatal Incursion Plaque
+  regiao: regiao:leonida-keys
+  posicao: { x: 3031, y: 6840, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: waink-sculpture-023 }
+  status: referencia

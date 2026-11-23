@@ -1,0 +1,49 @@
+# Gerado por pnpm import:limiares (fonte: duanhesen/gta6-leonida-map-data@1c5977bb9c40, CC BY 4.0).
+# Nome e cor podem ser editados à mão; total e regra_100 são atualizados pela fonte.
+
+- numero: 0
+  titulo: Prologue
+  regiao: Vice-Dale County
+  missoes_aprox: 1
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }
+- numero: 1
+  titulo: Just Like Paradise
+  regiao: Leonida Keys (Mariana County)
+  esconderijo: Jason's Stilt House (Key Lento)
+  missoes_aprox: 22
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }
+- numero: 2
+  titulo: Paradise Lost
+  regiao: Port Gellhorn (Kelly County)
+  esconderijo: Starlet Motel (Port Gellhorn)
+  missoes_aprox: 11
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }
+- numero: 3
+  titulo: Tits, Ass, Drug Money
+  regiao: Vice City (Vice-Dale County)
+  esconderijo: Bayside Apartments (Vice City)
+  missoes_aprox: 26
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }
+- numero: 4
+  titulo: Vice City, Baby
+  regiao: Vice City & Ocean Beach (Vice-Dale County)
+  esconderijo: Suite at the Y Hotel (Ocean Beach)
+  missoes_aprox: 25
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }
+- numero: 5
+  titulo: Top of the World, Ma
+  regiao: State of Leonida
+  missoes_aprox: 7
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }

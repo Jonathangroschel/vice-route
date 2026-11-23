@@ -1,0 +1,5145 @@
+# Itens da categoria acrobacias. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:acrobacias-001
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Kalaga Outcrop Base Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3110, y: 1544, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-001 }
+  status: referencia
+- id: item:acrobacias-002
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Mount Kalaga Base Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2960, y: 1803, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-002 }
+  status: referencia
+- id: item:acrobacias-003
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Providence Canyon Antenna Mast Base Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2287, y: 2191, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-003 }
+  status: referencia
+- id: item:acrobacias-004
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Crimson Palms Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4911, y: 3177, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-004 }
+  status: referencia
+- id: item:acrobacias-005
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: La Villette Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4999, y: 3388, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-005 }
+  status: referencia
+- id: item:acrobacias-006
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Archipelago Apartments North Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4112, y: 3753, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-006 }
+  status: referencia
+- id: item:acrobacias-007
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: One Stracathro Tower Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4140, y: 3762, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-007 }
+  status: referencia
+- id: item:acrobacias-008
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: The Sumerian Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4186, y: 3852, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-008 }
+  status: referencia
+- id: item:acrobacias-009
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Maven Residences Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4100, y: 3970, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-009 }
+  status: referencia
+- id: item:acrobacias-010
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Arcadia Towers East Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4087, y: 4138, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-010 }
+  status: referencia
+- id: item:acrobacias-011
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Arcadia Towers South Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4055, y: 4154, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-011 }
+  status: referencia
+- id: item:acrobacias-012
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Vice Civic Center Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3950, y: 4169, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-012 }
+  status: referencia
+- id: item:acrobacias-013
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Valdemar on the River Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3877, y: 4304, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-013 }
+  status: referencia
+- id: item:acrobacias-014
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: High Life Hotel Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 5056, y: 4248, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-014 }
+  status: referencia
+- id: item:acrobacias-015
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Heath Bank Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3998, y: 4348, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-015 }
+  status: referencia
+- id: item:acrobacias-016
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Pike Financial Center Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4112, y: 4360, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-016 }
+  status: referencia
+- id: item:acrobacias-017
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Rico Huxley Hotels Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4081, y: 4390, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-017 }
+  status: referencia
+- id: item:acrobacias-018
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Tequesta Tides Hotel & Spa North Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4138, y: 4476, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-018 }
+  status: referencia
+- id: item:acrobacias-019
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Tequesta Tides Hotel & Spa West Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4112, y: 4482, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-019 }
+  status: referencia
+- id: item:acrobacias-020
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Tequesta Tides Hotel & Spa South Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4116, y: 4506, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-020 }
+  status: referencia
+- id: item:acrobacias-021
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Fenestra Plaza Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4054, y: 4537, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-021 }
+  status: referencia
+- id: item:acrobacias-022
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Sahara Tower Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4000, y: 4608, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-022 }
+  status: referencia
+- id: item:acrobacias-023
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Eternity Apartments Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3849, y: 4728, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-023 }
+  status: referencia
+- id: item:acrobacias-024
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: The Borough Condominiums Base Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3984, y: 4768, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-024 }
+  status: referencia
+- id: item:acrobacias-025
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos-base
+  nome: Bluegrass Antenna Mast Base Jump
+  regiao: regiao:hamlet
+  posicao: { x: 3337, y: 5111, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: base-jump-025 }
+  status: referencia
+- id: item:acrobacias-026
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Brandy Carmine Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4876, y: 3163, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-001 }
+  status: referencia
+- id: item:acrobacias-027
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Maison Estaque Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4920, y: 3196, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-002 }
+  status: referencia
+- id: item:acrobacias-028
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Wash Haus Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4932, y: 3244, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-003 }
+  status: referencia
+- id: item:acrobacias-029
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Jia Luxury Condos Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4973, y: 3314, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-004 }
+  status: referencia
+- id: item:acrobacias-030
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Zaffre Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4987, y: 3336, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-005 }
+  status: referencia
+- id: item:acrobacias-031
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Lampedusa Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 5026, y: 3386, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-006 }
+  status: referencia
+- id: item:acrobacias-032
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Tidemark Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4155, y: 3648, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-007 }
+  status: referencia
+- id: item:acrobacias-033
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Archipelago Apartments Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4122, y: 3750, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-008 }
+  status: referencia
+- id: item:acrobacias-034
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Amalfi Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 5066, y: 3730, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-009 }
+  status: referencia
+- id: item:acrobacias-035
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Aida Towers Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4126, y: 3839, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-010 }
+  status: referencia
+- id: item:acrobacias-036
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Flora Hotel Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4113, y: 3976, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-011 }
+  status: referencia
+- id: item:acrobacias-037
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Derwent Towers Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4109, y: 3986, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-012 }
+  status: referencia
+- id: item:acrobacias-038
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Nauticus Condominiums Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4109, y: 4008, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-013 }
+  status: referencia
+- id: item:acrobacias-039
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Harrison Harbor Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4804, y: 4027, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-014 }
+  status: referencia
+- id: item:acrobacias-040
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Arcadia Towers Apartments Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4074, y: 4145, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-015 }
+  status: referencia
+- id: item:acrobacias-041
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Leonida Point Apartments Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4120, y: 4252, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-016 }
+  status: referencia
+- id: item:acrobacias-042
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Positano Towers Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4979, y: 4213, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-017 }
+  status: referencia
+- id: item:acrobacias-043
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: LNB HQ Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4109, y: 4292, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-018 }
+  status: referencia
+- id: item:acrobacias-044
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: PJ Butlin Baron Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4058, y: 4355, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-019 }
+  status: referencia
+- id: item:acrobacias-045
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Moon Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3987, y: 4372, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-020 }
+  status: referencia
+- id: item:acrobacias-046
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Shorefront HQ Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4128, y: 4365, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-021 }
+  status: referencia
+- id: item:acrobacias-047
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Clarissa Hotel North Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4206, y: 4371, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-022 }
+  status: referencia
+- id: item:acrobacias-048
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Rico Huxley Hotels Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4103, y: 4378, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-023 }
+  status: referencia
+- id: item:acrobacias-049
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Clarissa Hotel East Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4153, y: 4392, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-024 }
+  status: referencia
+- id: item:acrobacias-050
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Clarissa Hotel South Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4181, y: 4395, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-025 }
+  status: referencia
+- id: item:acrobacias-051
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: "Knife Flight: BAM1 Condominiums"
+  regiao: regiao:vice-city
+  posicao: { x: 4064, y: 4402, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-026 }
+  status: referencia
+- id: item:acrobacias-052
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Tequesta on the Water Apartments Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4034, y: 4484, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-027 }
+  status: referencia
+- id: item:acrobacias-053
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Tequesta Tides Hotel & Spa North Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4117, y: 4480, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-028 }
+  status: referencia
+- id: item:acrobacias-054
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Neo Paloma Apartments Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3953, y: 4490, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-029 }
+  status: referencia
+- id: item:acrobacias-055
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: "Knife Flight: Aurum Condominums"
+  regiao: regiao:vice-city
+  posicao: { x: 4054, y: 4487, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-030 }
+  status: referencia
+- id: item:acrobacias-056
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Tequesta Tides Hotel & Spa South Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4114, y: 4492, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-031 }
+  status: referencia
+- id: item:acrobacias-057
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: One Stracathro Tower Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 4000, y: 4669, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-032 }
+  status: referencia
+- id: item:acrobacias-058
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Dock of the Bay Condominiums Knife Flights
+  regiao: regiao:vice-city
+  posicao: { x: 4059, y: 4687, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-033 }
+  status: referencia
+- id: item:acrobacias-059
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Grand Majestic Aparthotel Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3911, y: 4702, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-034 }
+  status: referencia
+- id: item:acrobacias-060
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Fitz-Gerald North Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3849, y: 4943, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-035 }
+  status: referencia
+- id: item:acrobacias-061
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Peacock Bay Luxury Condominiums East Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3871, y: 4959, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-036 }
+  status: referencia
+- id: item:acrobacias-062
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Fitz-Gerald Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3829, y: 4961, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-037 }
+  status: referencia
+- id: item:acrobacias-063
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Peacock Bay Luxury Condominiums North Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3792, y: 4978, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-038 }
+  status: referencia
+- id: item:acrobacias-064
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: The Fitz-Gerald South Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3813, y: 4983, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-039 }
+  status: referencia
+- id: item:acrobacias-065
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: voos-de-faca
+  nome: Peacock Bay Luxury Condominiums South Knife Flight
+  regiao: regiao:vice-city
+  posicao: { x: 3793, y: 5006, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: knife-flight-040 }
+  status: referencia
+- id: item:acrobacias-066
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Stunst Jump LTF Airfield
+  regiao: regiao:leonida-keys
+  posicao: { x: 3257, y: 5990, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-001 }
+  status: referencia
+- id: item:acrobacias-067
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Bonanza Harbor Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2759, y: 1062, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-002 }
+  status: referencia
+- id: item:acrobacias-068
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: North Moreau Broken Bridge Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 2973, y: 1095, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-003 }
+  status: referencia
+- id: item:acrobacias-069
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Macalister Gold Mine Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2806, y: 1257, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-004 }
+  status: referencia
+- id: item:acrobacias-070
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: US Route 628 Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3106, y: 1319, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-005 }
+  status: referencia
+- id: item:acrobacias-071
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Moreau Coal Mound Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3068, y: 1335, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-006 }
+  status: referencia
+- id: item:acrobacias-072
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Moreau Broken Bridge Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3131, y: 1339, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-007 }
+  status: referencia
+- id: item:acrobacias-073
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Dock Coal Company Freeway Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3006, y: 1438, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-008 }
+  status: referencia
+- id: item:acrobacias-074
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Grayson Rail Tunnel Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2362, y: 1631, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-009 }
+  status: referencia
+- id: item:acrobacias-075
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Kalaga Pond Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2904, y: 1633, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-010 }
+  status: referencia
+- id: item:acrobacias-076
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mount Kalaga Visitor Center Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3036, y: 1660, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-011 }
+  status: referencia
+- id: item:acrobacias-077
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: West Kalaga Logging Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2931, y: 1674, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-012 }
+  status: referencia
+- id: item:acrobacias-078
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Millport Harbor Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3947, y: 1614, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-013 }
+  status: referencia
+- id: item:acrobacias-079
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Kalaga Ramp Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2721, y: 1720, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-014 }
+  status: referencia
+- id: item:acrobacias-080
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Kalaga Roadside Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3518, y: 1828, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-015 }
+  status: referencia
+- id: item:acrobacias-081
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Kalaga Ridge Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2501, y: 1908, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-016 }
+  status: referencia
+- id: item:acrobacias-082
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mount Kalaga Lookout Point Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3284, y: 1912, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-017 }
+  status: referencia
+- id: item:acrobacias-083
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: The Free State of Henry Perculay Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3347, y: 1956, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-018 }
+  status: referencia
+- id: item:acrobacias-084
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Kalaga River Stunt Jump
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3243, y: 2028, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-019 }
+  status: referencia
+- id: item:acrobacias-085
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Richard Barebone Overpass North Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4094, y: 1993, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-020 }
+  status: referencia
+- id: item:acrobacias-086
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Richard Barebone Overpass South Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4130, y: 2074, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-021 }
+  status: referencia
+- id: item:acrobacias-087
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Leonida Lock Northwest Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3316, y: 2247, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-022 }
+  status: referencia
+- id: item:acrobacias-088
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Manifest Canyon Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2264, y: 2336, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-023 }
+  status: referencia
+- id: item:acrobacias-089
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Axiom House Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1341, y: 2422, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-024 }
+  status: referencia
+- id: item:acrobacias-090
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Draper Island Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1495, y: 2423, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-025 }
+  status: referencia
+- id: item:acrobacias-091
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: North Kelly County Ledge Stunt Jump
+  regiao: regiao:kelly-county
+  posicao: { x: 2655, y: 2408, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-026 }
+  status: referencia
+- id: item:acrobacias-092
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Manifest Canyon Trail East Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2304, y: 2461, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-027 }
+  status: referencia
+- id: item:acrobacias-093
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: North Kelly County Railroad Stunt Jump
+  regiao: regiao:kelly-county
+  posicao: { x: 2547, y: 2448, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-028 }
+  status: referencia
+- id: item:acrobacias-094
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Manifest Canyon Trail West Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2240, y: 2488, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-029 }
+  status: referencia
+- id: item:acrobacias-095
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Leonida Lock West Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3296, y: 2436, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-030 }
+  status: referencia
+- id: item:acrobacias-096
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mud Club Pond Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2812, y: 2489, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-031 }
+  status: referencia
+- id: item:acrobacias-097
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Leonida Lock East Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3759, y: 2447, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-032 }
+  status: referencia
+- id: item:acrobacias-098
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Saputka River Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2407, y: 2647, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-033 }
+  status: referencia
+- id: item:acrobacias-099
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Thundergolf Stunt Jump
+  posicao: { x: 4232, y: 2549, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-034 }
+  status: referencia
+- id: item:acrobacias-100
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Leonida Lock Southwest Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3375, y: 2687, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-035 }
+  status: referencia
+- id: item:acrobacias-101
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn Drive-In Theatre Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1811, y: 2807, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-036 }
+  status: referencia
+- id: item:acrobacias-102
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Port Gellhorn Center of Praise & Purpose Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1913, y: 2803, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-037 }
+  status: referencia
+- id: item:acrobacias-103
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Leonida Lock South Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3467, y: 2716, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-038 }
+  status: referencia
+- id: item:acrobacias-104
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn Roadworks West Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2004, y: 2831, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-039 }
+  status: referencia
+- id: item:acrobacias-105
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: South Ambrosia Water Treatment Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 2997, y: 2790, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-040 }
+  status: referencia
+- id: item:acrobacias-106
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Prairie Court Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1814, y: 2893, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-041 }
+  status: referencia
+- id: item:acrobacias-107
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn Roadworks East Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2199, y: 2910, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-042 }
+  status: referencia
+- id: item:acrobacias-108
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Starlet Motel Construction Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2269, y: 2975, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-043 }
+  status: referencia
+- id: item:acrobacias-109
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Bonner Construction West Stunt Jump
+  posicao: { x: 4238, y: 2868, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-044 }
+  status: referencia
+- id: item:acrobacias-110
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Howe Dairy Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2387, y: 3049, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-045 }
+  status: referencia
+- id: item:acrobacias-111
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Abandoned Radio Station Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1455, y: 3123, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-046 }
+  status: referencia
+- id: item:acrobacias-112
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Lake Bonner Construction East Stunt Jump
+  posicao: { x: 4341, y: 2955, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-047 }
+  status: referencia
+- id: item:acrobacias-113
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Kelly River Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 2950, y: 3054, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-048 }
+  status: referencia
+- id: item:acrobacias-114
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: County Route 62 Roadworks Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2906, y: 3077, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-049 }
+  status: referencia
+- id: item:acrobacias-115
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn Hilltop Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2023, y: 3176, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-050 }
+  status: referencia
+- id: item:acrobacias-116
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: South Ambrosia Broken Bridge Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3094, y: 3121, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-051 }
+  status: referencia
+- id: item:acrobacias-117
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn Campsite Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2150, y: 3187, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-052 }
+  status: referencia
+- id: item:acrobacias-118
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Waste Transfer Services Lake Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3533, y: 3289, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-053 }
+  status: referencia
+- id: item:acrobacias-119
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Waste Transfer Services Pond Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3407, y: 3318, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-054 }
+  status: referencia
+- id: item:acrobacias-120
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Opulence Construction Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4315, y: 3306, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-055 }
+  status: referencia
+- id: item:acrobacias-121
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Interstate 97 West Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4072, y: 3377, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-056 }
+  status: referencia
+- id: item:acrobacias-122
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Waste Transfer Services North Stunt Jump
+  regiao: regiao:ambrosia
+  posicao: { x: 3409, y: 3425, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-057 }
+  status: referencia
+- id: item:acrobacias-123
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Interstate 97 East Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4086, y: 3396, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-058 }
+  status: referencia
+- id: item:acrobacias-124
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Dolly and Darrel Zimmermann Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4744, y: 3395, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-059 }
+  status: referencia
+- id: item:acrobacias-125
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Waste Transfer Services South Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3420, y: 3542, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-060 }
+  status: referencia
+- id: item:acrobacias-126
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Hoopla Construction Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 5073, y: 3455, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-061 }
+  status: referencia
+- id: item:acrobacias-127
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mastodon U.S.A Stunt jump
+  regiao: regiao:vice-city
+  posicao: { x: 4105, y: 3542, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-062 }
+  status: referencia
+- id: item:acrobacias-128
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: La Perle Parking Lot Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3862, y: 3607, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-063 }
+  status: referencia
+- id: item:acrobacias-129
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Ocean Beach MVP Park North Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4885, y: 3570, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-064 }
+  status: referencia
+- id: item:acrobacias-130
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: 7777 Ocean Beach Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4836, y: 3638, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-065 }
+  status: referencia
+- id: item:acrobacias-131
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Blackwell Sandrock Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4115, y: 3692, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-066 }
+  status: referencia
+- id: item:acrobacias-132
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn International Raceway Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1897, y: 3847, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-067 }
+  status: referencia
+- id: item:acrobacias-133
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Nolan Center Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4855, y: 3673, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-068 }
+  status: referencia
+- id: item:acrobacias-134
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gellhorn Pylons Stunt Jump
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1964, y: 3868, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-069 }
+  status: referencia
+- id: item:acrobacias-135
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice Beach Park In Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4970, y: 3694, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-070 }
+  status: referencia
+- id: item:acrobacias-136
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: The Hog House Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2226, y: 3874, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-071 }
+  status: referencia
+- id: item:acrobacias-137
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Leone Street Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3510, y: 3829, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-072 }
+  status: referencia
+- id: item:acrobacias-138
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Apollo Aggregates South Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3557, y: 3908, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-073 }
+  status: referencia
+- id: item:acrobacias-139
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice-Dale Police Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3981, y: 3898, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-074 }
+  status: referencia
+- id: item:acrobacias-140
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice City Parking Department Ocean Beach Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4985, y: 3867, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-075 }
+  status: referencia
+- id: item:acrobacias-141
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Cruda Y Asi Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4861, y: 3949, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-076 }
+  status: referencia
+- id: item:acrobacias-142
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Schlott Construction West Vice-Dale County Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2767, y: 4098, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-077 }
+  status: referencia
+- id: item:acrobacias-143
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Ocean Beach MVP Park South Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 5002, y: 3973, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-078 }
+  status: referencia
+- id: item:acrobacias-144
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Sixth & Harper Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4911, y: 3991, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-079 }
+  status: referencia
+- id: item:acrobacias-145
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice Beach Police Headquarters Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4850, y: 3998, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-080 }
+  status: referencia
+- id: item:acrobacias-146
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Ocean Beach Plus Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4937, y: 4009, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-081 }
+  status: referencia
+- id: item:acrobacias-147
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Harrison Harbor Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4837, y: 4015, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-082 }
+  status: referencia
+- id: item:acrobacias-148
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Interstate 404 Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 2956, y: 4154, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-083 }
+  status: referencia
+- id: item:acrobacias-149
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: West Vice-Dale County Broken Bridge Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2389, y: 4236, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-084 }
+  status: referencia
+- id: item:acrobacias-150
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: West Vice-Dale County Landfill Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 2863, y: 4261, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-085 }
+  status: referencia
+- id: item:acrobacias-151
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: VCIA North Central Gate Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3259, y: 4271, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-086 }
+  status: referencia
+- id: item:acrobacias-152
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Shoreline Park Amphitheater Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4240, y: 4247, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-087 }
+  status: referencia
+- id: item:acrobacias-153
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Valdemar on the River Parking South Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3890, y: 4301, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-088 }
+  status: referencia
+- id: item:acrobacias-154
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Valdemar on the River Parking North Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3878, y: 4301, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-089 }
+  status: referencia
+- id: item:acrobacias-155
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Ocean Beach Marina Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4878, y: 4239, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-090 }
+  status: referencia
+- id: item:acrobacias-156
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Nehrling River Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2392, y: 4400, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-091 }
+  status: referencia
+- id: item:acrobacias-157
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Port Vice City Plus Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4387, y: 4348, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-092 }
+  status: referencia
+- id: item:acrobacias-158
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mariner's Highway Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4296, y: 4364, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-093 }
+  status: referencia
+- id: item:acrobacias-159
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice City Parking Department Downtown Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3924, y: 4392, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-094 }
+  status: referencia
+- id: item:acrobacias-160
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Downtown MVP Park Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4132, y: 4381, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-095 }
+  status: referencia
+- id: item:acrobacias-161
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Goliath Global Quarry Conveyor Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 2702, y: 4526, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-096 }
+  status: referencia
+- id: item:acrobacias-162
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Banner Hotel & Spa Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3668, y: 4479, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-097 }
+  status: referencia
+- id: item:acrobacias-163
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: SW 4th Avenue Construction Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3926, y: 4476, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-098 }
+  status: referencia
+- id: item:acrobacias-164
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: VCIA Gator Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3481, y: 4519, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-099 }
+  status: referencia
+- id: item:acrobacias-165
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: VCIA Concourse Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3573, y: 4562, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-100 }
+  status: referencia
+- id: item:acrobacias-166
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Tequesta Park In Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4207, y: 4550, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-101 }
+  status: referencia
+- id: item:acrobacias-167
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Goliath Global Quarry Lakeside Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2502, y: 4676, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-102 }
+  status: referencia
+- id: item:acrobacias-168
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Go Postal Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3078, y: 4640, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-103 }
+  status: referencia
+- id: item:acrobacias-169
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice City Parking Department Salton Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3761, y: 4613, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-104 }
+  status: referencia
+- id: item:acrobacias-170
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Goliath Global Quarry Storage Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2790, y: 4694, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-105 }
+  status: referencia
+- id: item:acrobacias-171
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Tequesta MVP Park Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 4005, y: 4640, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-106 }
+  status: referencia
+- id: item:acrobacias-172
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Goliath Global Quarry Heap Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2676, y: 4725, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-107 }
+  status: referencia
+- id: item:acrobacias-173
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: DTH Depot Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3609, y: 4680, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-108 }
+  status: referencia
+- id: item:acrobacias-174
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: VCIA Storage Facility Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3683, y: 4678, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-109 }
+  status: referencia
+- id: item:acrobacias-175
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Dalton Island Sculpture Park Stunt Jump
+  posicao: { x: 5013, y: 4628, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-110 }
+  status: referencia
+- id: item:acrobacias-176
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Vice City Parking Department Tequesta Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3907, y: 4774, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-111 }
+  status: referencia
+- id: item:acrobacias-177
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Cargo Road Construction Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3640, y: 4816, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-112 }
+  status: referencia
+- id: item:acrobacias-178
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Goliath Global Quarry Railroad Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2757, y: 4905, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-113 }
+  status: referencia
+- id: item:acrobacias-179
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Skorpen Brothers Recycling Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3473, y: 4954, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-114 }
+  status: referencia
+- id: item:acrobacias-180
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: US Route 82 Construction Stunt Jump
+  regiao: regiao:watson-bay
+  posicao: { x: 2635, y: 5035, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-115 }
+  status: referencia
+- id: item:acrobacias-181
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Gator Plaza Parking Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3588, y: 5134, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-116 }
+  status: referencia
+- id: item:acrobacias-182
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Peacock Estate Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3805, y: 5188, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-117 }
+  status: referencia
+- id: item:acrobacias-183
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Apollo Aggregates Quarry Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3557, y: 5248, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-118 }
+  status: referencia
+- id: item:acrobacias-184
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Anderson Murphy Construction Stunt Jump
+  regiao: regiao:hamlet
+  posicao: { x: 3463, y: 5333, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-119 }
+  status: referencia
+- id: item:acrobacias-185
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Hamlet Backyard Stunt Jump
+  regiao: regiao:hamlet
+  posicao: { x: 3192, y: 5426, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-120 }
+  status: referencia
+- id: item:acrobacias-186
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Peregrine Bay Coastal Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3605, y: 5738, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-121 }
+  status: referencia
+- id: item:acrobacias-187
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Ocean Sound Road Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3781, y: 5972, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-122 }
+  status: referencia
+- id: item:acrobacias-188
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Longneck Trail Stunt Jump
+  regiao: regiao:vice-city
+  posicao: { x: 3087, y: 6109, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-123 }
+  status: referencia
+- id: item:acrobacias-189
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Schlott Construction Key Lento Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 3283, y: 6575, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-124 }
+  status: referencia
+- id: item:acrobacias-190
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Key Lento Bridge East Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2934, y: 6888, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-125 }
+  status: referencia
+- id: item:acrobacias-191
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Saltrock Bridge West Stunt Jump
+  regiao: regiao:hamlet
+  posicao: { x: 2015, y: 6957, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-126 }
+  status: referencia
+- id: item:acrobacias-192
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mile Zero Air Station Southeast Stunt Jump
+  regiao: regiao:hamlet
+  posicao: { x: 1797, y: 6974, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-127 }
+  status: referencia
+- id: item:acrobacias-193
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Key Lento Bridge West Stunt Jump
+  regiao: regiao:leonida-keys
+  posicao: { x: 2880, y: 6923, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-128 }
+  status: referencia
+- id: item:acrobacias-194
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Mile Zero Air Station South Stunt Jump
+  regiao: regiao:hamlet
+  posicao: { x: 1575, y: 7051, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-129 }
+  status: referencia
+- id: item:acrobacias-195
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: saltos
+  nome: Saltrock Bridge East Stunt Jump
+  regiao: regiao:hamlet
+  posicao: { x: 2221, y: 7037, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: stunt-jump-130 }
+  status: referencia
+- id: item:acrobacias-196
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Macalister River North"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3505, y: 1304, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-001 }
+  status: referencia
+- id: item:acrobacias-197
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Interstate 297 Overpass"
+  regiao: regiao:vice-city
+  posicao: { x: 3663, y: 1372, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-002 }
+  status: referencia
+- id: item:acrobacias-198
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Moreau Overpass"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2777, y: 1431, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-003 }
+  status: referencia
+- id: item:acrobacias-199
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Macalister River Central"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3334, y: 1399, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-004 }
+  status: referencia
+- id: item:acrobacias-200
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Moreau Railroad North"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2584, y: 1471, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-005 }
+  status: referencia
+- id: item:acrobacias-201
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Macalister Gold Mine"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2962, y: 1451, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-006 }
+  status: referencia
+- id: item:acrobacias-202
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: North Kalaga Bridge
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3267, y: 1432, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-007 }
+  status: referencia
+- id: item:acrobacias-203
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: East Lummox County Overpass"
+  regiao: regiao:lummox-county
+  posicao: { x: 3803, y: 1427, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-008 }
+  status: referencia
+- id: item:acrobacias-204
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Moreau Railroad South"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2602, y: 1539, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-009 }
+  status: referencia
+- id: item:acrobacias-205
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Kalaga Overpass North"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2606, y: 1559, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-010 }
+  status: referencia
+- id: item:acrobacias-206
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Kalaga Overpass South"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2614, y: 1579, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-011 }
+  status: referencia
+- id: item:acrobacias-207
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kalaga River South"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3227, y: 1580, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-012 }
+  status: referencia
+- id: item:acrobacias-208
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tallaloko River"
+  regiao: regiao:vice-city
+  posicao: { x: 3802, y: 1588, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-013 }
+  status: referencia
+- id: item:acrobacias-209
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kalaga Reservoir"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3174, y: 1666, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-014 }
+  status: referencia
+- id: item:acrobacias-210
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Millport Overpass"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3871, y: 1629, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-015 }
+  status: referencia
+- id: item:acrobacias-211
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: South Kalaga Overpass"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3311, y: 1713, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-016 }
+  status: referencia
+- id: item:acrobacias-212
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Leonard County Overpass"
+  regiao: regiao:leonard
+  posicao: { x: 3750, y: 1864, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-017 }
+  status: referencia
+- id: item:acrobacias-213
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Leonard County Railway"
+  regiao: regiao:leonard
+  posicao: { x: 3613, y: 1894, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-018 }
+  status: referencia
+- id: item:acrobacias-214
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Kalaga Overpass West"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2329, y: 2007, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-019 }
+  status: referencia
+- id: item:acrobacias-215
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Kelly County Overpass West"
+  regiao: regiao:kelly-county
+  posicao: { x: 2756, y: 2044, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-020 }
+  status: referencia
+- id: item:acrobacias-216
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Richard Barebone Overpass East"
+  regiao: regiao:vice-city
+  posicao: { x: 4102, y: 2008, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-021 }
+  status: referencia
+- id: item:acrobacias-217
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Richard Barebone Overpass West"
+  regiao: regiao:vice-city
+  posicao: { x: 4091, y: 2022, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-022 }
+  status: referencia
+- id: item:acrobacias-218
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Leonard County Overpass North"
+  regiao: regiao:leonard
+  posicao: { x: 3231, y: 2091, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-023 }
+  status: referencia
+- id: item:acrobacias-219
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kalaga River"
+  regiao: regiao:mount-kalaga
+  posicao: { x: 3242, y: 2109, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-024 }
+  status: referencia
+- id: item:acrobacias-220
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Draper Island East"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1824, y: 2302, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-025 }
+  status: referencia
+- id: item:acrobacias-221
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kalaga River Railroad"
+  regiao: regiao:ambrosia
+  posicao: { x: 3288, y: 2212, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-026 }
+  status: referencia
+- id: item:acrobacias-222
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kalaga River Mouth"
+  regiao: regiao:ambrosia
+  posicao: { x: 3317, y: 2234, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-027 }
+  status: referencia
+- id: item:acrobacias-223
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Kelly County Overpass East"
+  regiao: regiao:ambrosia
+  posicao: { x: 3243, y: 2277, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-028 }
+  status: referencia
+- id: item:acrobacias-224
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River Railroad East"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2887, y: 2324, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-029 }
+  status: referencia
+- id: item:acrobacias-225
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Waning Sands Railroad"
+  regiao: regiao:vice-city
+  posicao: { x: 4187, y: 2247, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-030 }
+  status: referencia
+- id: item:acrobacias-226
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Providence Canyon Railroad"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2358, y: 2366, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-031 }
+  status: referencia
+- id: item:acrobacias-227
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Waning Sands Overpass"
+  regiao: regiao:vice-city
+  posicao: { x: 4214, y: 2250, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-032 }
+  status: referencia
+- id: item:acrobacias-228
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leith River North"
+  regiao: regiao:vice-city
+  posicao: { x: 4287, y: 2247, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-033 }
+  status: referencia
+- id: item:acrobacias-229
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River Railroad North"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1876, y: 2434, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-034 }
+  status: referencia
+- id: item:acrobacias-230
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Draper Island Bridge
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1798, y: 2451, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-035 }
+  status: referencia
+- id: item:acrobacias-231
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Frogswater Railroad"
+  regiao: regiao:vice-city
+  posicao: { x: 2959, y: 2391, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-036 }
+  status: referencia
+- id: item:acrobacias-232
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River West"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1961, y: 2473, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-037 }
+  status: referencia
+- id: item:acrobacias-233
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2040, y: 2471, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-038 }
+  status: referencia
+- id: item:acrobacias-234
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River Railroad West"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1903, y: 2480, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-039 }
+  status: referencia
+- id: item:acrobacias-235
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River Mouth"
+  regiao: regiao:ambrosia
+  posicao: { x: 3235, y: 2401, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-040 }
+  status: referencia
+- id: item:acrobacias-236
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tybee Channel North"
+  posicao: { x: 3798, y: 2455, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-041 }
+  status: referencia
+- id: item:acrobacias-237
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tybee Channel Railroad North"
+  posicao: { x: 3813, y: 2457, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-042 }
+  status: referencia
+- id: item:acrobacias-238
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Draper Island South"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1723, y: 2608, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-043 }
+  status: referencia
+- id: item:acrobacias-239
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River Railroad"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2252, y: 2581, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-044 }
+  status: referencia
+- id: item:acrobacias-240
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Saputka River East"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2366, y: 2574, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-045 }
+  status: referencia
+- id: item:acrobacias-241
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Gowing Railroad Bridge
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1582, y: 2706, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-046 }
+  status: referencia
+- id: item:acrobacias-242
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kelly River North"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2288, y: 2668, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-047 }
+  status: referencia
+- id: item:acrobacias-243
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leith River Central"
+  posicao: { x: 4368, y: 2561, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-048 }
+  status: referencia
+- id: item:acrobacias-244
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leith River South"
+  posicao: { x: 4400, y: 2627, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-049 }
+  status: referencia
+- id: item:acrobacias-245
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tybee Channel Central"
+  posicao: { x: 4030, y: 2653, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-050 }
+  status: referencia
+- id: item:acrobacias-246
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Waning Sands Central"
+  posicao: { x: 4338, y: 2660, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-051 }
+  status: referencia
+- id: item:acrobacias-247
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Graffiti Bridge
+  regiao: regiao:leonida-keys
+  posicao: { x: 2361, y: 2809, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-052 }
+  status: referencia
+- id: item:acrobacias-248
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Allied Crystal Pipeline"
+  regiao: regiao:ambrosia
+  posicao: { x: 3349, y: 2767, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-053 }
+  status: referencia
+- id: item:acrobacias-249
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville Canal North"
+  regiao: regiao:ambrosia
+  posicao: { x: 3459, y: 2775, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-054 }
+  status: referencia
+- id: item:acrobacias-250
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Mall Drive"
+  posicao: { x: 4100, y: 2744, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-055 }
+  status: referencia
+- id: item:acrobacias-251
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville Canal Railroad"
+  regiao: regiao:ambrosia
+  posicao: { x: 3458, y: 2809, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-056 }
+  status: referencia
+- id: item:acrobacias-252
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Ambrosia East Railroad North"
+  regiao: regiao:ambrosia
+  posicao: { x: 3361, y: 2817, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-057 }
+  status: referencia
+- id: item:acrobacias-253
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kelly River South"
+  regiao: regiao:ambrosia
+  posicao: { x: 2566, y: 2886, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-058 }
+  status: referencia
+- id: item:acrobacias-254
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tybee Channel Railroad South"
+  posicao: { x: 4193, y: 2849, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-059 }
+  status: referencia
+- id: item:acrobacias-255
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Evergreen Mall Bridge
+  posicao: { x: 4217, y: 2868, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-060 }
+  status: referencia
+- id: item:acrobacias-256
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Gellhorn Overpass"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2296, y: 3024, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-061 }
+  status: referencia
+- id: item:acrobacias-257
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Flamingo Parkway North"
+  regiao: regiao:vice-city
+  posicao: { x: 4630, y: 2918, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-062 }
+  status: referencia
+- id: item:acrobacias-258
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville North Railroad"
+  posicao: { x: 4151, y: 2970, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-063 }
+  status: referencia
+- id: item:acrobacias-259
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tybee Channel South"
+  posicao: { x: 4341, y: 2975, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-064 }
+  status: referencia
+- id: item:acrobacias-260
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tybee Channel Mouth East"
+  posicao: { x: 4363, y: 2993, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-065 }
+  status: referencia
+- id: item:acrobacias-261
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Atlantic Causeway"
+  regiao: regiao:vice-city
+  posicao: { x: 4429, y: 3028, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-066 }
+  status: referencia
+- id: item:acrobacias-262
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kelly River Railroad West"
+  regiao: regiao:ambrosia
+  posicao: { x: 3106, y: 3122, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-067 }
+  status: referencia
+- id: item:acrobacias-263
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Canal North"
+  regiao: regiao:ambrosia
+  posicao: { x: 3236, y: 3118, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-068 }
+  status: referencia
+- id: item:acrobacias-264
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Kelly River Railroad East"
+  regiao: regiao:ambrosia
+  posicao: { x: 3139, y: 3128, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-069 }
+  status: referencia
+- id: item:acrobacias-265
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville Canal South"
+  regiao: regiao:ambrosia
+  posicao: { x: 3469, y: 3117, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-070 }
+  status: referencia
+- id: item:acrobacias-266
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Delamore Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 4552, y: 3053, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-071 }
+  status: referencia
+- id: item:acrobacias-267
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville East Railroad"
+  regiao: regiao:vice-city
+  posicao: { x: 4152, y: 3091, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-072 }
+  status: referencia
+- id: item:acrobacias-268
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tidal Avenue"
+  regiao: regiao:vice-city
+  posicao: { x: 4693, y: 3062, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-073 }
+  status: referencia
+- id: item:acrobacias-269
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Flamingo Parkway South"
+  regiao: regiao:vice-city
+  posicao: { x: 4749, y: 3065, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-074 }
+  status: referencia
+- id: item:acrobacias-270
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Canal"
+  regiao: regiao:ambrosia
+  posicao: { x: 3237, y: 3185, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-075 }
+  status: referencia
+- id: item:acrobacias-271
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville East Overpass"
+  regiao: regiao:vice-city
+  posicao: { x: 4286, y: 3119, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-076 }
+  status: referencia
+- id: item:acrobacias-272
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Ambrosia East Railroad South"
+  regiao: regiao:ambrosia
+  posicao: { x: 3284, y: 3185, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-077 }
+  status: referencia
+- id: item:acrobacias-273
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: County Route 62"
+  regiao: regiao:ambrosia
+  posicao: { x: 3492, y: 3174, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-078 }
+  status: referencia
+- id: item:acrobacias-274
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Raceway Overpass East"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2077, y: 3274, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-079 }
+  status: referencia
+- id: item:acrobacias-275
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Atlantic Avenue"
+  regiao: regiao:vice-city
+  posicao: { x: 4710, y: 3121, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-080 }
+  status: referencia
+- id: item:acrobacias-276
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Gellhorn International Raceway"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1896, y: 3361, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-081 }
+  status: referencia
+- id: item:acrobacias-277
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Raceway Paddock Bridge
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1789, y: 3381, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-082 }
+  status: referencia
+- id: item:acrobacias-278
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Oleander Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 4695, y: 3220, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-083 }
+  status: referencia
+- id: item:acrobacias-279
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Catalan Boulevard"
+  regiao: regiao:vice-city
+  posicao: { x: 4261, y: 3259, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-084 }
+  status: referencia
+- id: item:acrobacias-280
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Mariposa Avenue"
+  regiao: regiao:vice-city
+  posicao: { x: 4775, y: 3227, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-085 }
+  status: referencia
+- id: item:acrobacias-281
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville Town Overpass"
+  regiao: regiao:vice-city
+  posicao: { x: 4007, y: 3277, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-086 }
+  status: referencia
+- id: item:acrobacias-282
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Del Rio Boulevard"
+  regiao: regiao:vice-city
+  posicao: { x: 4122, y: 3293, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-087 }
+  status: referencia
+- id: item:acrobacias-283
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Caledonia Boulevard"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3814, y: 3327, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-088 }
+  status: referencia
+- id: item:acrobacias-284
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: South Leonard County Railroad North"
+  regiao: regiao:ambrosia
+  posicao: { x: 3286, y: 3383, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-089 }
+  status: referencia
+- id: item:acrobacias-285
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Canal South"
+  regiao: regiao:vice-city
+  posicao: { x: 3237, y: 3389, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-090 }
+  status: referencia
+- id: item:acrobacias-286
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: S-17 Canal Drawbridge North
+  regiao: regiao:vice-city
+  posicao: { x: 4036, y: 3351, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-091 }
+  status: referencia
+- id: item:acrobacias-287
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Vineyard Drive East"
+  regiao: regiao:vice-city
+  posicao: { x: 4901, y: 3317, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-092 }
+  status: referencia
+- id: item:acrobacias-288
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Belville Canal East"
+  regiao: regiao:vice-city
+  posicao: { x: 3980, y: 3387, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-093 }
+  status: referencia
+- id: item:acrobacias-289
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Raceway Overpass North"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1882, y: 3528, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-094 }
+  status: referencia
+- id: item:acrobacias-290
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Raceway Parking"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1802, y: 3538, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-095 }
+  status: referencia
+- id: item:acrobacias-291
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Vineyard Drive West"
+  regiao: regiao:vice-city
+  posicao: { x: 4814, y: 3365, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-096 }
+  status: referencia
+- id: item:acrobacias-292
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Bonita Court Footbridge
+  regiao: regiao:vice-city
+  posicao: { x: 4944, y: 3361, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-097 }
+  status: referencia
+- id: item:acrobacias-293
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Washington Beach West"
+  regiao: regiao:vice-city
+  posicao: { x: 4502, y: 3409, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-098 }
+  status: referencia
+- id: item:acrobacias-294
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: South Leonard County Railroad South"
+  regiao: regiao:leonard
+  posicao: { x: 3289, y: 3490, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-099 }
+  status: referencia
+- id: item:acrobacias-295
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Oleander Boulevard"
+  regiao: regiao:vice-city
+  posicao: { x: 4896, y: 3401, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-100 }
+  status: referencia
+- id: item:acrobacias-296
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Gellhorn Rally X"
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1588, y: 3631, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-101 }
+  status: referencia
+- id: item:acrobacias-297
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Ajax Gym / Lawton Theater"
+  regiao: regiao:vice-city
+  posicao: { x: 4816, y: 3458, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-102 }
+  status: referencia
+- id: item:acrobacias-298
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: S-17 Canal Drawbridge Central
+  regiao: regiao:vice-city
+  posicao: { x: 3937, y: 3516, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-103 }
+  status: referencia
+- id: item:acrobacias-299
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Buckskin Swamp Channels"
+  regiao: regiao:grassrivers
+  posicao: { x: 2597, y: 3633, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-104 }
+  status: referencia
+- id: item:acrobacias-300
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Canal Railroad"
+  regiao: regiao:vice-city
+  posicao: { x: 3238, y: 3593, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-105 }
+  status: referencia
+- id: item:acrobacias-301
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Washington Beach Footbridge
+  regiao: regiao:vice-city
+  posicao: { x: 4969, y: 3492, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-106 }
+  status: referencia
+- id: item:acrobacias-302
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Raceway Stands"
+  regiao: regiao:hamlet
+  posicao: { x: 1626, y: 3725, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-107 }
+  status: referencia
+- id: item:acrobacias-303
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: S-17 Canal Drawbridge South
+  regiao: regiao:vice-city
+  posicao: { x: 3833, y: 3594, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-108 }
+  status: referencia
+- id: item:acrobacias-304
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Xero Billboard"
+  regiao: regiao:hamlet
+  posicao: { x: 1756, y: 3736, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-109 }
+  status: referencia
+- id: item:acrobacias-305
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Raceway Overpass Central"
+  regiao: regiao:hamlet
+  posicao: { x: 1868, y: 3730, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-110 }
+  status: referencia
+- id: item:acrobacias-306
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Chepalle Billboard"
+  regiao: regiao:hamlet
+  posicao: { x: 1923, y: 3728, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-111 }
+  status: referencia
+- id: item:acrobacias-307
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Canal Southwest"
+  regiao: regiao:vice-city
+  posicao: { x: 3240, y: 3673, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-112 }
+  status: referencia
+- id: item:acrobacias-308
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Casanova Island Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 4769, y: 3587, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-113 }
+  status: referencia
+- id: item:acrobacias-309
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Canal Southeast"
+  regiao: regiao:vice-city
+  posicao: { x: 3255, y: 3740, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-114 }
+  status: referencia
+- id: item:acrobacias-310
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Balsero Overpass East"
+  regiao: regiao:vice-city
+  posicao: { x: 3520, y: 3739, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-115 }
+  status: referencia
+- id: item:acrobacias-311
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Raceway Overpass South"
+  regiao: regiao:hamlet
+  posicao: { x: 1875, y: 3856, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-116 }
+  status: referencia
+- id: item:acrobacias-312
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Power and Light"
+  regiao: regiao:vice-city
+  posicao: { x: 3339, y: 3817, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-117 }
+  status: referencia
+- id: item:acrobacias-313
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: RON Gas - Balsero"
+  regiao: regiao:vice-city
+  posicao: { x: 3538, y: 3805, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-118 }
+  status: referencia
+- id: item:acrobacias-314
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Rivo Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 4262, y: 3762, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-119 }
+  status: referencia
+- id: item:acrobacias-315
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Fleeca Field Stadium"
+  regiao: regiao:vice-city
+  posicao: { x: 3576, y: 3832, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-120 }
+  status: referencia
+- id: item:acrobacias-316
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Balsero Overpass North"
+  regiao: regiao:vice-city
+  posicao: { x: 3164, y: 3864, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-121 }
+  status: referencia
+- id: item:acrobacias-317
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: S-17 Canal Swing Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 3400, y: 3850, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-122 }
+  status: referencia
+- id: item:acrobacias-318
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Buckskin Swamp Southeast"
+  regiao: regiao:vice-city
+  posicao: { x: 3031, y: 3902, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-123 }
+  status: referencia
+- id: item:acrobacias-319
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Buckskin Swamp Southwest"
+  regiao: regiao:grassrivers
+  posicao: { x: 2450, y: 3946, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-124 }
+  status: referencia
+- id: item:acrobacias-320
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Omega Parkway"
+  regiao: regiao:vice-city
+  posicao: { x: 3350, y: 3890, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-125 }
+  status: referencia
+- id: item:acrobacias-321
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tisha-Wocka Flea Market East"
+  regiao: regiao:vice-city
+  posicao: { x: 3189, y: 3918, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-126 }
+  status: referencia
+- id: item:acrobacias-322
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tisha-Wocka Flea Market Central"
+  regiao: regiao:vice-city
+  posicao: { x: 3174, y: 3920, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-127 }
+  status: referencia
+- id: item:acrobacias-323
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Tish-Wocka Flea Market West"
+  regiao: regiao:vice-city
+  posicao: { x: 3163, y: 3924, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-128 }
+  status: referencia
+- id: item:acrobacias-324
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Balsero Overpass Central"
+  regiao: regiao:vice-city
+  posicao: { x: 3133, y: 3928, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-129 }
+  status: referencia
+- id: item:acrobacias-325
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Balsero Overpass West"
+  regiao: regiao:vice-city
+  posicao: { x: 3118, y: 3932, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-130 }
+  status: referencia
+- id: item:acrobacias-326
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Capri Bay Railroad"
+  regiao: regiao:capri
+  posicao: { x: 1699, y: 4052, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-131 }
+  status: referencia
+- id: item:acrobacias-327
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Leonida Auto World"
+  regiao: regiao:vice-city
+  posicao: { x: 3300, y: 3952, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-132 }
+  status: referencia
+- id: item:acrobacias-328
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: South Kelly County Overpass"
+  regiao: regiao:capri
+  posicao: { x: 2055, y: 4080, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-133 }
+  status: referencia
+- id: item:acrobacias-329
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Capri Island"
+  regiao: regiao:capri
+  posicao: { x: 1585, y: 4122, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-134 }
+  status: referencia
+- id: item:acrobacias-330
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Macalister Causeway"
+  regiao: regiao:vice-city
+  posicao: { x: 4287, y: 3968, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-135 }
+  status: referencia
+- id: item:acrobacias-331
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Vice River North"
+  regiao: regiao:vice-city
+  posicao: { x: 3737, y: 4016, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-136 }
+  status: referencia
+- id: item:acrobacias-332
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Tisha-Wocka Flea Market Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 3214, y: 4050, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-137 }
+  status: referencia
+- id: item:acrobacias-333
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Muspachee River East"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2891, y: 4080, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-138 }
+  status: referencia
+- id: item:acrobacias-334
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Emerald Bridge
+  regiao: regiao:capri
+  posicao: { x: 1973, y: 4170, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-139 }
+  status: referencia
+- id: item:acrobacias-335
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Muspachee River West"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2457, y: 4164, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-140 }
+  status: referencia
+- id: item:acrobacias-336
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Cargo Road"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2886, y: 4137, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-141 }
+  status: referencia
+- id: item:acrobacias-337
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Salton Overpass"
+  regiao: regiao:vice-city
+  posicao: { x: 3271, y: 4149, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-142 }
+  status: referencia
+- id: item:acrobacias-338
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Vice-Dale County North"
+  regiao: regiao:vice-city
+  posicao: { x: 3179, y: 4163, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-143 }
+  status: referencia
+- id: item:acrobacias-339
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Vice-Dale County Northeast"
+  regiao: regiao:vice-city
+  posicao: { x: 3130, y: 4168, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-144 }
+  status: referencia
+- id: item:acrobacias-340
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Starfish Island"
+  regiao: regiao:vice-city
+  posicao: { x: 4553, y: 4079, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-145 }
+  status: referencia
+- id: item:acrobacias-341
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Vice-Dale County South"
+  regiao: regiao:vice-city
+  posicao: { x: 3176, y: 4183, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-146 }
+  status: referencia
+- id: item:acrobacias-342
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Waxman Island East"
+  regiao: regiao:vice-city
+  posicao: { x: 4758, y: 4102, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-147 }
+  status: referencia
+- id: item:acrobacias-343
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Vice River South"
+  regiao: regiao:vice-city
+  posicao: { x: 3760, y: 4179, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-148 }
+  status: referencia
+- id: item:acrobacias-344
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Terrapin Road"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2387, y: 4281, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-149 }
+  status: referencia
+- id: item:acrobacias-345
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: West Royale Street"
+  regiao: regiao:vice-city
+  posicao: { x: 3828, y: 4305, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-150 }
+  status: referencia
+- id: item:acrobacias-346
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Nehrling River Railroad"
+  regiao: regiao:capri
+  posicao: { x: 1908, y: 4469, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-151 }
+  status: referencia
+- id: item:acrobacias-347
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Nehrling River West"
+  regiao: regiao:capri
+  posicao: { x: 1866, y: 4491, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-152 }
+  status: referencia
+- id: item:acrobacias-348
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Port VC Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 4297, y: 4356, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-153 }
+  status: referencia
+- id: item:acrobacias-349
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Nehrling River East"
+  regiao: regiao:capri
+  posicao: { x: 1993, y: 4511, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-154 }
+  status: referencia
+- id: item:acrobacias-350
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Caprice City Canal"
+  regiao: regiao:vice-city
+  posicao: { x: 2701, y: 4483, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-155 }
+  status: referencia
+- id: item:acrobacias-351
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Downtown Southeast"
+  regiao: regiao:vice-city
+  posicao: { x: 4108, y: 4436, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-156 }
+  status: referencia
+- id: item:acrobacias-352
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Downtown Southwest"
+  regiao: regiao:vice-city
+  posicao: { x: 4016, y: 4451, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-157 }
+  status: referencia
+- id: item:acrobacias-353
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Bobcat Key North"
+  regiao: regiao:capri
+  posicao: { x: 1853, y: 4641, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-158 }
+  status: referencia
+- id: item:acrobacias-354
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Gloriana Key North"
+  posicao: { x: 4615, y: 4518, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-159 }
+  status: referencia
+- id: item:acrobacias-355
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Breakwater Quarry"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2599, y: 4655, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-160 }
+  status: referencia
+- id: item:acrobacias-356
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Tequesta Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 4122, y: 4591, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-161 }
+  status: referencia
+- id: item:acrobacias-357
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Seabell Avenue"
+  regiao: regiao:vice-city
+  posicao: { x: 3043, y: 4696, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-162 }
+  status: referencia
+- id: item:acrobacias-358
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Mariana County Railroad West"
+  regiao: regiao:mariana-county
+  posicao: { x: 2194, y: 4796, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-163 }
+  status: referencia
+- id: item:acrobacias-359
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Catalan Key East"
+  posicao: { x: 4401, y: 4735, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-164 }
+  status: referencia
+- id: item:acrobacias-360
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Goliath Global Quarry"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2763, y: 4890, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-165 }
+  status: referencia
+- id: item:acrobacias-361
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Catalan Key West"
+  regiao: regiao:vice-city
+  posicao: { x: 4042, y: 4828, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-166 }
+  status: referencia
+- id: item:acrobacias-362
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Fuzzard Drain Canal Railroad East"
+  regiao: regiao:vice-city
+  posicao: { x: 3446, y: 4935, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-167 }
+  status: referencia
+- id: item:acrobacias-363
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Bluegrass North"
+  regiao: regiao:vice-city
+  posicao: { x: 3113, y: 4971, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-168 }
+  status: referencia
+- id: item:acrobacias-364
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: SND Station Footbridge
+  regiao: regiao:watson-bay
+  posicao: { x: 2641, y: 5008, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-169 }
+  status: referencia
+- id: item:acrobacias-365
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Southside West"
+  regiao: regiao:vice-city
+  posicao: { x: 3479, y: 4966, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-170 }
+  status: referencia
+- id: item:acrobacias-366
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Bluegrass Railroad Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 3241, y: 5000, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-171 }
+  status: referencia
+- id: item:acrobacias-367
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Gloriana Key West"
+  posicao: { x: 4377, y: 4935, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-172 }
+  status: referencia
+- id: item:acrobacias-368
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Fuzzard Drain Canal"
+  regiao: regiao:vice-city
+  posicao: { x: 3245, y: 5017, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-173 }
+  status: referencia
+- id: item:acrobacias-369
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Fuzzard Drain Canal Railroad West"
+  regiao: regiao:vice-city
+  posicao: { x: 3066, y: 5055, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-174 }
+  status: referencia
+- id: item:acrobacias-370
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Mariana County Railroad Southeast"
+  regiao: regiao:watson-bay
+  posicao: { x: 2872, y: 5103, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-175 }
+  status: referencia
+- id: item:acrobacias-371
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Mariana County Railroad Southwest"
+  regiao: regiao:watson-bay
+  posicao: { x: 2803, y: 5111, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-176 }
+  status: referencia
+- id: item:acrobacias-372
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Bobcat Key Central"
+  regiao: regiao:watson-bay
+  posicao: { x: 2007, y: 5189, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-177 }
+  status: referencia
+- id: item:acrobacias-373
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Mariana County Overpass"
+  regiao: regiao:watson-bay
+  posicao: { x: 2781, y: 5144, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-178 }
+  status: referencia
+- id: item:acrobacias-374
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Bluegrass South"
+  regiao: regiao:hamlet
+  posicao: { x: 3100, y: 5147, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-179 }
+  status: referencia
+- id: item:acrobacias-375
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: South Vice-Dale County Overpass"
+  regiao: regiao:vice-city
+  posicao: { x: 3563, y: 5224, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-180 }
+  status: referencia
+- id: item:acrobacias-376
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Watson Bay"
+  regiao: regiao:watson-bay
+  posicao: { x: 2419, y: 5328, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-181 }
+  status: referencia
+- id: item:acrobacias-377
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: East Big Pine"
+  regiao: regiao:watson-bay
+  posicao: { x: 2809, y: 5324, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-182 }
+  status: referencia
+- id: item:acrobacias-378
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Pelican River"
+  regiao: regiao:hamlet
+  posicao: { x: 3058, y: 5315, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-183 }
+  status: referencia
+- id: item:acrobacias-379
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Catalan Key South"
+  regiao: regiao:leonida-keys
+  posicao: { x: 4147, y: 5271, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-184 }
+  status: referencia
+- id: item:acrobacias-380
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Gavin's Creek West"
+  regiao: regiao:watson-bay
+  posicao: { x: 2389, y: 5401, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-185 }
+  status: referencia
+- id: item:acrobacias-381
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Bobcat Key South"
+  regiao: regiao:watson-bay
+  posicao: { x: 2269, y: 5442, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-186 }
+  status: referencia
+- id: item:acrobacias-382
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Atlee River"
+  regiao: regiao:hamlet
+  posicao: { x: 3003, y: 5423, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-187 }
+  status: referencia
+- id: item:acrobacias-383
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Emory Avenue"
+  regiao: regiao:hamlet
+  posicao: { x: 3516, y: 5402, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-188 }
+  status: referencia
+- id: item:acrobacias-384
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Gavin's Creek East"
+  regiao: regiao:watson-bay
+  posicao: { x: 2583, y: 5477, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-189 }
+  status: referencia
+- id: item:acrobacias-385
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: East Watson Bay"
+  regiao: regiao:vice-city
+  posicao: { x: 2807, y: 5464, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-190 }
+  status: referencia
+- id: item:acrobacias-386
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Isla Maldia"
+  regiao: regiao:vice-city
+  posicao: { x: 4061, y: 5414, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-191 }
+  status: referencia
+- id: item:acrobacias-387
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Watson Bay"
+  regiao: regiao:watson-bay
+  posicao: { x: 2720, y: 5506, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-192 }
+  status: referencia
+- id: item:acrobacias-388
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Hamlet Overpass"
+  regiao: regiao:hamlet
+  posicao: { x: 3376, y: 5558, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-193 }
+  status: referencia
+- id: item:acrobacias-389
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Bright Maw Pass"
+  regiao: regiao:hamlet
+  posicao: { x: 3503, y: 5551, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-194 }
+  status: referencia
+- id: item:acrobacias-390
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Isla Maldia"
+  regiao: regiao:vice-city
+  posicao: { x: 3975, y: 5634, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-195 }
+  status: referencia
+- id: item:acrobacias-391
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: South Isla Maldia"
+  regiao: regiao:vice-city
+  posicao: { x: 3752, y: 5916, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-196 }
+  status: referencia
+- id: item:acrobacias-392
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Lento Causeway"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3437, y: 6016, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-197 }
+  status: referencia
+- id: item:acrobacias-393
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Old Fort Road Bridge
+  regiao: regiao:vice-city
+  posicao: { x: 3154, y: 6166, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-198 }
+  status: referencia
+- id: item:acrobacias-394
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: North Key Lento"
+  regiao: regiao:leonida-keys
+  posicao: { x: 3637, y: 6155, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-199 }
+  status: referencia
+- id: item:acrobacias-395
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Permit Causeway"
+  regiao: regiao:hamlet
+  posicao: { x: 2158, y: 6940, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-200 }
+  status: referencia
+- id: item:acrobacias-396
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: "Under the Bridge: Keylime Causeway"
+  regiao: regiao:leonida-keys
+  posicao: { x: 2883, y: 6906, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-201 }
+  status: referencia
+- id: item:acrobacias-397
+  tipo: item
+  subtipo: atividade
+  categoria: acrobacias
+  conjunto: sob-a-ponte
+  nome: Saltrock Bridge
+  regiao: regiao:hamlet
+  posicao: { x: 2121, y: 6997, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: under-the-bridge-202 }
+  status: referencia

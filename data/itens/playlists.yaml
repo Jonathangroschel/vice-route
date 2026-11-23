@@ -1,0 +1,87 @@
+# Itens da categoria playlists. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:playlists-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Sniper of La Perle 4
+  regiao: regiao:vice-city
+  posicao: { x: 3910, y: 3628, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-001 }
+  status: referencia
+- id: item:playlists-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Sniper of La Perle 3
+  regiao: regiao:vice-city
+  posicao: { x: 3893, y: 3668, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-002 }
+  status: referencia
+- id: item:playlists-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Sniper of La Perle 2
+  regiao: regiao:vice-city
+  posicao: { x: 3937, y: 3696, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-003 }
+  status: referencia
+- id: item:playlists-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Sniper of La Perle 1
+  regiao: regiao:vice-city
+  posicao: { x: 4035, y: 3731, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-004 }
+  status: referencia
+- id: item:playlists-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Vault Radio 2
+  regiao: regiao:vice-city
+  posicao: { x: 3995, y: 4005, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-005 }
+  status: referencia
+- id: item:playlists-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Vault Radio 3
+  regiao: regiao:vice-city
+  posicao: { x: 4011, y: 4004, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-006 }
+  status: referencia
+- id: item:playlists-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: playlists
+  nome: The Vault Radio 1
+  regiao: regiao:vice-city
+  posicao: { x: 3997, y: 4008, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: playlist-007 }
+  status: referencia

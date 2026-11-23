@@ -1,0 +1,18 @@
+- id: 'item:easter-eggs-a'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo A
+  requer: { concluido: 'item:easter-eggs-b' }
+  spoiler: 1
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-b'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo B
+  requer: { concluido: 'item:easter-eggs-a' }
+  spoiler: 1
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

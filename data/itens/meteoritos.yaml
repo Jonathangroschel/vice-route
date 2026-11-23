@@ -1,0 +1,683 @@
+# Itens da categoria meteoritos. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:meteoritos-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 3237, y: 6895, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under The Dead Tree, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-001 }
+  status: referencia
+- id: item:meteoritos-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 3215, y: 6955, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Between the rocks, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-002 }
+  status: referencia
+- id: item:meteoritos-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 3229, y: 6914, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Hidden under the tree, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-003 }
+  status: referencia
+- id: item:meteoritos-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 3361, y: 6734, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Next to a log, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-004 }
+  status: referencia
+- id: item:meteoritos-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 3632, y: 6421, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Near a tree by the camp, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-005 }
+  status: referencia
+- id: item:meteoritos-006
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:vice-city
+  posicao: { x: 3094, y: 1882, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Collectible piece of meteorite which falls on tourist camp., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-006 }
+  status: referencia
+- id: item:meteoritos-007
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:hamlet
+  posicao: { x: 2215, y: 6835, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On beach along the waterline, maybe 100 ft N of the Derelict Spy Vessel on E side of the island", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-007 }
+  status: referencia
+- id: item:meteoritos-008
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 2617, y: 7089, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Very close to the Carcass and a few feet away from the water inlet is a meteorite piece in the sand, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-008 }
+  status: referencia
+- id: item:meteoritos-009
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:hamlet
+  posicao: { x: 1802, y: 6525, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: next to Goose Key Carcass, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-009 }
+  status: referencia
+- id: item:meteoritos-010
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite
+  regiao: regiao:leonida-keys
+  posicao: { x: 2599, y: 6015, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Meteorite not far from carcass, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-010 }
+  status: referencia
+- id: item:meteoritos-011
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite (Dudz Island)
+  regiao: regiao:hamlet
+  posicao: { x: 2009, y: 6171, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Just under the metallic structure, exactly in the middle", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-011 }
+  status: referencia
+- id: item:meteoritos-012
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:hamlet
+  posicao: { x: 2128, y: 6657, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Among a group of rocks., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-012 }
+  status: referencia
+- id: item:meteoritos-013
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:hamlet
+  posicao: { x: 1997, y: 6770, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Under an overturned wooden dinghy on the beach, near the half-sunken boat.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-013 }
+  status: referencia
+- id: item:meteoritos-014
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1371, y: 6641, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-014 }
+  status: referencia
+- id: item:meteoritos-015
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:vice-city
+  posicao: { x: 3222, y: 875, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under the bridge., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-015 }
+  status: referencia
+- id: item:meteoritos-016
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 2364, y: 1712, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: By the lake., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-016 }
+  status: referencia
+- id: item:meteoritos-017
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:leonida-keys
+  posicao: { x: 2635, y: 1794, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Glowing red, on Mount Kalaga.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-017 }
+  status: referencia
+- id: item:meteoritos-018
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:vice-city
+  posicao: { x: 2965, y: 1852, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under the ledge below the red triangle chair., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-018 }
+  status: referencia
+- id: item:meteoritos-019
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:vice-city
+  posicao: { x: 3328, y: 1566, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Climb up to the bell., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-019 }
+  status: referencia
+- id: item:meteoritos-020
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:capri
+  posicao: { x: 1869, y: 4060, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the abandoned campsite by the river: the meteorite is under the upside-down boat, next to the fire. Easy to see from the river.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-020 }
+  status: referencia
+- id: item:meteoritos-021
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragments (Selkie Hole)
+  regiao: regiao:leonida-keys
+  posicao: { x: 2571, y: 3272, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Follow the underwater diving route through the cave: one meteorite is at the cave entrance and the other at the exit, just before the lake.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-021 }
+  status: referencia
+- id: item:meteoritos-022
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:capri
+  posicao: { x: 1564, y: 3942, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Near the boat party, where the grass meets the sand.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-022 }
+  status: referencia
+- id: item:meteoritos-023
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1568, y: 3934, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Right of the boat party, on the sand where the tide comes in.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-023 }
+  status: nao_confirmado
+- id: item:meteoritos-024
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment (beached whale)
+  regiao: regiao:hamlet
+  posicao: { x: 1544, y: 3781, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the beached whale. Careful: when you approach it bursts, spilling a wheelchair, cocaine packages and the meteorite onto the beach.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-024 }
+  status: referencia
+- id: item:meteoritos-025
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  regiao: regiao:hamlet
+  posicao: { x: 1494, y: 3711, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Between the two trees on the grass by the beach. Easier to spot from a boat., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-025 }
+  status: referencia
+- id: item:meteoritos-026
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1327, y: 3628, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "On the tip of land, among the rocks.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-026 }
+  status: referencia
+- id: item:meteoritos-027
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 3130, y: 1062, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On St. Attaway Island., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-027 }
+  status: nao_confirmado
+- id: item:meteoritos-028
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2739, y: 3499, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Go up to the roof and enter the house (best in the evening or at night). You'll see a glowing target., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-028 }
+  status: nao_confirmado
+- id: item:meteoritos-029
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1835, y: 5304, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-029 }
+  status: nao_confirmado
+- id: item:meteoritos-030
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1550, y: 5822, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the O of the SOS sign., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-030 }
+  status: nao_confirmado
+- id: item:meteoritos-031
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1394, y: 6463, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under the dead tree., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-031 }
+  status: nao_confirmado
+- id: item:meteoritos-032
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2970, y: 1014, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "At the campfire, under the seat.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-032 }
+  status: nao_confirmado
+- id: item:meteoritos-033
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2959, y: 1110, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the ditch: look for a glowing red light.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-033 }
+  status: nao_confirmado
+- id: item:meteoritos-034
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 965, y: 4191, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under the dock., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-034 }
+  status: nao_confirmado
+- id: item:meteoritos-035
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2269, y: 1222, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the ground right next to the shipwreck., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-035 }
+  status: nao_confirmado
+- id: item:meteoritos-036
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2320, y: 1461, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: By the rock at the water's edge., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-036 }
+  status: nao_confirmado
+- id: item:meteoritos-037
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 3714, y: 3075, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Inside the garage, under the bed the magazine is lying on.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-037 }
+  status: nao_confirmado
+- id: item:meteoritos-038
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1338, y: 6398, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the little waterhole., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-038 }
+  status: nao_confirmado
+- id: item:meteoritos-039
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 818, y: 3504, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under a dead tree., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-039 }
+  status: nao_confirmado
+- id: item:meteoritos-040
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 3195, y: 1852, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the rocks by the river., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-040 }
+  status: nao_confirmado
+- id: item:meteoritos-041
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 3879, y: 1024, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Near a campsite, partly in the water, glowing bright pink. Head towards the crashed boat.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-041 }
+  status: nao_confirmado
+- id: item:meteoritos-042
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2212, y: 1320, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Underneath a metal panel in the middle of the C0-B8 Fairing impact crater, right next to the C0-B8 Fairing curiosity.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-042 }
+  status: nao_confirmado
+- id: item:meteoritos-043
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 3192, y: 754, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Next to the white overturned rowboat., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-043 }
+  status: nao_confirmado
+- id: item:meteoritos-044
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 790, y: 3592, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Under a tree trunk., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-044 }
+  status: nao_confirmado
+- id: item:meteoritos-045
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2018, y: 1421, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: In the middle of the C0-B8 Debris crater., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-045 }
+  status: nao_confirmado
+- id: item:meteoritos-046
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2491, y: 1258, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: On the summit of the little island., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-046 }
+  status: nao_confirmado
+- id: item:meteoritos-047
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1695, y: 2134, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Inside the left trash outlet tube., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-047 }
+  status: nao_confirmado
+- id: item:meteoritos-048
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment (office)
+  posicao: { x: 4406, y: 2498, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "In the office, next to the pool table.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-048 }
+  status: nao_confirmado
+- id: item:meteoritos-049
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1322, y: 4259, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-049 }
+  status: nao_confirmado
+- id: item:meteoritos-050
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 2827, y: 1338, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Meteorite, spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-050 }
+  status: nao_confirmado
+- id: item:meteoritos-051
+  tipo: item
+  subtipo: colecionavel
+  categoria: meteoritos
+  nome: Meteorite Fragment
+  posicao: { x: 1129, y: 2269, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: Next to a wooden box; easier to see at night., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: meteorite-051 }
+  status: nao_confirmado

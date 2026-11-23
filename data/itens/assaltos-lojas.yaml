@@ -1,0 +1,1075 @@
+# Itens da categoria assaltos-lojas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:assaltos-lojas-001
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Key Lento
+  regiao: regiao:leonida-keys
+  posicao: { x: 3555, y: 6236, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A 24/7 supermarket in Key Lento., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-002 }
+  status: referencia
+- id: item:assaltos-lojas-002
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Southside
+  regiao: regiao:vice-city
+  posicao: { x: 3671, y: 5037, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A grocery store on El Joven Boulevard, Southside, Vice City.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-003 }
+  status: referencia
+- id: item:assaltos-lojas-003
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Uncle Jack’s Liquor - Port Gellhorn
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1865, y: 2862, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A liquor store in Port Gellhorn., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-004 }
+  status: referencia
+- id: item:assaltos-lojas-004
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Vetiver Minimarket
+  regiao: regiao:vice-city
+  posicao: { x: 3909, y: 3612, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A minimarket in La Perle, Vice City.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-005 }
+  status: referencia
+- id: item:assaltos-lojas-005
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Leonida Key Lento Mini Mart
+  regiao: regiao:leonida-keys
+  posicao: { x: 3254, y: 6614, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A convenience store in Key Lento., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-007 }
+  status: referencia
+- id: item:assaltos-lojas-006
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Hamlet Convenience Store
+  regiao: regiao:hamlet
+  posicao: { x: 3261, y: 5501, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A convenience store in Hamlet., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-008 }
+  status: referencia
+- id: item:assaltos-lojas-007
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Trotman's Super Market
+  regiao: regiao:vice-city
+  posicao: { x: 3849, y: 1751, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A convenience store in Millport., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-009 }
+  status: referencia
+- id: item:assaltos-lojas-008
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Waning Sands
+  posicao: { x: 4169, y: 2575, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-010 }
+  status: referencia
+- id: item:assaltos-lojas-009
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Bayside
+  regiao: regiao:vice-city
+  posicao: { x: 4265, y: 3439, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Convenience store located on the upper left corner of Bayside, on Coral Ave.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-011 }
+  status: referencia
+- id: item:assaltos-lojas-010
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Southside
+  regiao: regiao:vice-city
+  posicao: { x: 3656, y: 4879, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-012 }
+  status: referencia
+- id: item:assaltos-lojas-011
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Wells Rosa
+  regiao: regiao:vice-city
+  posicao: { x: 3823, y: 4866, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-013 }
+  status: referencia
+- id: item:assaltos-lojas-012
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Grassrivers
+  regiao: regiao:watson-bay
+  posicao: { x: 2748, y: 5163, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-014 }
+  status: referencia
+- id: item:assaltos-lojas-013
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Leonida Truck Stop
+  regiao: regiao:hamlet
+  posicao: { x: 3063, y: 5365, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-015 }
+  status: referencia
+- id: item:assaltos-lojas-014
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: LTD Food Mart - Hamlet
+  regiao: regiao:hamlet
+  posicao: { x: 3327, y: 5383, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-016 }
+  status: referencia
+- id: item:assaltos-lojas-015
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Jim's Mini Mart
+  regiao: regiao:watson-bay
+  posicao: { x: 2355, y: 5496, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-017 }
+  status: referencia
+- id: item:assaltos-lojas-016
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Hamlet
+  regiao: regiao:hamlet
+  posicao: { x: 3461, y: 5425, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-018 }
+  status: referencia
+- id: item:assaltos-lojas-017
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Ramon's Groceries
+  regiao: regiao:hamlet
+  posicao: { x: 3328, y: 5475, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-019 }
+  status: referencia
+- id: item:assaltos-lojas-018
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Globe Oil Food Center - Hamlet
+  regiao: regiao:hamlet
+  posicao: { x: 3240, y: 5530, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-020 }
+  status: referencia
+- id: item:assaltos-lojas-019
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Poppers Convenience Store
+  regiao: regiao:watson-bay
+  posicao: { x: 2436, y: 5581, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-021 }
+  status: referencia
+- id: item:assaltos-lojas-020
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Randy's Big Gas Mart
+  regiao: regiao:watson-bay
+  posicao: { x: 2468, y: 5563, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-022 }
+  status: referencia
+- id: item:assaltos-lojas-021
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Southwind
+  regiao: regiao:hamlet
+  posicao: { x: 1892, y: 6744, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-023 }
+  status: referencia
+- id: item:assaltos-lojas-022
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Bayside
+  regiao: regiao:vice-city
+  posicao: { x: 4131, y: 3562, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-024 }
+  status: referencia
+- id: item:assaltos-lojas-023
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Balsero
+  regiao: regiao:vice-city
+  posicao: { x: 3509, y: 3785, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-025 }
+  status: referencia
+- id: item:assaltos-lojas-024
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - South Kelly County
+  regiao: regiao:kelly-county
+  posicao: { x: 2274, y: 3881, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-026 }
+  status: referencia
+- id: item:assaltos-lojas-025
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Balsero
+  regiao: regiao:vice-city
+  posicao: { x: 3248, y: 3887, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-027 }
+  status: referencia
+- id: item:assaltos-lojas-026
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Buckskin Swamp 1
+  regiao: regiao:grassrivers
+  posicao: { x: 2917, y: 3978, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-028 }
+  status: referencia
+- id: item:assaltos-lojas-027
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: LTD Food Mart - Capri
+  regiao: regiao:capri
+  posicao: { x: 1691, y: 4128, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-029 }
+  status: referencia
+- id: item:assaltos-lojas-028
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Delgado & Sons
+  regiao: regiao:vice-city
+  posicao: { x: 3600, y: 4070, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-030 }
+  status: referencia
+- id: item:assaltos-lojas-029
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - West Vice-Dale County
+  regiao: regiao:leonida-keys
+  posicao: { x: 2592, y: 4190, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-031 }
+  status: referencia
+- id: item:assaltos-lojas-030
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Downtown
+  regiao: regiao:vice-city
+  posicao: { x: 3955, y: 4151, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-032 }
+  status: referencia
+- id: item:assaltos-lojas-031
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Little Cuba
+  regiao: regiao:vice-city
+  posicao: { x: 3897, y: 4114, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-033 }
+  status: referencia
+- id: item:assaltos-lojas-032
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Salton
+  regiao: regiao:vice-city
+  posicao: { x: 3546, y: 4150, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-034 }
+  status: referencia
+- id: item:assaltos-lojas-033
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Salton
+  regiao: regiao:vice-city
+  posicao: { x: 3704, y: 4239, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-035 }
+  status: referencia
+- id: item:assaltos-lojas-034
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Capri
+  regiao: regiao:capri
+  posicao: { x: 1814, y: 4398, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-036 }
+  status: referencia
+- id: item:assaltos-lojas-035
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Quick Picks Mini Mart
+  regiao: regiao:vice-city
+  posicao: { x: 3997, y: 4289, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-037 }
+  status: referencia
+- id: item:assaltos-lojas-036
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Grassrivers
+  regiao: regiao:capri
+  posicao: { x: 1930, y: 4614, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-039 }
+  status: referencia
+- id: item:assaltos-lojas-037
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Tequesta
+  regiao: regiao:vice-city
+  posicao: { x: 3882, y: 4531, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-040 }
+  status: referencia
+- id: item:assaltos-lojas-038
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - La Perle
+  regiao: regiao:vice-city
+  posicao: { x: 4054, y: 3459, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-041 }
+  status: referencia
+- id: item:assaltos-lojas-039
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: RON Stop'N'Snack - Washington Beach
+  regiao: regiao:vice-city
+  posicao: { x: 4920, y: 3473, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-042 }
+  status: referencia
+- id: item:assaltos-lojas-040
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: A&L Surf Mart
+  regiao: regiao:vice-city
+  posicao: { x: 5033, y: 3626, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-043 }
+  status: referencia
+- id: item:assaltos-lojas-041
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Hugo's Quick-Mart
+  regiao: regiao:vice-city
+  posicao: { x: 3961, y: 3852, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-044 }
+  status: referencia
+- id: item:assaltos-lojas-042
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: XYZ Market
+  regiao: regiao:vice-city
+  posicao: { x: 3998, y: 3812, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-045 }
+  status: referencia
+- id: item:assaltos-lojas-043
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Rockridge
+  regiao: regiao:vice-city
+  posicao: { x: 3805, y: 3821, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-046 }
+  status: referencia
+- id: item:assaltos-lojas-044
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Rico's Convenience Store
+  regiao: regiao:vice-city
+  posicao: { x: 3808, y: 3893, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-047 }
+  status: referencia
+- id: item:assaltos-lojas-045
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Emilio's Auto Center Food Store
+  regiao: regiao:vice-city
+  posicao: { x: 3881, y: 3918, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-048 }
+  status: referencia
+- id: item:assaltos-lojas-046
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Globe Oil Food Center - Crosstown
+  regiao: regiao:vice-city
+  posicao: { x: 4005, y: 3938, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-049 }
+  status: referencia
+- id: item:assaltos-lojas-047
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Ocean Beach
+  regiao: regiao:vice-city
+  posicao: { x: 4987, y: 4006, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-050 }
+  status: referencia
+- id: item:assaltos-lojas-048
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: LTD Food Mart - Ocean Beach
+  regiao: regiao:vice-city
+  posicao: { x: 4913, y: 4083, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-051 }
+  status: referencia
+- id: item:assaltos-lojas-049
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: ¡Superprecios! Market
+  regiao: regiao:vice-city
+  posicao: { x: 4981, y: 4108, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-052 }
+  status: referencia
+- id: item:assaltos-lojas-050
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Waning Sands
+  posicao: { x: 4348, y: 2640, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-053 }
+  status: referencia
+- id: item:assaltos-lojas-051
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Alpha Convenience Store - Belville
+  regiao: regiao:vice-city
+  posicao: { x: 3988, y: 3078, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-054 }
+  status: referencia
+- id: item:assaltos-lojas-052
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Washington Beach
+  regiao: regiao:vice-city
+  posicao: { x: 4647, y: 3046, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-055 }
+  status: referencia
+- id: item:assaltos-lojas-053
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Belville
+  regiao: regiao:vice-city
+  posicao: { x: 3607, y: 3190, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-056 }
+  status: referencia
+- id: item:assaltos-lojas-054
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Belville
+  regiao: regiao:vice-city
+  posicao: { x: 3750, y: 3251, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-057 }
+  status: referencia
+- id: item:assaltos-lojas-055
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Millport
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3735, y: 1798, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-058 }
+  status: referencia
+- id: item:assaltos-lojas-056
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Millport
+  regiao: regiao:port-gellhorn
+  posicao: { x: 3793, y: 1799, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-059 }
+  status: referencia
+- id: item:assaltos-lojas-057
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Cane Grocery
+  regiao: regiao:ambrosia
+  posicao: { x: 3220, y: 2583, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-060 }
+  status: referencia
+- id: item:assaltos-lojas-058
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Ambrosia
+  regiao: regiao:ambrosia
+  posicao: { x: 3273, y: 2662, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-061 }
+  status: referencia
+- id: item:assaltos-lojas-059
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Emerald Springs
+  regiao: regiao:vice-city
+  posicao: { x: 3007, y: 3186, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-062 }
+  status: referencia
+- id: item:assaltos-lojas-060
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Bunch Farms Country Store
+  regiao: regiao:leonida-keys
+  posicao: { x: 2757, y: 2105, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-063 }
+  status: referencia
+- id: item:assaltos-lojas-061
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Alpha Convenience Store - Gellhorn
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2278, y: 2943, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-064 }
+  status: referencia
+- id: item:assaltos-lojas-062
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Sarena's Bargain Store
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1799, y: 2964, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-065 }
+  status: referencia
+- id: item:assaltos-lojas-063
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - Port Gellhorn
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1868, y: 2987, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-066 }
+  status: referencia
+- id: item:assaltos-lojas-064
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Dale's Shopwell
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1881, y: 3074, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-067 }
+  status: referencia
+- id: item:assaltos-lojas-065
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Tucker's Citrus Farms
+  regiao: regiao:leonida-keys
+  posicao: { x: 2860, y: 3146, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-068 }
+  status: referencia
+- id: item:assaltos-lojas-066
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Eager Beaver Express
+  regiao: regiao:port-gellhorn
+  posicao: { x: 1881, y: 3283, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-069 }
+  status: referencia
+- id: item:assaltos-lojas-067
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Redshaw's General Store
+  regiao: regiao:vice-city
+  posicao: { x: 3074, y: 1609, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-070 }
+  status: referencia
+- id: item:assaltos-lojas-068
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Huck's Pump N Go
+  regiao: regiao:hamlet
+  posicao: { x: 2087, y: 1806, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-071 }
+  status: referencia
+- id: item:assaltos-lojas-069
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: 247 - West Kalaga
+  regiao: regiao:mount-kalaga
+  posicao: { x: 2738, y: 1553, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-072 }
+  status: referencia
+- id: item:assaltos-lojas-070
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Emerald Springs Country Store
+  regiao: regiao:leonida-keys
+  posicao: { x: 2772, y: 3462, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-073 }
+  status: referencia
+- id: item:assaltos-lojas-071
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Blessed Food Market
+  regiao: regiao:vice-city
+  posicao: { x: 3879, y: 3741, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-074 }
+  status: referencia
+- id: item:assaltos-lojas-072
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Crosstown
+  regiao: regiao:vice-city
+  posicao: { x: 4027, y: 3750, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-075 }
+  status: referencia
+- id: item:assaltos-lojas-073
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Xero Food Mart - Buckskin Swamp 2
+  regiao: regiao:grassrivers
+  posicao: { x: 2942, y: 3940, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: convenience-store-076 }
+  status: referencia
+- id: item:assaltos-lojas-074
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: One Stop Liquor - Key Lento
+  regiao: regiao:leonida-keys
+  posicao: { x: 3144, y: 6707, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-001 }
+  status: referencia
+- id: item:assaltos-lojas-075
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Three Sheets Liquor
+  regiao: regiao:leonida-keys
+  posicao: { x: 3376, y: 6485, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Pirate-themed liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-002 }
+  status: referencia
+- id: item:assaltos-lojas-076
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Discount Liquors
+  regiao: regiao:vice-city
+  posicao: { x: 3551, y: 5032, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-003 }
+  status: referencia
+- id: item:assaltos-lojas-077
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Uncle Jack’s Liquor - Tequesta
+  regiao: regiao:vice-city
+  posicao: { x: 3991, y: 4554, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $500 - $2,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-004 }
+  status: referencia
+- id: item:assaltos-lojas-078
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Liquor Store
+  regiao: regiao:vice-city
+  posicao: { x: 3806, y: 4350, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-005 }
+  status: referencia
+- id: item:assaltos-lojas-079
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Palmis Liquor
+  regiao: regiao:vice-city
+  posicao: { x: 3888, y: 3714, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-006 }
+  status: referencia
+- id: item:assaltos-lojas-080
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Dutch Courage
+  regiao: regiao:vice-city
+  posicao: { x: 4047, y: 3725, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-007 }
+  status: referencia
+- id: item:assaltos-lojas-081
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Uncle Jack’s Liquor - Bayside
+  regiao: regiao:vice-city
+  posicao: { x: 4144, y: 3703, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $500 - $2,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-008 }
+  status: referencia
+- id: item:assaltos-lojas-082
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Zak’s Liquor
+  regiao: regiao:vice-city
+  posicao: { x: 4006, y: 3511, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $100 - $1,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-009 }
+  status: referencia
+- id: item:assaltos-lojas-083
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: One Stop Liquor - Ocean Beach
+  regiao: regiao:vice-city
+  posicao: { x: 4972, y: 3598, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $1,000 - $3,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-010 }
+  status: referencia
+- id: item:assaltos-lojas-084
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Corked Wine Bank
+  regiao: regiao:vice-city
+  posicao: { x: 4956, y: 3743, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $1,000 - $3,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-011 }
+  status: referencia
+- id: item:assaltos-lojas-085
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Ocean Beach Liquor
+  regiao: regiao:vice-city
+  posicao: { x: 4940, y: 3980, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $1,000 - $3,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-012 }
+  status: referencia
+- id: item:assaltos-lojas-086
+  tipo: item
+  subtipo: crime
+  categoria: assaltos-lojas
+  nome: Ambrosia Liquors
+  regiao: regiao:ambrosia
+  posicao: { x: 3059, y: 2637, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "Liquor store selling beer, snacks, and smokes.; Security: Low; Take value: $1,000 - $3,000", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: liquor-store-013 }
+  status: referencia

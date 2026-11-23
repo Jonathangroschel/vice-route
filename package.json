@@ -1,0 +1,30 @@
+{
+  "name": "vice-route",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.34.9",
+  "engines": {
+    "node": ">=24.7"
+  },
+  "scripts": {
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "verify": "pnpm format:check && pnpm typecheck && pnpm test && pnpm catalog:check",
+    "catalog:check": "pnpm --filter @vice-route/catalog-build run check",
+    "catalog:build": "pnpm --filter @vice-route/catalog-build run build",
+    "catalog:report": "pnpm --filter @vice-route/catalog-build run report",
+    "import:controle": "pnpm --filter @vice-route/importers run controle",
+    "import:limiares": "pnpm --filter @vice-route/importers run limiares",
+    "import:open-gta6-map": "pnpm --filter @vice-route/importers run open-gta6-map"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "prettier": "^3.10.0",
+    "tsx": "^4.23.15",
+    "turbo": "^2.11.11",
+    "typescript": "~6.0.3",
+    "vitest": "^5.1.0"
+  }
+}

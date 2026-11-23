@@ -1,0 +1,99 @@
+# Itens da categoria cacadas. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:cacadas-001
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Pelican Valley Hunting Spot
+  regiao: regiao:vice-city
+  posicao: { x: 3058, y: 6155, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A hunting magazine said this is a good place to find American alligators and black foxes., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-001 }
+  status: referencia
+- id: item:cacadas-002
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Grassrivers Hunting Spot
+  regiao: regiao:watson-bay
+  posicao: { x: 2713, y: 5273, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A hunting magazine said this is a good place to find Leonida panthers., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-002 }
+  status: referencia
+- id: item:cacadas-003
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Big Pine Hunting Spot
+  regiao: regiao:leonida-keys
+  posicao: { x: 2400, y: 4954, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A hunting magazine said this is a good place to find black bears., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-003 }
+  status: referencia
+- id: item:cacadas-004
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Bobcat Key Hunting Spot
+  regiao: regiao:watson-bay
+  posicao: { x: 1946, y: 5132, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A hunting magazine said this is a good place to find Leonida bobcats., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-004 }
+  status: referencia
+- id: item:cacadas-005
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Gellhorn Hunting Spot
+  regiao: regiao:port-gellhorn
+  posicao: { x: 2117, y: 3692, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: "A hunting magazine marks this as a good spot for wild boars, wild white turkeys, Leonida panthers and black foxes. Recommended weapon: Shrewsbury SM-69 rifle.", spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-005 }
+  status: referencia
+- id: item:cacadas-006
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Grayson Hunting Spot
+  posicao: { x: 2248, y: 1890, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A good place to find black bears and wild boars., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-006 }
+  status: nao_confirmado
+- id: item:cacadas-007
+  tipo: item
+  subtipo: atividade
+  categoria: cacadas
+  nome: Moreau Hunting Spot
+  posicao: { x: 2814, y: 1289, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  dicas:
+    - { texto: A good place to find black bears and black foxes., spoiler: 1 }
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: hunting-007 }
+  status: nao_confirmado

@@ -1,0 +1,19 @@
+- id: 'item:easter-eggs-a'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo A
+  posicao: { x: 100, y: 100, qualidade: aproximada, representa: ponto }
+  aliases: ['item:easter-eggs-b']
+  spoiler: 1
+  status: referencia
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]
+- id: 'item:easter-eggs-b'
+  tipo: item
+  subtipo: colecionavel
+  categoria: easter-eggs
+  nome: Ovo B (duplicado)
+  posicao: { x: 101, y: 100, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  status: depreciado
+  fontes: [{ tipo: referencia, url: 'https://exemplo.org/guia' }]

@@ -1,0 +1,21 @@
+{
+  "name": "@vice-route/catalog-build",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "check": "tsx src/cli.ts check",
+    "build": "tsx src/cli.ts build",
+    "report": "tsx src/cli.ts report"
+  },
+  "dependencies": {
+    "@vice-route/catalog-schema": "workspace:*",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.7"
+  }
+}

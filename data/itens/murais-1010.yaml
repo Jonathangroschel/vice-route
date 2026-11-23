@@ -1,0 +1,63 @@
+# Itens da categoria murais-1010. Pinos importados de Open GTA 6 Map (fbritoferreira/gta6, CC BY 4.0) por pnpm import:open-gta6-map,
+# com posições convertidas para a imagem-base. Campos de curadoria editados à mão são preservados na re-importação.
+
+- id: item:murais-1010-001
+  tipo: item
+  subtipo: colecionavel
+  categoria: murais-1010
+  nome: "1010 Mural: Privatized Pains Socialized Gains"
+  regiao: regiao:vice-city
+  posicao: { x: 4823, y: 3618, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: mural-001 }
+  status: referencia
+- id: item:murais-1010-002
+  tipo: item
+  subtipo: colecionavel
+  categoria: murais-1010
+  nome: "1010 Mural: You Signed the Terms & Conditions"
+  regiao: regiao:vice-city
+  posicao: { x: 4044, y: 3818, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: mural-002 }
+  status: referencia
+- id: item:murais-1010-003
+  tipo: item
+  subtipo: colecionavel
+  categoria: murais-1010
+  nome: "1010 Mural: Loophole Architecture"
+  regiao: regiao:vice-city
+  posicao: { x: 3791, y: 3921, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: mural-003 }
+  status: referencia
+- id: item:murais-1010-004
+  tipo: item
+  subtipo: colecionavel
+  categoria: murais-1010
+  nome: "1010 Mural: Extraction Service"
+  regiao: regiao:vice-city
+  posicao: { x: 4116, y: 4227, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: mural-004 }
+  status: referencia
+- id: item:murais-1010-005
+  tipo: item
+  subtipo: colecionavel
+  categoria: murais-1010
+  nome: "1010 Mural: Compliance Theater"
+  regiao: regiao:vice-city
+  posicao: { x: 4112, y: 4360, qualidade: aproximada, representa: ponto }
+  spoiler: 1
+  fontes:
+    - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+  ids_fonte: { open-gta6-map: mural-005 }
+  status: referencia

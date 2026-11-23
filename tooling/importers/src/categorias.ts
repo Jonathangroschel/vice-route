@@ -54,6 +54,34 @@ const ACROBACIAS = [
   { id: 'saltos-base', nome: 'Saltos BASE', tipo: 'basejump|BASE jump' },
 ]
 
+/** Linhas de missões secundárias (conjuntos da categoria missoes-secundarias). */
+export const QUESTLINES = [
+  ['shirley', 'Shirley'],
+  ['kenton', 'Kenton Rees'],
+  ['cal', 'Cal'],
+  ['kirk', 'Kirk'],
+  ['kyle', 'Kyle McKittrick'],
+  ['alvan', 'Alvan West'],
+  ['moses', 'Moses'],
+  ['bret', 'Bret Vogel'],
+  ['billy', 'Billy'],
+  ['yago', 'Yago'],
+  ['andy', 'Andy (Cellerica)'],
+  ['yasmani', 'Yasmani'],
+  ['randy', 'Randy'],
+  ['tyrone', 'Tyrone'],
+  ['dunk', 'Dunk'],
+  ['papa-audacity', 'Papa Audacity'],
+  ['eddie', 'Eddie Acosta'],
+  ['pilot-pete', 'Pilot Pete'],
+  ['shayna', 'Shayna'],
+  ['freddie', 'Freddie'],
+  ['merle', 'Dr. Merle'],
+  ['felipe', 'Felipe'],
+  ['rusty-anchor', 'Rusty Anchor'],
+  ['ovni', 'Contato imediato'],
+].map(([id, nome]) => ({ id: id!, nome: nome!, tipo: '' }))
+
 export const CATEGORIAS: DefCategoria[] = [
   // Colecionáveis
   {
@@ -519,7 +547,7 @@ export const CATEGORIAS: DefCategoria[] = [
     tipos: ['weapon|Weapon pickup'],
     duracao_padrao_min: 2,
   },
-  // Missões (sem pinos importados; levantamento assistido)
+  // Missões (levantamento assistido: src/levantamento/gerar-missoes.ts)
   {
     id: 'missoes-principais',
     nome: 'Missões principais',
@@ -531,6 +559,21 @@ export const CATEGORIAS: DefCategoria[] = [
     regra: { tipo: 'itens', minimo: 91 },
     limiar: 'Main Story Missions',
     tipos: [],
+    duracao_padrao_min: 20,
+  },
+  {
+    id: 'missoes-secundarias',
+    nome: 'Missões secundárias',
+    nome_original: 'Strangers & Freaks and side questlines',
+    grupo: 'missoes',
+    subtipo: 'atividade',
+    cor: '#e0aaff',
+    total: null,
+    regra: { tipo: 'nenhuma' },
+    tipos: [],
+    conjuntos: QUESTLINES,
+    duracao_padrao_min: 15,
+    obs: 'Troféu Strangers & Freaks pede 8 linhas; as fontes divergem sobre quais contam. Fora dos limiares de 100% do GTA6Maps.',
   },
 ]
 

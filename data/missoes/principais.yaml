@@ -1,2 +1,1542 @@
-# Levantamento assistido em andamento (docs/02 §3).
-[]
+# Missões principais (91), em ordem, com capítulo e personagem.
+# Primeira passada gerada por pnpm levantamento:missoes (pesquisa de 23/11/2026). A partir daqui, edite à mão.
+
+- id: missao:adventures-in-babysitting
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Adventures in Babysitting
+  personagem: jason
+  ordem: 73
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:too-much-baggage
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:afternoon-delight
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Afternoon Delight
+  personagem: ambos
+  ordem: 32
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:coffee-break
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-afternoon-delight-walkthrough/ }
+  status: referencia
+- id: missao:amateur-hour
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Amateur Hour
+  personagem: lucia
+  ordem: 70
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:cash-injections
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:ambulance-chaser
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Ambulance Chaser
+  personagem: lucia
+  ordem: 24
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:whats-in-the-bag
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-ambulance-chaser-walkthrough/ }
+  status: referencia
+- id: missao:another-life
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Another Life
+  personagem: lucia
+  ordem: 61
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:ocean-beach
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:bird-in-the-hand
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Bird in the Hand
+  personagem: ambos
+  ordem: 85
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:starting-from-zero
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:boobie-time
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Boobie Time
+  personagem: jason
+  ordem: 44
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:top-billing
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-boobie-time-walkthrough/ }
+  status: referencia
+- id: missao:breakfast-run
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Breakfast Run
+  personagem: ambos
+  ordem: 30
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:slam-dunk
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-breakfast-run-walkthrough/ }
+  status: referencia
+- id: missao:bricked-up
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Bricked Up
+  personagem: ambos
+  ordem: 57
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:cooties
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:buck-me
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Buck Me
+  personagem: ambos
+  ordem: 12
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:coming-home
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-buck-me-walkthrough/ }
+  status: referencia
+- id: missao:car-service
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Car Service
+  personagem: lucia
+  ordem: 42
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:here-kitty-kitty
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-car-service-walkthrough/ }
+  status: referencia
+- id: missao:cash-injections
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Cash Injections
+  personagem: lucia
+  ordem: 69
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:watch-it
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:caught-slipping
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Caught Slipping
+  personagem: ambos
+  ordem: 46
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:first-impressions
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-caught-slipping-walkthrough/ }
+  status: referencia
+- id: missao:checking-out
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Checking Out
+  personagem: ambos
+  ordem: 33
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:afternoon-delight
+  spoiler: 2
+  dicas:
+    - { texto: "Ponto sem retorno do capítulo 2: você deixa o Starlet Motel e perde revistas e cartas guardadas lá. Fontes divergem se fecha no início ou na conclusão; o app avisa antes de iniciar.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-checking-out-walkthrough/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+  status: referencia
+- id: missao:childs-play
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Child's Play
+  personagem: ambos
+  ordem: 76
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:power-play
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:clean-up-after-donnie
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Clean Up After Donnie
+  personagem: jason
+  ordem: 13
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:buck-me
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-clean-up-after-donnie-walkthrough/ }
+  status: referencia
+- id: missao:clear-skies
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Clear Skies
+  personagem: jason
+  ordem: 15
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:down-to-earth
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-clear-skies-walkthrough/ }
+  status: referencia
+- id: missao:clonin-keys-makin-gs
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Clonin' Keys, Makin' Gs
+  personagem: ambos
+  ordem: 49
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:credit-check
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions, obs: 'Também listada como "Steal the Zorrusso for Randy" (gtabites, GTABase, KeenGamer).' }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-clonin-keys-makin-gs-walkthrough/ }
+  status: referencia
+- id: missao:close-surveillance
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Close Surveillance
+  personagem: jason
+  ordem: 78
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:headliners
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:coffee-break
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Coffee Break
+  personagem: ambos
+  ordem: 31
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:breakfast-run
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-coffee-break-walkthrough/ }
+  status: referencia
+- id: missao:coming-home
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Coming Home
+  personagem: jason
+  ordem: 11
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:feng-shui
+  spoiler: 2
+  dicas:
+    - { texto: "Antes de iniciar: as tarefas de boas-vindas para a Lucia (roupas, flores, compras, corte de cabelo) somem quando ela é buscada. Não contam para 100%.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-coming-home-walkthrough/ }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+  status: referencia
+- id: missao:company-cars
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Company Cars
+  personagem: ambos
+  ordem: 62
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:another-life
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:company-property
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Company Property
+  personagem: ambos
+  ordem: 53
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:ride-or-die
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:cooties
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Cooties
+  personagem: lucia
+  ordem: 56
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:safe-word
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:credit-check
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Credit Check
+  personagem: ambos
+  ordem: 48
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:crosstown-traffic
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-credit-check-walkthrough/ }
+  status: referencia
+- id: missao:crosstown-traffic
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Crosstown Traffic
+  personagem: ambos
+  ordem: 47
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:caught-slipping
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-crosstown-traffic-walkthrough/ }
+  status: referencia
+- id: missao:daily-driver
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Daily Driver
+  personagem: lucia
+  ordem: 28
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:moses
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-daily-driver-walkthrough/ }
+  status: referencia
+- id: missao:day-release
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Day Release
+  personagem: ambos
+  ordem: 16
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:clear-skies
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-day-release-walkthrough/ }
+  status: referencia
+- id: missao:dealers-choice
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Dealer's Choice
+  personagem: jason
+  ordem: 35
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:welcome-to-vice-city
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-dealers-choice-walkthrough/ }
+  status: referencia
+- id: missao:delivery-method
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Delivery Method
+  personagem: jason
+  ordem: 79
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:close-surveillance
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:dirty-work
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Dirty Work
+  personagem: ambos
+  ordem: 71
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:amateur-hour
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:discharge-time
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Discharge Time
+  personagem: ambos
+  ordem: 22
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:home-sweet-home
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-discharge-time-walkthrough/ }
+  status: referencia
+- id: missao:doggie-bag
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Doggie Bag
+  personagem: ambos
+  ordem: 88
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:vc-baby
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:don-gone
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Don Gone
+  personagem: jason
+  ordem: 18
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:swamped
+  spoiler: 2
+  dicas:
+    - { texto: O revólver H&L .38 do Donnie fica no porta-malas do carro dele e some durante esta missão., spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-don-gone-walkthrough/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+  status: referencia
+- id: missao:down-to-earth
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Down to Earth
+  personagem: ambos
+  ordem: 14
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:clean-up-after-donnie
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-down-to-earth-walkthrough/ }
+  status: referencia
+- id: missao:dubious-provenance
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Dubious Provenance
+  personagem: ambos
+  ordem: 37
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:meet-the-heders
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-dubious-provenance-walkthrough/ }
+  status: referencia
+- id: missao:feng-shui
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Feng Shui
+  personagem: jason
+  ordem: 10
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:island-dreams
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-feng-shui-walkthrough/ }
+  status: referencia
+- id: missao:first-impressions
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: First Impressions
+  personagem: ambos
+  ordem: 45
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:boobie-time
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-first-impressions-walkthrough/ }
+  status: referencia
+- id: missao:fresh-evidence
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Fresh Evidence
+  personagem: jason
+  ordem: 74
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:adventures-in-babysitting
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:fully-catered
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Fully Catered
+  personagem: ambos
+  ordem: 81
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:team-building
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:gear-up
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Gear Up
+  personagem: jason
+  ordem: 3
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:gone-fishing
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-gear-up-walkthrough/ }
+  status: referencia
+- id: missao:girls-trip
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Girls' Trip
+  personagem: lucia
+  ordem: 26
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:just-moved-in
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-girls-trip-walkthrough/ }
+  status: referencia
+- id: missao:gone-fishing
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Gone Fishing
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:prologue
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-gone-fishing-walkthrough/ }
+  status: referencia
+- id: missao:headliners
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Headliners
+  personagem: ambos
+  ordem: 77
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:childs-play
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:heavy-lifting
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Heavy Lifting
+  personagem: ambos
+  ordem: 65
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:party-hard
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:here-kitty-kitty
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Here, Kitty Kitty
+  personagem: jason
+  ordem: 41
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:tyrone
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-here-kitty-kitty-walkthrough/ }
+  status: referencia
+- id: missao:hey-arnold
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Hey Arnold!
+  personagem: jason
+  ordem: 8
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:pipework
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-hey-arnold-walkthrough/ }
+  status: referencia
+- id: missao:hidden-charges
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Hidden Charges
+  personagem: ambos
+  ordem: 58
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:bricked-up
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:home-sweet-home
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Home Sweet Home
+  personagem: lucia
+  ordem: 21
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:tourist-trap
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-home-sweet-home-walkthrough/ }
+  status: referencia
+- id: missao:island-dreams
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Island Dreams
+  personagem: jason
+  ordem: 9
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:hey-arnold
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-island-dreams-walkthrough/ }
+  status: referencia
+- id: missao:just-a-scratch
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Just a Scratch
+  personagem: jason
+  ordem: 4
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:gear-up
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-just-a-scratch-walkthrough/ }
+  status: referencia
+- id: missao:just-moved-in
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Just Moved In
+  personagem: lucia
+  ordem: 25
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:ambulance-chaser
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-just-moved-in-walkthrough/ }
+  status: referencia
+- id: missao:lab-fees
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Lab Fees
+  personagem: jason
+  ordem: 5
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:just-a-scratch
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-lab-fees-walkthrough/ }
+  status: referencia
+- id: missao:lawyer-up
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Lawyer Up
+  personagem: ambos
+  ordem: 63
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:company-cars
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:making-gainz
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Making Gainz
+  personagem: lucia
+  ordem: 67
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:photo-shoot
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:mami-knows-best
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Mami Knows Best
+  personagem: lucia
+  ordem: 38
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:dubious-provenance
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-mami-knows-best-walkthrough/ }
+  status: referencia
+- id: missao:meet-the-heders
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Meet the Heders
+  personagem: ambos
+  ordem: 36
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:dealers-choice
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-meet-the-heders-walkthrough/ }
+  status: referencia
+- id: missao:moses
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Moses
+  personagem: lucia
+  ordem: 27
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:girls-trip
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-moses-walkthrough/ }
+  status: referencia
+- id: missao:ocean-beach
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Ocean Beach
+  personagem: ambos
+  ordem: 60
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:the-cartel-heist
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:operation-savage-glory
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Operation Savage Glory
+  personagem: ambos
+  ordem: 89
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:doggie-bag
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:party-hard
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Party Hard
+  personagem: ambos
+  ordem: 64
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:lawyer-up
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:photo-shoot
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Photo/Shoot
+  personagem: ambos
+  ordem: 66
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:heavy-lifting
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:pipework
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Pipework
+  personagem: jason
+  ordem: 7
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:unwanted-attention
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-pipework-walkthrough/ }
+  status: referencia
+- id: missao:power-play
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Power Play
+  personagem: lucia
+  ordem: 75
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:fresh-evidence
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:prologue
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Prologue
+  personagem: lucia
+  ordem: 1
+  capitulo_referencia: 0
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-prologue-walkthrough/ }
+  status: referencia
+- id: missao:protective-custody
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Protective Custody
+  personagem: ambos
+  ordem: 90
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:operation-savage-glory
+  spoiler: 2
+  dicas:
+    - { texto: "Missões finais em sequência até os créditos, sem free roam; o jogo pede confirmação antes. Não confirmado se esta e The End of the Road são finais alternativos.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+  status: referencia
+- id: missao:recalibration
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Recalibration
+  personagem: jason
+  ordem: 19
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:don-gone
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-recalibration-walkthrough/ }
+  status: referencia
+- id: missao:ride-or-die
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Ride or Die
+  personagem: jason
+  ordem: 52
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:security-expert
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-ride-or-die-walkthrough/ }
+  status: referencia
+- id: missao:safe-word
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Safe Word
+  personagem: ambos
+  ordem: 55
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:the-missing-link
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:security-expert
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Security Expert
+  personagem: ambos
+  ordem: 51
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:sinfrontera-national-bank
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-security-expert-walkthrough/ }
+  status: referencia
+- id: missao:sinfrontera-national-bank
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Sinfrontera National Bank
+  personagem: ambos
+  ordem: 50
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:clonin-keys-makin-gs
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-sinfrontera-national-bank-walkthrough/ }
+  status: referencia
+- id: missao:slam-dunk
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Slam Dunk
+  personagem: lucia
+  ordem: 29
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:daily-driver
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-slam-dunk-walkthrough/ }
+  status: referencia
+- id: missao:south-leonida-real-estate
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: South Leonida Real Estate
+  personagem: lucia
+  ordem: 39
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:mami-knows-best
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-south-leonida-real-estate-walkthrough/ }
+  status: referencia
+- id: missao:starting-from-zero
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Starting From Zero
+  personagem: ambos
+  ordem: 84
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:sunset
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:sunset
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Sunset
+  personagem: ambos
+  ordem: 83
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:vcia-takedown
+  spoiler: 2
+  dicas:
+    - { texto: "Leva ao capítulo 5 e à escolha de final do capítulo 4, sem replay. Um guia cita Starting From Zero como o ponto sem retorno.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+  status: referencia
+- id: missao:swamped
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Swamped
+  personagem: jason
+  ordem: 17
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:day-release
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-swamped-walkthrough/ }
+  status: referencia
+- id: missao:taking-liberties
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Taking Liberties
+  personagem: ambos
+  ordem: 86
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:bird-in-the-hand
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:team-building
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Team Building
+  personagem: lucia
+  ordem: 80
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:delivery-method
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:the-cartel-heist
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: The Cartel Heist
+  personagem: ambos
+  ordem: 59
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:hidden-charges
+  spoiler: 2
+  dicas:
+    - { texto: "Ao concluir, um guia cita a perda de duas revistas no apartamento de Bayside e da ligação do Halifax (partes 2 e 3 de Dubious Provenance). Outro diz que nada se perde.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+  status: referencia
+- id: missao:the-end-of-the-road
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: The End of the Road
+  personagem: ambos
+  ordem: 91
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:protective-custody
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:the-missing-link
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: The Missing Link
+  personagem: lucia
+  ordem: 54
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:company-property
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:too-much-baggage
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Too Much Baggage
+  personagem: jason
+  ordem: 72
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:dirty-work
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:top-billing
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Top Billing
+  personagem: ambos
+  ordem: 43
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:car-service
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-top-billing-walkthrough/ }
+  status: referencia
+- id: missao:tourist-trap
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Tourist Trap
+  personagem: ambos
+  ordem: 20
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:recalibration
+  spoiler: 2
+  dicas:
+    - { texto: "Ponto sem retorno do capítulo 1. Ao iniciar, você perde o dinheiro em mãos e na conta corrente (só Family Savings passa), a casa em Key Lento, o Ganado, as missões da Shirley e os itens da casa do Jason.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-tourist-trap-walkthrough/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+  status: referencia
+- id: missao:tyrone
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Tyrone
+  personagem: jason
+  ordem: 40
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:south-leonida-real-estate
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions, obs: "Em PowerPyx e GTABase aparece como objetivo de Here, Kitty Kitty, não como missão separada." }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-tyrone-walkthrough/ }
+  status: referencia
+- id: missao:unwanted-attention
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Unwanted Attention
+  personagem: jason
+  ordem: 6
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:lab-fees
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-unwanted-attention-walkthrough/ }
+  status: referencia
+- id: missao:vc-baby
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: VC Baby
+  personagem: ambos
+  ordem: 87
+  capitulo_referencia: 5
+  requer:
+    concluido: missao:taking-liberties
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:vcia-takedown
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: VCIA Takedown
+  personagem: ambos
+  ordem: 82
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:fully-catered
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:watch-it
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Watch It
+  personagem: jason
+  ordem: 68
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:making-gainz
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+  status: referencia
+- id: missao:welcome-to-vice-city
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: Welcome to Vice City
+  personagem: ambos
+  ordem: 34
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:checking-out
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-welcome-to-vice-city-walkthrough/ }
+  status: referencia
+- id: missao:whats-in-the-bag
+  tipo: missao
+  subtipo: principal
+  categoria: missoes-principais
+  nome: What's in the Bag?
+  personagem: ambos
+  ordem: 23
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:discharge-time
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "GTAbites: mission list", url: https://www.gtabites.com/missions }
+    - { tipo: referencia, nome: "Dexerto: GTA 6 mission list", url: https://www.dexerto.com/wikis/gta-6/mission-list/ }
+    - { tipo: referencia, nome: "GTABase: missions", url: https://www.gtabase.com/missions/gta-6/ }
+    - { tipo: referencia, nome: "Vice Atlas: walkthrough", url: https://www.vice-atlas.com/briefings/gta6-whats-in-the-bag-walkthrough/ }
+  status: referencia

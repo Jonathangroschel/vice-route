@@ -1,0 +1,13 @@
+id: CO-REAL-03
+descricao: Catálogo real, antes de Checking Out; o gatilho da missão oculta do Alvan herda a urgência
+catalogo: real
+estado: { ultimaPrincipal: 'missao:afternoon-delight', tetoSpoiler: 1 }
+espera:
+  em_risco: ['gatilho:cartaz-pessoas-desaparecidas']
+  posicao_em_proximos: { 'gatilho:cartaz-pessoas-desaparecidas': 3, 'item:cartas-042': 3 }
+  motivo: { 'gatilho:cartaz-pessoas-desaparecidas': DESTRAVA }
+  antes_de_avancar:
+    missao: 'missao:checking-out'
+    ao_iniciar: ['item:cartas-042', "missao:alvan-gellhorns-missing-tourists"]
+  texto_nao_contem: ['Checking Out', "Gellhorn's Missing Tourists"]
+  texto_contem: ['uma missão do capítulo 2']

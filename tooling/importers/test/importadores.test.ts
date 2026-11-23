@@ -102,6 +102,17 @@ describe('mesclar (spec 002 H2)', () => {
     expect(n.dicas).toEqual(curado.dicas)
   })
 
+  it('atualiza a própria fonte no lugar, sem reordenar fontes de curadoria', () => {
+    const primeira = mesclar('x', [], [item('a')], new Set())
+    const curado: NoEntrada = {
+      ...primeira.nos[0]!,
+      fontes: [{ tipo: 'referencia', nome: 'Guia', url: 'https://guia.org' }, fonte],
+    }
+    const nova = { ...fonte, commit: 'def5678' }
+    const segunda = mesclar('x', [curado], [{ ...item('a'), fonte: nova }], new Set())
+    expect(segunda.nos[0]!.fontes).toEqual([curado.fontes[0], nova])
+  })
+
   it('nunca remove itens ausentes na fonte (CO-002-05)', () => {
     const primeira = mesclar('x', [], [item('a'), item('b')], new Set())
     const segunda = mesclar('x', primeira.nos, [item('a')], new Set(['b']))

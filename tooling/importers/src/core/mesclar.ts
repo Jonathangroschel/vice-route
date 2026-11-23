@@ -72,10 +72,11 @@ export function mesclar(
   for (const it of ordenados) {
     vistos.add(it.id_fonte)
     const anterior = porChave.get(it.id_fonte)
-    const fontes = (anteriores: Fonte[] = []) => [
-      ...anteriores.filter((f) => f.nome !== it.fonte.nome),
-      it.fonte,
-    ]
+    // Atualiza a entrada desta fonte no lugar (sem reordenar as fontes de curadoria)
+    const fontes = (anteriores: Fonte[] = []) =>
+      anteriores.some((f) => f.nome === it.fonte.nome)
+        ? anteriores.map((f) => (f.nome === it.fonte.nome ? it.fonte : f))
+        : [...anteriores, it.fonte]
     const posicao = {
       x: it.posicao.x,
       y: it.posicao.y,

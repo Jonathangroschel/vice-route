@@ -494,6 +494,68 @@
   ordem: 36
   total: 91
   regra_100: { tipo: itens, minimo: 91 }
+  duracao_padrao_min: 20
   fontes:
     - { tipo: aberto, nome: "GTA6Maps: 100% Completion Thresholds", url: https://github.com/duanhesen/gta6-leonida-map-data, commit: 1c5977bb9c40, licenca: CC-BY-4.0, data: 2026-11-23 }
     - { tipo: referencia, nome: "PowerPyx: 100% completion checklist", url: https://www.powerpyx.com/gta-6-100-completion-checklist/ }
+- id: missoes-secundarias
+  nome: Missões secundárias
+  nome_original: Strangers & Freaks and side questlines
+  grupo: missoes
+  cor: "#e0aaff"
+  ordem: 37
+  total: null
+  regra_100: { tipo: nenhuma }
+  conjuntos:
+    - id: shirley
+      nome: Shirley
+    - id: kenton
+      nome: Kenton Rees
+    - id: cal
+      nome: Cal
+    - id: kirk
+      nome: Kirk
+    - id: kyle
+      nome: Kyle McKittrick
+    - id: alvan
+      nome: Alvan West
+    - id: moses
+      nome: Moses
+    - id: bret
+      nome: Bret Vogel
+    - id: billy
+      nome: Billy
+    - id: yago
+      nome: Yago
+    - id: andy
+      nome: Andy (Cellerica)
+    - id: yasmani
+      nome: Yasmani
+    - id: randy
+      nome: Randy
+    - id: tyrone
+      nome: Tyrone
+    - id: dunk
+      nome: Dunk
+    - id: papa-audacity
+      nome: Papa Audacity
+    - id: eddie
+      nome: Eddie Acosta
+    - id: pilot-pete
+      nome: Pilot Pete
+    - id: shayna
+      nome: Shayna
+    - id: freddie
+      nome: Freddie
+    - id: merle
+      nome: Dr. Merle
+    - id: felipe
+      nome: Felipe
+    - id: rusty-anchor
+      nome: Rusty Anchor
+    - id: ovni
+      nome: Contato imediato
+  duracao_padrao_min: 15
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: 100% completion checklist", url: https://www.powerpyx.com/gta-6-100-completion-checklist/ }
+  obs: Troféu Strangers & Freaks pede 8 linhas; as fontes divergem sobre quais contam. Fora dos limiares de 100% do GTA6Maps.

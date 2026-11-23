@@ -1,0 +1,9 @@
+id: CO-REAL-02
+descricao: Catálogo real, Tourist Trap iniciada sem fazer a Shirley nem a meditação
+catalogo: real
+estado: { ultimaPrincipal: 'missao:recalibration', principalEmAndamento: 'missao:tourist-trap' }
+espera:
+  status:
+    'missao:shirley-get-shirleys-rum': perdido
+    'missao:shirley-steal-the-scooter': perdido
+    'item:meditacao-002': perdido

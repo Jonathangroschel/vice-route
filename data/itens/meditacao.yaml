@@ -25,8 +25,14 @@
     - { texto: "Chapter 1 only (missable): after a morning talk in the kitchen, follow Lucia to the balcony with the training equipment and accept her offer to meditate. Counts as 1 of the 18 meditations.", spoiler: 1 }
   fontes:
     - { tipo: aberto, nome: Open GTA 6 Map, url: https://github.com/fbritoferreira/gta6, commit: 8e1c0aa100bf, licenca: CC-BY-4.0 }
+    - { tipo: referencia, nome: "PowerPyx: meditation spots", url: https://www.powerpyx.com/gta-6-all-meditation-spot-locations/, obs: "Necessária para o troféu Positive Mental Attitude: contestado. 15 de 18 meditações bastam para 100%." }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
   ids_fonte: { open-gta6-map: meditation-002 }
   status: nao_confirmado
+  disponivel_desde: { missao: missao:down-to-earth, momento: conclusao }
+  perdivel_apos: { missao: missao:tourist-trap, momento: inicio }
 - id: item:meditacao-003
   tipo: item
   subtipo: colecionavel

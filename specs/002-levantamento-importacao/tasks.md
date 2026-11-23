@@ -36,9 +36,9 @@ Regras: cada tarefa cabe em um PR pequeno, cita a história que atende e tem ver
 ## Fase D: levantamento manual (H4, H5)
 
 - [ ] T13 Guia de levantamento no CONTRIBUTING.md: formato, fontes aceitas, níveis de spoiler, janelas, exemplos (H4.5). Verificação: revisão do curador.
-- [ ] T14 Transcrição das missões principais com ordem, capítulo e fontes (H4.1). Verificação: `catalog:check` verde e 100% com fonte.
-- [ ] T15 [P] Transcrição de secundárias e ocultas com gatilhos (H4.2). Verificação: nenhuma oculta sem gatilho ou `requer`.
-- [ ] T16 [P] Janelas e perdíveis a partir de guias de perdíveis (H4.3). Verificação: `NASCE_PERDIDO` não dispara; perdíveis com fonte.
+- [x] T14 Transcrição das missões principais com ordem, capítulo e fontes (H4.1). Verificação: `catalog:check` verde e 100% com fonte. _(23/11: 91 principais por `pnpm levantamento:missoes`, a partir de `src/levantamento/principais.tsv`.)_
+- [x] T15 [P] Transcrição de secundárias e ocultas com gatilhos (H4.2). Verificação: nenhuma oculta sem gatilho ou `requer`. _(23/11: 45 secundárias em 23 linhas, 8 ocultas, 8 gatilhos.)_
+- [ ] T16 [P] Janelas e perdíveis a partir de guias de perdíveis (H4.3). Verificação: `NASCE_PERDIDO` não dispara; perdíveis com fonte. _(23/11: parcial: 5 pontos sem retorno, 10 itens e 7 missões perdíveis; pendências em docs/02 §1.7.)_
 - [ ] T17 Tabela de durações padrão e comando `import:duracoes` (H5). Verificação: relatório de cobertura sem nós sem duração.
 
 ## Fase E: outras fontes (H6)

@@ -1,0 +1,15 @@
+id: CO-REAL-01
+descricao: Catálogo real, antes de Tourist Trap (ponto sem retorno do capítulo 1)
+catalogo: real
+estado: { ultimaPrincipal: 'missao:recalibration', tetoSpoiler: 2 }
+espera:
+  status:
+    'missao:shirley-get-shirleys-rum': disponivel
+    'missao:shirley-steal-the-scooter': bloqueado
+    'item:meditacao-002': disponivel
+  em_risco: ['item:meditacao-002', 'missao:shirley-get-shirleys-rum', 'missao:shirley-steal-the-scooter']
+  posicao_em_proximos: { 'item:meditacao-002': 6, 'missao:shirley-get-shirleys-rum': 6 }
+  antes_de_avancar:
+    missao: 'missao:tourist-trap'
+    ao_iniciar: ['item:meditacao-002', 'item:revistas-livros-050', 'missao:shirley-get-shirleys-rum', 'missao:shirley-steal-the-scooter']
+  motivo: { 'item:meditacao-002': PERDIVEL_EM }

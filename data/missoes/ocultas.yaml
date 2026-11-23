@@ -1,2 +1,174 @@
-# Levantamento assistido em andamento (docs/02 §3).
-[]
+# Missões ocultas: só aparecem depois de um gatilho (gatilhos.yaml).
+# Primeira passada gerada por pnpm levantamento:missoes (pesquisa de 23/11/2026). A partir daqui, edite à mão.
+
+- id: missao:alvan-gellhorns-missing-tourists
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: alvan
+  nome: Gellhorn's Missing Tourists
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:whats-in-the-bag, momento: inicio }
+  perdivel_apos: { missao: missao:checking-out, momento: inicio }
+  requer:
+    concluido: gatilho:cartaz-pessoas-desaparecidas
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/, obs: Perda em Checking Out citada só por outputlag (confiança baixa). }
+    - { tipo: referencia, nome: "PowerPyx: Gellhorn’s Missing Tourists", url: https://www.powerpyx.com/gta-6-gellhorns-missing-tourists-walkthrough/ }
+    - { tipo: referencia, nome: "Beebom: missing persons quest", url: https://beebom.com/gta-6-serial-killer-missing-persons-quest/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+  status: referencia
+- id: missao:freddie-retest-freddies-defenses
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: freddie
+  nome: Retest Freddie's Defenses
+  personagem: ambos
+  ordem: 1
+  requer:
+    concluido: gatilho:invadir-complexo-do-freddie
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: Retest Freddie’s Defenses", url: https://www.powerpyx.com/gta-6-retest-freddies-defenses-walkthrough/ }
+  status: referencia
+- id: missao:kirk-search-for-the-skunk-ape
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: kirk
+  nome: Search for the Skunk Ape
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 1
+  disponivel_desde: { missao: missao:gone-fishing, momento: inicio }
+  requer:
+    concluido: gatilho:panfleto-do-kirk
+  condicoes_momento:
+    - horario:
+        de: 20
+        ate: 5
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:kyle-check-out-mckittrick-farm
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: kyle
+  nome: Check Out McKittrick Farm
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:ambulance-chaser, momento: conclusao }
+  requer:
+    concluido: gatilho:panfleto-do-kyle
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:merle-the-final-flush
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: merle
+  nome: The Final Flush
+  personagem: ambos
+  ordem: 1
+  requer:
+    concluido: gatilho:cartaz-no-flushers
+  condicoes_momento:
+    - livre: Sozinho
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: The Final Flush", url: https://www.powerpyx.com/gta-6-the-final-flush-meet-at-franks-waffles-walkthrough/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:ovni-the-truth-is-out-there
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: ovni
+  nome: The Truth Is Out There
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:whats-in-the-bag, momento: inicio }
+  requer:
+    concluido: gatilho:carro-abandonado-piscando
+  condicoes_momento:
+    - horario:
+        de: 2
+        ate: 5
+    - livre: Sozinho; o carro abandonado aparece aleatoriamente
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: UFO abduction", url: https://www.powerpyx.com/?p=375488, obs: Encontro que dá o troféu The Truth Is Out There. }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:papa-audacity-the-unknown-stuntman
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: papa-audacity
+  nome: The Unknown Stuntman
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:welcome-to-vice-city, momento: inicio }
+  requer:
+    concluido: gatilho:cartaz-do-duble
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: The Unknown Stuntman", url: https://www.powerpyx.com/gta-6-the-unknown-stuntman-walkthrough/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: missao:shayna-this-is-a-free-call-from
+  tipo: missao
+  subtipo: oculta
+  categoria: missoes-secundarias
+  conjunto: shayna
+  nome: This is a Free Call From...
+  personagem: lucia
+  ordem: 1
+  capitulo_referencia: 4
+  disponivel_desde: { missao: missao:childs-play, momento: conclusao }
+  requer:
+    concluido: gatilho:dirigir-perto-de-hamlet
+  condicoes_momento:
+    - livre: "Tempo limitado (ampulheta): só com a Lucia"
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Missão com tempo limitado; pode afetar o troféu Strangers & Freaks., spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+  status: referencia

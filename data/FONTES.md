@@ -16,7 +16,8 @@ Créditos curtos para o canto do mapa: "Dados: Open GTA 6 Map e GTA6Maps (CC BY 
 Usadas para conferência e levantamento assistido, sempre com link em `fontes[]` do nó (RF-002-16):
 
 - [Vice Atlas](https://www.vice-atlas.com/): posição dos rótulos do mapa da Rockstar, usada para calcular os pontos de controle da transformação afim (`tooling/importers/src/open-gta6-map/controle.yaml`); detonados de missões
-- [PowerPyx](https://www.powerpyx.com/): checklist de 100%, detonado completo, Strangers & Freaks
+- [PowerPyx](https://www.powerpyx.com/): checklist de 100%, detonado completo, Strangers & Freaks, meditações
+- Listas de missões: [gtabites](https://www.gtabites.com/missions), [Dexerto](https://www.dexerto.com/wikis/gta-6/mission-list/), [KeenGamer](https://www.keengamer.com/articles/guides/gta-6-walkthrough-all-chapters-and-story-missions-in-order/), [GTABase](https://www.gtabase.com/missions/gta-6/); missões secundárias: outputlag, retrobroker, games.gg. Só fatos (nomes, ordem, capítulo, personagem, gatilhos), sem copiar texto
 - Guias de perdíveis e pontos sem retorno listados em [docs/02-dados-referencias.md](../docs/02-dados-referencias.md) §1.4
 
 ## Imagem-base

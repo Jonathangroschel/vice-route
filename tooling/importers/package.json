@@ -8,7 +8,8 @@
     "test": "vitest run",
     "controle": "tsx src/open-gta6-map/controle.ts",
     "limiares": "tsx src/limiares/importar.ts",
-    "open-gta6-map": "tsx src/open-gta6-map/importar.ts"
+    "open-gta6-map": "tsx src/open-gta6-map/importar.ts",
+    "levantamento:missoes": "tsx src/levantamento/gerar-missoes.ts"
   },
   "dependencies": {
     "@vice-route/catalog-build": "workspace:*",

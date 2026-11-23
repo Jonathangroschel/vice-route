@@ -1,2 +1,133 @@
-# Levantamento assistido em andamento (docs/02 §3).
-[]
+# Gatilhos: ações sem marcador no jogo que liberam missões ocultas.
+# Primeira passada gerada por pnpm levantamento:missoes (pesquisa de 23/11/2026). A partir daqui, edite à mão.
+
+- id: gatilho:carro-abandonado-piscando
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Carro abandonado com luzes piscando
+  capitulo_referencia: 2
+  condicoes_momento:
+    - horario:
+        de: 2
+        ate: 5
+    - livre: Sozinho; o carro abandonado aparece aleatoriamente
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Achar um carro abandonado com luzes piscando na estrada de terra a noroeste do Starlet Motel e seguir a trilha de roupas até a luz azul, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: UFO abduction", url: https://www.powerpyx.com/?p=375488 }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: gatilho:cartaz-do-duble
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Cartaz do dublê
+  capitulo_referencia: 3
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Ler o cartaz do dublê (saguão do Bayside ou quadro de avisos do apartamento de Crosstown) e falar com o dublê de branco no parque ao sul de Ocean Beach, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: The Unknown Stuntman", url: https://www.powerpyx.com/gta-6-the-unknown-stuntman-walkthrough/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: gatilho:cartaz-no-flushers
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Cartaz No Flusher
+  condicoes_momento:
+    - livre: Sozinho
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Escanear um cartaz "No Flusher" perto de banheiros e responder TRUTH à mensagem do movimento, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: The Final Flush", url: https://www.powerpyx.com/gta-6-the-final-flush-meet-at-franks-waffles-walkthrough/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: gatilho:cartaz-pessoas-desaparecidas
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Cartaz de pessoas desaparecidas
+  capitulo_referencia: 2
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Examinar um cartaz de pessoas desaparecidas (Starlet Motel ou 247 de Port Gellhorn) para ganhar o contato da linha de denúncias, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: Gellhorn’s Missing Tourists", url: https://www.powerpyx.com/gta-6-gellhorns-missing-tourists-walkthrough/ }
+    - { tipo: referencia, nome: "Beebom: missing persons quest", url: https://beebom.com/gta-6-serial-killer-missing-persons-quest/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+  status: referencia
+- id: gatilho:dirigir-perto-de-hamlet
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Dirigir perto de Hamlet com a Lucia
+  capitulo_referencia: 4
+  condicoes_momento:
+    - livre: "Tempo limitado (ampulheta): só com a Lucia"
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Dirigir perto de Hamlet com a Lucia; a Shayna manda mensagem pedindo carona, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+  status: referencia
+- id: gatilho:invadir-complexo-do-freddie
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Invadir o complexo do Freddie
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: "Invadir por conta própria o complexo do Freddie, ao norte do Lake Leonida; ele manda mensagem alguns dias depois", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: Retest Freddie’s Defenses", url: https://www.powerpyx.com/gta-6-retest-freddies-defenses-walkthrough/ }
+  status: referencia
+- id: gatilho:panfleto-do-kirk
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Panfleto do Kirk
+  capitulo_referencia: 1
+  condicoes_momento:
+    - horario:
+        de: 20
+        ate: 5
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Ler o panfleto do Kirk (Rusty Anchor em Key Lento ou Skeeter’s em Hamlet) e ligar para ele, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: gatilho:panfleto-do-kyle
+  tipo: gatilho
+  subtipo: gatilho
+  nome: Anúncio de piloto no Starlet Motel
+  capitulo_referencia: 2
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Ler o anúncio de piloto de pulverização na recepção do Starlet Motel, spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia

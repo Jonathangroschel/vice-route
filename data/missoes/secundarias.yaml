@@ -1,2 +1,814 @@
-# Levantamento assistido em andamento (docs/02 §3).
-[]
+# Missões secundárias: Strangers & Freaks e outras linhas (conjunto = linha).
+# Primeira passada gerada por pnpm levantamento:missoes (pesquisa de 23/11/2026). A partir daqui, edite à mão.
+
+- id: missao:alvan-missing-person
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: alvan
+  nome: Missing Person
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 2
+  perdivel_apos: { missao: missao:checking-out, momento: inicio }
+  requer:
+    concluido: missao:alvan-gellhorns-missing-tourists
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: Gellhorn’s Missing Tourists", url: https://www.powerpyx.com/gta-6-gellhorns-missing-tourists-walkthrough/ }
+    - { tipo: referencia, nome: "Beebom: missing persons quest", url: https://beebom.com/gta-6-serial-killer-missing-persons-quest/ }
+  status: referencia
+- id: missao:andy-climbing-the-cellerichain
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: andy
+  nome: Climbing the Cellerichain
+  personagem: lucia
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:top-billing, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:andy-pay-the-cellerica-fee
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: andy
+  nome: Pay the Cellerica Fee
+  personagem: lucia
+  ordem: 2
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:andy-climbing-the-cellerichain
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:andy-peach
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: andy
+  nome: Peach!
+  personagem: lucia
+  ordem: 3
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:andy-pay-the-cellerica-fee
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:andy-puff-puff-pass
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: andy
+  nome: Puff Puff Pass
+  personagem: lucia
+  ordem: 5
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:andy-read-the-label
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:andy-read-the-label
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: andy
+  nome: Read the Label
+  personagem: lucia
+  ordem: 4
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:andy-peach
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:billy-hometown-heroes
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: billy
+  nome: Hometown Heroes
+  personagem: ambos
+  ordem: 5
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:billy-the-impaler
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:billy-mall-rats
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: billy
+  nome: Mall Rats
+  personagem: ambos
+  ordem: 3
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:the-missing-link, momento: conclusao }
+  requer:
+    concluido: missao:billy-twist-wrist-smash-grab
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/, obs: Capítulo 2 ou 3 conforme a fonte. }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:billy-the-impaler
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: billy
+  nome: The Impaler
+  personagem: ambos
+  ordem: 4
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:billy-mall-rats
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:billy-thrillbillies
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: billy
+  nome: Thrillbillies
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:coffee-break, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:billy-twist-wrist-smash-grab
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: billy
+  nome: Twist Wrist, Smash, Grab
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:billy-thrillbillies
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+  status: referencia
+- id: missao:bret-brets-hunting-decks
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: bret
+  nome: Bret's Hunting Decks
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:bret-veteran-hunted
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: 15 baralhos de alvos; contam para 100% (caçadas do Bret)., spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: missao:bret-veteran-hunted
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: bret
+  nome: Veteran Hunted
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:coffee-break, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:cal-catch-a-bigger-fish
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: cal
+  nome: Catch a Bigger Fish
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 1
+  disponivel_desde: { missao: missao:feng-shui, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: "O Cal pode sumir por um tempo durante a história, mas volta; dá para terminar depois.", spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:dunk-dunks-robbery-tips
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: dunk
+  nome: Dunk's Robbery Tips
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:welcome-to-vice-city, momento: inicio }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/, obs: Fontes divergem se é missão ou só uma série de dicas. }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: missao:eddie-attend-eddie-acostas-party
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: eddie
+  nome: Attend Eddie Acosta's Party
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 4
+  disponivel_desde: { missao: missao:ocean-beach, momento: inicio }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:felipe-bad-driver
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: felipe
+  nome: Bad Driver!
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 4
+  disponivel_desde: { missao: missao:party-hard, momento: conclusao }
+  perdivel_apos: { missao: missao:power-play, momento: inicio }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+    - { tipo: referencia, nome: "vifieldguide: missables", url: https://vifieldguide.com/guides/missables/ }
+  status: referencia
+- id: missao:kenton-maritime-disputes
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: kenton
+  nome: Maritime Disputes
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:kenton-search-the-dive-sites
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/, obs: Capítulo divergente (1 a 3 conforme a fonte). }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:kenton-search-the-dive-sites
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: kenton
+  nome: Search the Dive Sites
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 1
+  disponivel_desde: { missao: missao:island-dreams, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/, obs: Kenton some depois do capítulo 1 e volta entre os capítulos 2 e 3. }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:kirk-help-kirk-find-mr-mangrove
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: kirk
+  nome: Help Kirk Find Mr. Mangrove
+  personagem: lucia
+  ordem: 3
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:kirk-search-for-tree-effigies
+  condicoes_momento:
+    - horario:
+        de: 20
+        ate: 5
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Só termina no capítulo 2., spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:kirk-search-for-tree-effigies
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: kirk
+  nome: Search for Tree Effigies
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 1
+  requer:
+    concluido: missao:kirk-search-for-the-skunk-ape
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:kyle-buddy
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: kyle
+  nome: Buddy?
+  personagem: ambos
+  ordem: 3
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:boobie-time, momento: conclusao }
+  requer:
+    concluido: missao:kyle-collect-chemicals-for-kyle
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/, obs: Capítulo 2 ou 3 conforme a fonte. }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: missao:kyle-collect-chemicals-for-kyle
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: kyle
+  nome: Collect Chemicals for Kyle
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:slam-dunk, momento: conclusao }
+  requer:
+    concluido: missao:kyle-check-out-mckittrick-farm
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:moses-collect-moses-gift
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: moses
+  nome: Collect Moses' Gift
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 2
+  requer:
+    concluido: missao:moses-steal-vehicles-for-moses
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:moses-steal-vehicles-for-moses
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: moses
+  nome: Steal Vehicles for Moses
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 2
+  disponivel_desde: { missao: missao:moses, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:papa-audacity-trial-by-tire
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: papa-audacity
+  nome: Trial by Tire
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:papa-audacity-the-unknown-stuntman
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:pilot-pete-backseat-pilot
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: pilot-pete
+  nome: Backseat Pilot
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:pilot-pete-passing-the-torch
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:pilot-pete-deliver-packages
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: pilot-pete
+  nome: Deliver Packages
+  personagem: jason
+  ordem: 5
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:pilot-pete-petes-deliveries-avery-allen-co
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:pilot-pete-passing-the-torch
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: pilot-pete
+  nome: Passing the Torch
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 4
+  disponivel_desde: { missao: missao:ocean-beach, momento: inicio }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:pilot-pete-petes-deliveries-avery-allen-co
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: pilot-pete
+  nome: "Pete's Deliveries: Avery Allen & Co."
+  personagem: jason
+  ordem: 4
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:pilot-pete-petes-deliveries-southpoint-airfield
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:pilot-pete-petes-deliveries-southpoint-airfield
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: pilot-pete
+  nome: "Pete's Deliveries: Southpoint Airfield"
+  personagem: jason
+  ordem: 3
+  capitulo_referencia: 4
+  requer:
+    concluido: missao:pilot-pete-backseat-pilot
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:randy-randys-wish-list
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: randy
+  nome: Randy's Wish List
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:clonin-keys-makin-gs, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: 16 carros encomendados pelo Randy., spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: missao:rusty-anchor-ring-the-bell
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: rusty-anchor
+  nome: Ring the Bell!
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 1
+  disponivel_desde: { missao: missao:gone-fishing, momento: inicio }
+  perdivel_apos: { missao: missao:swamped, momento: inicio }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/, obs: Citada por uma fonte só (confiança baixa). }
+  status: referencia
+- id: missao:shirley-get-shirleys-rum
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: shirley
+  nome: Get Shirley's Rum
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 1
+  disponivel_desde: { missao: missao:unwanted-attention, momento: conclusao }
+  perdivel_apos: { missao: missao:tourist-trap, momento: inicio }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/, obs: "Fontes divergem: libera antes ou depois de Pipework." }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+  status: referencia
+- id: missao:shirley-steal-the-scooter
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: shirley
+  nome: Steal the Scooter
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 1
+  perdivel_apos: { missao: missao:tourist-trap, momento: inicio }
+  requer:
+    concluido: missao:shirley-get-shirleys-rum
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+    - { tipo: referencia, nome: "vicemissions: points of no return", url: https://vicemissions.com/guides/points-of-no-return }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+  status: referencia
+- id: missao:tyrone-spin-on-this
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: tyrone
+  nome: Spin On This
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:tyrone-take-out-kitty-litter
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+  status: referencia
+- id: missao:tyrone-take-out-kitty-litter
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: tyrone
+  nome: Take Out Kitty Litter
+  personagem: jason
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:here-kitty-kitty, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:yago-brother-to-brother
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yago
+  nome: Brother to Brother
+  personagem: jason
+  ordem: 4
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:the-missing-link, momento: conclusao }
+  requer:
+    concluido: missao:yago-race-against-yago
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:yago-bumper-to-bumper
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yago
+  nome: Bumper to Bumper
+  personagem: jason
+  ordem: 2
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:meet-the-heders, momento: conclusao }
+  requer:
+    concluido: missao:yago-join-a-street-race
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:yago-join-a-street-race
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yago
+  nome: Join a Street Race
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:dealers-choice, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+    - { tipo: referencia, nome: "retrobroker: S&F walkthrough", url: https://retrobroker.com/en-US/us/blog/gta-6-strangers-and-freaks-walkthrough }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:yago-race-against-yago
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yago
+  nome: Race Against Yago
+  personagem: jason
+  ordem: 3
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:yago-bumper-to-bumper
+  condicoes_momento:
+    - livre: "Tempo limitado (ampulheta): faça assim que aparecer"
+  conta_para_100: false
+  spoiler: 2
+  dicas:
+    - { texto: Missão com tempo limitado; deixar expirar pode travar as próximas do Yago e o troféu Strangers & Freaks., spoiler: 2 }
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "Game Checklists: missables", url: https://game-checklists.com/gta6/guides/missables/ }
+    - { tipo: referencia, nome: "outputlag: missables", url: https://outputlag.com/guides/gta-6-missables/ }
+  status: referencia
+- id: missao:yasmani-tail-the-security-van
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yasmani
+  nome: Tail the Security Van
+  personagem: ambos
+  ordem: 4
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:yasmani-yasmanis-payday-loans-jobs
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:yasmani-yasmanis-atm-jobs
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yasmani
+  nome: Yasmani's ATM Jobs
+  personagem: ambos
+  ordem: 2
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:yasmani-yasmanis-jewelry-jobs
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia
+- id: missao:yasmani-yasmanis-jewelry-jobs
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yasmani
+  nome: Yasmani's Jewelry Jobs
+  personagem: ambos
+  ordem: 1
+  capitulo_referencia: 3
+  disponivel_desde: { missao: missao:meet-the-heders, momento: conclusao }
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "PowerPyx: full walkthrough", url: https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/ }
+    - { tipo: referencia, nome: "outputlag: side missions", url: https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/ }
+  status: referencia
+- id: missao:yasmani-yasmanis-payday-loans-jobs
+  tipo: missao
+  subtipo: secundaria
+  categoria: missoes-secundarias
+  conjunto: yasmani
+  nome: Yasmani's Payday Loans Jobs
+  personagem: ambos
+  ordem: 3
+  capitulo_referencia: 3
+  requer:
+    concluido: missao:yasmani-yasmanis-atm-jobs
+  conta_para_100: false
+  spoiler: 2
+  fontes:
+    - { tipo: referencia, nome: "PowerPyx: Strangers & Freaks", url: https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/ }
+    - { tipo: referencia, nome: "GTABase: strangers missions", url: https://www.gtabase.com/gta-6/strangers-missions/ }
+  status: referencia

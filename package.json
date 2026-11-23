@@ -17,7 +17,8 @@
     "catalog:report": "pnpm --filter @vice-route/catalog-build run report",
     "import:controle": "pnpm --filter @vice-route/importers run controle",
     "import:limiares": "pnpm --filter @vice-route/importers run limiares",
-    "import:open-gta6-map": "pnpm --filter @vice-route/importers run open-gta6-map"
+    "import:open-gta6-map": "pnpm --filter @vice-route/importers run open-gta6-map",
+    "levantamento:missoes": "pnpm --filter @vice-route/importers run levantamento:missoes"
   },
   "devDependencies": {
     "@types/node": "^24.19.2",

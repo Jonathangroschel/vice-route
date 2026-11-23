@@ -135,6 +135,28 @@ Capítulos: prólogo (Vice-Dale), 1 *Just Like Paradise* (~22 missões, Leonida 
 - WAiNK: 100 / 100 contra ~112 escaneáveis.
 - Missões principais por capítulo: os guias contam de jeitos diferentes (22/11/26/25/7 contra 25/18/31/34/10).
 
+### 1.7 Levantamento de missões (23/11/2026)
+
+Feito com pesquisa assistida em guias públicos e gravado por `pnpm levantamento:missoes` (primeira passada; depois disso o YAML é editado à mão). Cada nó cita as próprias fontes.
+
+| O quê | No catálogo | Base |
+|---|---:|---|
+| Missões principais | 91, em ordem, com capítulo e personagem | Lista idêntica em gtabites, Dexerto e KeenGamer; personagem por Vice Atlas, GTABase e PowerPyx |
+| Missões secundárias | 45 em 23 linhas (Strangers & Freaks e outras) | PowerPyx, outputlag, GTABase, retrobroker, games.gg |
+| Missões ocultas e gatilhos | 8 ocultas, 8 gatilhos | Freddie, Dr. Merle, Alvan West, Papa Audacity, Kirk, Kyle, Shayna e o encontro com OVNI |
+| Janelas de perda | 4 pontos sem retorno com aviso na missão; 10 itens e 7 missões perdíveis | outputlag, vicemissions, Game Checklists, vifieldguide, PowerPyx |
+
+Pontos sem retorno: *Tourist Trap* (início, cap. 1), *Checking Out* (início, cap. 2; fontes divergem se é na conclusão), *The Cartel Heist* (conclusão, cap. 3; contestado), *Sunset* (cap. 4) e *Protective Custody* (cap. 5). Perdas que não são nós (dinheiro, casa em Key Lento, Ganado) estão como dica na missão que as fecha.
+
+Pendências do levantamento:
+- 91 ou 93 missões principais (duas do Billy aparecem em algumas listas); *Tyrone* pode ser objetivo de *Here, Kitty Kitty*; *Clonin' Keys, Makin' Gs* tem nome alternativo.
+- A ordem está linear; trechos que podem ser feitos em qualquer ordem (cap. 1 #4–7, estratos do Jason e da Lucia nos cap. 3 e 4) ainda não foram modelados.
+- Não confirmado se *Protective Custody* e *The End of the Road* são finais alternativos.
+- Cópias de *Body Copy* e *Off the Hook* na casa do Jason, revistas do Starlet Motel (*Help Me Help You Help Me*, *The Wizard Wang*) e a carta do Victor Maravilla no motel ainda não foram identificadas no catálogo.
+- Missões com tempo limitado (*Race Against Yago*, *This is a Free Call From...*) estão como instrução, sem janela de perda, porque nenhuma fonte dá o prazo.
+- Quais 8 linhas contam para o troféu Strangers & Freaks: fontes divergem; não modelado.
+- Dodo Rising (protestos) ficou de fora: missões sem nome nas fontes.
+
 ## 2. Fontes e nível de confiança
 
 Cada nó e cada aresta do catálogo carrega `fontes[]` e um `status` de confiança.

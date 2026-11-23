@@ -22,9 +22,11 @@ pnpm verify          # formatação, tipos, testes e catalog:check
 | `tooling/importers` | Importadores das fontes abertas e pontos de controle da transformação afim | 002 |
 | `data/` | O catálogo em YAML (fonte da verdade) e `FONTES.md` com créditos | 001, 002 |
 | `golden/catalogo/` | Cenários-ouro do catálogo: `data/` + `esperado.yaml`; também servem de catálogos de teste do motor | 001 |
-| `golden/motor/` | Cenários-ouro do motor: catálogo + estado + asserções | 008 |
+| `golden/motor/` | Cenários-ouro do motor: catálogo de teste ou o catálogo real (`real-*.yaml`) + estado + asserções | 008 |
 
 ## Catálogo
+
+O Turborepo inclui `data/` e `golden/` no hash das tarefas (`globalDependencies`): mudar um dado invalida o cache dos testes.
 
 ```bash
 pnpm catalog:check   # valida e roda os cenários-ouro; é o mesmo passo do CI
@@ -41,6 +43,7 @@ pnpm import:limiares                 # categorias.yaml e capitulos.yaml (GTA6Map
 pnpm import:controle                 # recalcula os pontos de controle da transformação afim
 pnpm import:open-gta6-map --dry-run  # simula e mostra o relatório
 pnpm import:open-gta6-map            # grava data/itens/*.yaml e o relatório
+pnpm levantamento:missoes            # primeira passada de missões, gatilhos e janelas (não sobrescreve sem --forcar)
 ```
 
 - As fontes são baixadas num commit fixado e guardadas em `tooling/importers/cache/` (fora do git). `FONTE_COMMIT=<sha>` fixa a versão manualmente.
